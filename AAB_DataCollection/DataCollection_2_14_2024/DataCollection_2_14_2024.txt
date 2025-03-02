@@ -1,0 +1,10274 @@
+Timestamp,Mode,Data
+
+18:16:41.366,RX,"Differential Pressure values:"
+
+18:16:41.366,RX,"-0.01"
+
+18:16:41.369,RX,"Pressure values:"
+
+18:16:41.369,RX,"9966.90"
+
+18:16:41.516,RX,"Differential Pressure values:"
+
+18:16:41.517,RX,"0.28"
+
+18:16:41.517,RX,"Pressure values:"
+
+18:16:41.517,RX,"9967.20"
+
+18:16:41.665,RX,"Differential Pressure values:"
+
+18:16:41.667,RX,"0.18"
+
+18:16:41.667,RX,"Pressure values:"
+
+18:16:41.667,RX,"9967.10"
+
+18:16:41.816,RX,"Differential Pressure values:"
+
+18:16:41.820,RX,"0.08"
+
+18:16:41.820,RX,"Pressure values:"
+
+18:16:41.820,RX,"9967.00"
+
+18:16:41.965,RX,"Differential Pressure values:"
+
+18:16:41.967,RX,"0.18"
+
+18:16:41.968,RX,"Pressure values:"
+
+18:16:41.968,RX,"9967.10"
+
+18:16:42.085,RX,"Differential Pressure values:"
+
+18:16:42.116,RX,"0.18"
+
+18:16:42.116,RX,"Pressure values:"
+
+18:16:42.117,RX,"9967.10"
+
+18:16:42.235,RX,"Differential Pressure values:"
+
+18:16:42.236,RX,"0.38"
+
+18:16:42.239,RX,"Pressure values:"
+
+18:16:42.239,RX,"9967.30"
+
+18:16:42.385,RX,"Differential Pressure values:"
+
+18:16:42.386,RX,"0.18"
+
+18:16:42.386,RX,"Pressure values:"
+
+18:16:42.387,RX,"9967.10"
+
+18:16:42.505,RX,"Differential Pressure values:"
+
+18:16:42.535,RX,"0.18"
+
+18:16:42.535,RX,"Pressure values:"
+
+18:16:42.536,RX,"9967.10"
+
+18:16:42.686,RX,"Differential Pressure values:"
+
+18:16:42.687,RX,"0.38"
+
+18:16:42.689,RX,"Pressure values:"
+
+18:16:42.690,RX,"9967.30"
+
+18:16:42.836,RX,"Differential Pressure values:"
+
+18:16:42.837,RX,"6.18"
+
+18:16:42.837,RX,"Pressure values:"
+
+18:16:42.837,RX,"9973.10"
+
+18:16:42.985,RX,"Differential Pressure values:"
+
+18:16:43.015,RX,"17.68"
+
+18:16:43.045,RX,"Pressure values:"
+
+18:16:43.046,RX,"9984.60"
+
+18:16:43.166,RX,"Differential Pressure values:"
+
+18:16:43.166,RX,"7.38"
+
+18:16:43.169,RX,"Pressure values:"
+
+18:16:43.169,RX,"9974.30"
+
+18:16:43.343,RX,"Differential Pressure values:"
+
+18:16:43.343,RX,"7.38"
+
+18:16:43.343,RX,"Pressure values:"
+
+18:16:43.343,RX,"9974.30"
+
+18:16:43.467,RX,"Differential Pressure values:"
+
+18:16:43.468,RX,"-4.31"
+
+18:16:43.468,RX,"Pressure values:"
+
+18:16:43.468,RX,"9962.60"
+
+18:16:43.585,RX,"Differential Pressure values:"
+
+18:16:43.615,RX,"-13.21"
+
+18:16:43.615,RX,"Pressure values:"
+
+18:16:43.616,RX,"9953.70"
+
+18:16:43.766,RX,"Differential Pressure values:"
+
+18:16:43.767,RX,"-18.41"
+
+18:16:43.767,RX,"Pressure values:"
+
+18:16:43.767,RX,"9948.50"
+
+18:16:43.916,RX,"Differential Pressure values:"
+
+18:16:43.917,RX,"-14.01"
+
+18:16:43.917,RX,"Pressure values:"
+
+18:16:43.917,RX,"9952.90"
+
+18:16:44.066,RX,"Differential Pressure values:"
+
+18:16:44.067,RX,"-12.71"
+
+18:16:44.067,RX,"Pressure values:"
+
+18:16:44.067,RX,"9954.20"
+
+18:16:44.216,RX,"Differential Pressure values:"
+
+18:16:44.217,RX,"-4.01"
+
+18:16:44.217,RX,"Pressure values:"
+
+18:16:44.217,RX,"9962.90"
+
+18:16:44.366,RX,"Differential Pressure values:"
+
+18:16:44.367,RX,"6.88"
+
+18:16:44.368,RX,"Pressure values:"
+
+18:16:44.368,RX,"9973.80"
+
+18:16:44.516,RX,"Differential Pressure values:"
+
+18:16:44.516,RX,"11.78"
+
+18:16:44.519,RX,"Pressure values:"
+
+18:16:44.519,RX,"9978.70"
+
+18:16:44.666,RX,"Differential Pressure values:"
+
+18:16:44.667,RX,"6.98"
+
+18:16:44.667,RX,"Pressure values:"
+
+18:16:44.667,RX,"9973.90"
+
+18:16:44.816,RX,"Differential Pressure values:"
+
+18:16:44.817,RX,"5.68"
+
+18:16:44.817,RX,"Pressure values:"
+
+18:16:44.817,RX,"9972.60"
+
+18:16:44.966,RX,"Differential Pressure values:"
+
+18:16:44.967,RX,"5.38"
+
+18:16:44.967,RX,"Pressure values:"
+
+18:16:44.967,RX,"9972.30"
+
+18:16:45.116,RX,"Differential Pressure values:"
+
+18:16:45.117,RX,"1.88"
+
+18:16:45.117,RX,"Pressure values:"
+
+18:16:45.117,RX,"9968.80"
+
+18:16:45.266,RX,"Differential Pressure values:"
+
+18:16:45.267,RX,"0.18"
+
+18:16:45.267,RX,"Pressure values:"
+
+18:16:45.267,RX,"9967.10"
+
+18:16:45.416,RX,"Differential Pressure values:"
+
+18:16:45.416,RX,"-1.61"
+
+18:16:45.419,RX,"Pressure values:"
+
+18:16:45.419,RX,"9965.30"
+
+18:16:45.535,RX,"Differential Pressure values:"
+
+18:16:45.565,RX,"-8.31"
+
+18:16:45.565,RX,"Pressure values:"
+
+18:16:45.566,RX,"9958.60"
+
+18:16:45.716,RX,"Differential Pressure values:"
+
+18:16:45.717,RX,"-14.91"
+
+18:16:45.717,RX,"Pressure values:"
+
+18:16:45.717,RX,"9952.00"
+
+18:16:45.866,RX,"Differential Pressure values:"
+
+18:16:45.867,RX,"-18.01"
+
+18:16:45.867,RX,"Pressure values:"
+
+18:16:45.867,RX,"9948.90"
+
+18:16:46.016,RX,"Differential Pressure values:"
+
+18:16:46.017,RX,"-16.71"
+
+18:16:46.017,RX,"Pressure values:"
+
+18:16:46.017,RX,"9950.20"
+
+18:16:46.166,RX,"Differential Pressure values:"
+
+18:16:46.167,RX,"-15.01"
+
+18:16:46.168,RX,"Pressure values:"
+
+18:16:46.168,RX,"9951.90"
+
+18:16:46.285,RX,"Differential Pressure values:"
+
+18:16:46.315,RX,"-15.81"
+
+18:16:46.318,RX,"Pressure values:"
+
+18:16:46.318,RX,"9951.10"
+
+18:16:46.466,RX,"Differential Pressure values:"
+
+18:16:46.467,RX,"-9.91"
+
+18:16:46.467,RX,"Pressure values:"
+
+18:16:46.467,RX,"9957.00"
+
+18:16:46.616,RX,"Differential Pressure values:"
+
+18:16:46.617,RX,"-5.21"
+
+18:16:46.617,RX,"Pressure values:"
+
+18:16:46.617,RX,"9961.70"
+
+18:16:46.766,RX,"Differential Pressure values:"
+
+18:16:46.767,RX,"-4.71"
+
+18:16:46.769,RX,"Pressure values:"
+
+18:16:46.769,RX,"9962.20"
+
+18:16:46.915,RX,"Differential Pressure values:"
+
+18:16:46.917,RX,"3.98"
+
+18:16:46.917,RX,"Pressure values:"
+
+18:16:46.917,RX,"9970.90"
+
+18:16:47.035,RX,"Differential Pressure values:"
+
+18:16:47.065,RX,"8.38"
+
+18:16:47.067,RX,"Pressure values:"
+
+18:16:47.067,RX,"9975.30"
+
+18:16:47.216,RX,"Differential Pressure values:"
+
+18:16:47.216,RX,"12.78"
+
+18:16:47.219,RX,"Pressure values:"
+
+18:16:47.219,RX,"9979.70"
+
+18:16:47.366,RX,"Differential Pressure values:"
+
+18:16:47.367,RX,"12.48"
+
+18:16:47.367,RX,"Pressure values:"
+
+18:16:47.367,RX,"9979.40"
+
+18:16:47.516,RX,"Differential Pressure values:"
+
+18:16:47.517,RX,"9.58"
+
+18:16:47.518,RX,"Pressure values:"
+
+18:16:47.518,RX,"9976.50"
+
+18:16:47.666,RX,"Differential Pressure values:"
+
+18:16:47.667,RX,"8.48"
+
+18:16:47.667,RX,"Pressure values:"
+
+18:16:47.667,RX,"9975.40"
+
+18:16:47.816,RX,"Differential Pressure values:"
+
+18:16:47.816,RX,"6.48"
+
+18:16:47.816,RX,"Pressure values:"
+
+18:16:47.817,RX,"9973.40"
+
+18:16:47.965,RX,"Differential Pressure values:"
+
+18:16:47.966,RX,"3.78"
+
+18:16:47.966,RX,"Pressure values:"
+
+18:16:47.967,RX,"9970.70"
+
+18:16:48.116,RX,"Differential Pressure values:"
+
+18:16:48.116,RX,"3.08"
+
+18:16:48.116,RX,"Pressure values:"
+
+18:16:48.117,RX,"9970.00"
+
+18:16:48.266,RX,"Differential Pressure values:"
+
+18:16:48.267,RX,"2.38"
+
+18:16:48.267,RX,"Pressure values:"
+
+18:16:48.267,RX,"9969.30"
+
+18:16:48.416,RX,"Differential Pressure values:"
+
+18:16:48.416,RX,"0.58"
+
+18:16:48.417,RX,"Pressure values:"
+
+18:16:48.417,RX,"9967.50"
+
+18:16:48.566,RX,"Differential Pressure values:"
+
+18:16:48.567,RX,"-6.21"
+
+18:16:48.567,RX,"Pressure values:"
+
+18:16:48.567,RX,"9960.70"
+
+18:16:48.716,RX,"Differential Pressure values:"
+
+18:16:48.716,RX,"-9.11"
+
+18:16:48.717,RX,"Pressure values:"
+
+18:16:48.719,RX,"9957.80"
+
+18:16:48.865,RX,"Differential Pressure values:"
+
+18:16:48.866,RX,"-10.21"
+
+18:16:48.866,RX,"Pressure values:"
+
+18:16:48.867,RX,"9956.70"
+
+18:16:48.986,RX,"Differential Pressure values:"
+
+18:16:49.016,RX,"-9.31"
+
+18:16:49.016,RX,"Pressure values:"
+
+18:16:49.016,RX,"9957.60"
+
+18:16:49.136,RX,"Differential Pressure values:"
+
+18:16:49.136,RX,"-7.71"
+
+18:16:49.136,RX,"Pressure values:"
+
+18:16:49.139,RX,"9959.20"
+
+18:16:49.286,RX,"Differential Pressure values:"
+
+18:16:49.287,RX,"-7.61"
+
+18:16:49.287,RX,"Pressure values:"
+
+18:16:49.287,RX,"9959.30"
+
+18:16:49.436,RX,"Differential Pressure values:"
+
+18:16:49.437,RX,"-4.41"
+
+18:16:49.437,RX,"Pressure values:"
+
+18:16:49.437,RX,"9962.50"
+
+18:16:49.586,RX,"Differential Pressure values:"
+
+18:16:49.586,RX,"-1.61"
+
+18:16:49.586,RX,"Pressure values:"
+
+18:16:49.589,RX,"9965.30"
+
+18:16:49.736,RX,"Differential Pressure values:"
+
+18:16:49.737,RX,"-0.01"
+
+18:16:49.737,RX,"Pressure values:"
+
+18:16:49.737,RX,"9966.90"
+
+18:16:49.886,RX,"Differential Pressure values:"
+
+18:16:49.887,RX,"2.08"
+
+18:16:49.887,RX,"Pressure values:"
+
+18:16:49.887,RX,"9969.00"
+
+18:16:50.036,RX,"Differential Pressure values:"
+
+18:16:50.036,RX,"4.98"
+
+18:16:50.036,RX,"Pressure values:"
+
+18:16:50.039,RX,"9971.90"
+
+18:16:50.186,RX,"Differential Pressure values:"
+
+18:16:50.187,RX,"7.38"
+
+18:16:50.187,RX,"Pressure values:"
+
+18:16:50.187,RX,"9974.30"
+
+18:16:50.336,RX,"Differential Pressure values:"
+
+18:16:50.337,RX,"7.48"
+
+18:16:50.337,RX,"Pressure values:"
+
+18:16:50.337,RX,"9974.40"
+
+18:16:50.485,RX,"Differential Pressure values:"
+
+18:16:50.487,RX,"6.98"
+
+18:16:50.487,RX,"Pressure values:"
+
+18:16:50.487,RX,"9973.90"
+
+18:16:50.606,RX,"Differential Pressure values:"
+
+18:16:50.635,RX,"6.18"
+
+18:16:50.636,RX,"Pressure values:"
+
+18:16:50.637,RX,"9973.10"
+
+18:16:50.786,RX,"Differential Pressure values:"
+
+18:16:50.786,RX,"3.68"
+
+18:16:50.787,RX,"Pressure values:"
+
+18:16:50.787,RX,"9970.60"
+
+18:16:50.936,RX,"Differential Pressure values:"
+
+18:16:50.936,RX,"2.68"
+
+18:16:50.936,RX,"Pressure values:"
+
+18:16:50.939,RX,"9969.60"
+
+18:16:51.086,RX,"Differential Pressure values:"
+
+18:16:51.087,RX,"2.78"
+
+18:16:51.087,RX,"Pressure values:"
+
+18:16:51.088,RX,"9969.70"
+
+18:16:51.236,RX,"Differential Pressure values:"
+
+18:16:51.236,RX,"2.68"
+
+18:16:51.237,RX,"Pressure values:"
+
+18:16:51.237,RX,"9969.60"
+
+18:16:51.356,RX,"Differential Pressure values:"
+
+18:16:51.385,RX,"1.78"
+
+18:16:51.385,RX,"Pressure values:"
+
+18:16:51.386,RX,"9968.70"
+
+18:16:51.506,RX,"Differential Pressure values:"
+
+18:16:51.507,RX,"1.48"
+
+18:16:51.507,RX,"Pressure values:"
+
+18:16:51.507,RX,"9968.40"
+
+18:16:51.656,RX,"Differential Pressure values:"
+
+18:16:51.657,RX,"0.28"
+
+18:16:51.657,RX,"Pressure values:"
+
+18:16:51.687,RX,"9967.20"
+
+18:16:51.805,RX,"Differential Pressure values:"
+
+18:16:51.806,RX,"-0.91"
+
+18:16:51.806,RX,"Pressure values:"
+
+18:16:51.808,RX,"9966.00"
+
+18:16:51.956,RX,"Differential Pressure values:"
+
+18:16:51.958,RX,"-2.01"
+
+18:16:51.958,RX,"Pressure values:"
+
+18:16:51.987,RX,"9964.90"
+
+18:16:52.105,RX,"Differential Pressure values:"
+
+18:16:52.107,RX,"-6.71"
+
+18:16:52.107,RX,"Pressure values:"
+
+18:16:52.107,RX,"9960.20"
+
+18:16:52.256,RX,"Differential Pressure values:"
+
+18:16:52.257,RX,"-6.41"
+
+18:16:52.257,RX,"Pressure values:"
+
+18:16:52.285,RX,"9960.50"
+
+18:16:52.406,RX,"Differential Pressure values:"
+
+18:16:52.407,RX,"-6.31"
+
+18:16:52.407,RX,"Pressure values:"
+
+18:16:52.407,RX,"9960.60"
+
+18:16:52.557,RX,"Differential Pressure values:"
+
+18:16:52.557,RX,"-6.21"
+
+18:16:52.557,RX,"Pressure values:"
+
+18:16:52.587,RX,"9960.70"
+
+18:16:52.706,RX,"Differential Pressure values:"
+
+18:16:52.706,RX,"-5.21"
+
+18:16:52.707,RX,"Pressure values:"
+
+18:16:52.709,RX,"9961.70"
+
+18:16:52.856,RX,"Differential Pressure values:"
+
+18:16:52.858,RX,"-4.51"
+
+18:16:52.858,RX,"Pressure values:"
+
+18:16:52.887,RX,"9962.40"
+
+18:16:52.976,RX,"Differential Pressure values:"
+
+18:16:53.005,RX,"-2.11"
+
+18:16:53.006,RX,"Pressure values:"
+
+18:16:53.006,RX,"9964.80"
+
+18:16:53.125,RX,"Differential Pressure values:"
+
+18:16:53.126,RX,"0.98"
+
+18:16:53.126,RX,"Pressure values:"
+
+18:16:53.129,RX,"9967.90"
+
+18:16:53.275,RX,"Differential Pressure values:"
+
+18:16:53.276,RX,"3.48"
+
+18:16:53.276,RX,"Pressure values:"
+
+18:16:53.277,RX,"9970.40"
+
+18:16:53.426,RX,"Differential Pressure values:"
+
+18:16:53.427,RX,"5.88"
+
+18:16:53.427,RX,"Pressure values:"
+
+18:16:53.427,RX,"9972.80"
+
+18:16:53.576,RX,"Differential Pressure values:"
+
+18:16:53.576,RX,"6.58"
+
+18:16:53.576,RX,"Pressure values:"
+
+18:16:53.579,RX,"9973.50"
+
+18:16:53.726,RX,"Differential Pressure values:"
+
+18:16:53.727,RX,"5.78"
+
+18:16:53.727,RX,"Pressure values:"
+
+18:16:53.727,RX,"9972.70"
+
+18:16:53.876,RX,"Differential Pressure values:"
+
+18:16:53.877,RX,"4.78"
+
+18:16:53.877,RX,"Pressure values:"
+
+18:16:53.877,RX,"9971.70"
+
+18:16:54.025,RX,"Differential Pressure values:"
+
+18:16:54.026,RX,"4.08"
+
+18:16:54.026,RX,"Pressure values:"
+
+18:16:54.029,RX,"9971.00"
+
+18:16:54.177,RX,"Differential Pressure values:"
+
+18:16:54.177,RX,"4.28"
+
+18:16:54.177,RX,"Pressure values:"
+
+18:16:54.178,RX,"9971.20"
+
+18:16:54.326,RX,"Differential Pressure values:"
+
+18:16:54.326,RX,"4.08"
+
+18:16:54.326,RX,"Pressure values:"
+
+18:16:54.326,RX,"9971.00"
+
+18:16:54.476,RX,"Differential Pressure values:"
+
+18:16:54.476,RX,"3.18"
+
+18:16:54.477,RX,"Pressure values:"
+
+18:16:54.480,RX,"9970.10"
+
+18:16:54.596,RX,"Differential Pressure values:"
+
+18:16:54.624,RX,"3.38"
+
+18:16:54.625,RX,"Pressure values:"
+
+18:16:54.626,RX,"9970.30"
+
+18:16:54.776,RX,"Differential Pressure values:"
+
+18:16:54.777,RX,"2.78"
+
+18:16:54.777,RX,"Pressure values:"
+
+18:16:54.777,RX,"9969.70"
+
+18:16:54.926,RX,"Differential Pressure values:"
+
+18:16:54.926,RX,"1.98"
+
+18:16:54.926,RX,"Pressure values:"
+
+18:16:54.929,RX,"9968.90"
+
+18:16:55.076,RX,"Differential Pressure values:"
+
+18:16:55.077,RX,"1.98"
+
+18:16:55.077,RX,"Pressure values:"
+
+18:16:55.077,RX,"9968.90"
+
+18:16:55.229,RX,"Differential Pressure values:"
+
+18:16:55.229,RX,"1.18"
+
+18:16:55.229,RX,"Pressure values:"
+
+18:16:55.229,RX,"9968.10"
+
+18:16:55.376,RX,"Differential Pressure values:"
+
+18:16:55.376,RX,"-1.11"
+
+18:16:55.379,RX,"Pressure values:"
+
+18:16:55.379,RX,"9965.80"
+
+18:16:55.526,RX,"Differential Pressure values:"
+
+18:16:55.527,RX,"-6.21"
+
+18:16:55.527,RX,"Pressure values:"
+
+18:16:55.527,RX,"9960.70"
+
+18:16:55.676,RX,"Differential Pressure values:"
+
+18:16:55.677,RX,"-10.01"
+
+18:16:55.677,RX,"Pressure values:"
+
+18:16:55.677,RX,"9956.90"
+
+18:16:55.826,RX,"Differential Pressure values:"
+
+18:16:55.826,RX,"-9.91"
+
+18:16:55.829,RX,"Pressure values:"
+
+18:16:55.829,RX,"9957.00"
+
+18:16:55.976,RX,"Differential Pressure values:"
+
+18:16:55.977,RX,"-9.31"
+
+18:16:55.977,RX,"Pressure values:"
+
+18:16:55.977,RX,"9957.60"
+
+18:16:56.096,RX,"Differential Pressure values:"
+
+18:16:56.125,RX,"-8.81"
+
+18:16:56.126,RX,"Pressure values:"
+
+18:16:56.126,RX,"9958.10"
+
+18:16:56.276,RX,"Differential Pressure values:"
+
+18:16:56.276,RX,"-8.51"
+
+18:16:56.279,RX,"Pressure values:"
+
+18:16:56.279,RX,"9958.40"
+
+18:16:56.426,RX,"Differential Pressure values:"
+
+18:16:56.427,RX,"-8.11"
+
+18:16:56.427,RX,"Pressure values:"
+
+18:16:56.427,RX,"9958.80"
+
+18:16:56.576,RX,"Differential Pressure values:"
+
+18:16:56.577,RX,"-6.21"
+
+18:16:56.577,RX,"Pressure values:"
+
+18:16:56.577,RX,"9960.70"
+
+18:16:56.726,RX,"Differential Pressure values:"
+
+18:16:56.727,RX,"-0.51"
+
+18:16:56.729,RX,"Pressure values:"
+
+18:16:56.729,RX,"9966.40"
+
+18:16:56.876,RX,"Differential Pressure values:"
+
+18:16:56.877,RX,"3.48"
+
+18:16:56.877,RX,"Pressure values:"
+
+18:16:56.877,RX,"9970.40"
+
+18:16:57.026,RX,"Differential Pressure values:"
+
+18:16:57.027,RX,"4.38"
+
+18:16:57.027,RX,"Pressure values:"
+
+18:16:57.027,RX,"9971.30"
+
+18:16:57.175,RX,"Differential Pressure values:"
+
+18:16:57.176,RX,"4.08"
+
+18:16:57.178,RX,"Pressure values:"
+
+18:16:57.178,RX,"9971.00"
+
+18:16:57.326,RX,"Differential Pressure values:"
+
+18:16:57.327,RX,"4.88"
+
+18:16:57.327,RX,"Pressure values:"
+
+18:16:57.327,RX,"9971.80"
+
+18:16:57.476,RX,"Differential Pressure values:"
+
+18:16:57.477,RX,"4.68"
+
+18:16:57.477,RX,"Pressure values:"
+
+18:16:57.477,RX,"9971.60"
+
+18:16:57.626,RX,"Differential Pressure values:"
+
+18:16:57.627,RX,"5.18"
+
+18:16:57.628,RX,"Pressure values:"
+
+18:16:57.628,RX,"9972.10"
+
+18:16:57.776,RX,"Differential Pressure values:"
+
+18:16:57.777,RX,"5.08"
+
+18:16:57.777,RX,"Pressure values:"
+
+18:16:57.777,RX,"9972.00"
+
+18:16:57.926,RX,"Differential Pressure values:"
+
+18:16:57.927,RX,"5.18"
+
+18:16:57.927,RX,"Pressure values:"
+
+18:16:57.927,RX,"9972.10"
+
+18:16:58.046,RX,"Differential Pressure values:"
+
+18:16:58.075,RX,"4.78"
+
+18:16:58.078,RX,"Pressure values:"
+
+18:16:58.078,RX,"9971.70"
+
+18:16:58.226,RX,"Differential Pressure values:"
+
+18:16:58.227,RX,"3.88"
+
+18:16:58.227,RX,"Pressure values:"
+
+18:16:58.227,RX,"9970.80"
+
+18:16:58.376,RX,"Differential Pressure values:"
+
+18:16:58.377,RX,"3.38"
+
+18:16:58.377,RX,"Pressure values:"
+
+18:16:58.377,RX,"9970.30"
+
+18:16:58.526,RX,"Differential Pressure values:"
+
+18:16:58.526,RX,"2.58"
+
+18:16:58.529,RX,"Pressure values:"
+
+18:16:58.529,RX,"9969.50"
+
+18:16:58.676,RX,"Differential Pressure values:"
+
+18:16:58.677,RX,"1.78"
+
+18:16:58.677,RX,"Pressure values:"
+
+18:16:58.677,RX,"9968.70"
+
+18:16:58.796,RX,"Differential Pressure values:"
+
+18:16:58.825,RX,"0.98"
+
+18:16:58.826,RX,"Pressure values:"
+
+18:16:58.826,RX,"9967.90"
+
+18:16:58.976,RX,"Differential Pressure values:"
+
+18:16:58.977,RX,"-1.41"
+
+18:16:58.978,RX,"Pressure values:"
+
+18:16:58.979,RX,"9965.50"
+
+18:16:59.126,RX,"Differential Pressure values:"
+
+18:16:59.127,RX,"-6.41"
+
+18:16:59.127,RX,"Pressure values:"
+
+18:16:59.127,RX,"9960.50"
+
+18:16:59.276,RX,"Differential Pressure values:"
+
+18:16:59.277,RX,"-8.51"
+
+18:16:59.277,RX,"Pressure values:"
+
+18:16:59.277,RX,"9958.40"
+
+18:16:59.426,RX,"Differential Pressure values:"
+
+18:16:59.427,RX,"-9.31"
+
+18:16:59.429,RX,"Pressure values:"
+
+18:16:59.429,RX,"9957.60"
+
+18:16:59.546,RX,"Differential Pressure values:"
+
+18:16:59.576,RX,"-8.61"
+
+18:16:59.576,RX,"Pressure values:"
+
+18:16:59.576,RX,"9958.30"
+
+18:16:59.726,RX,"Differential Pressure values:"
+
+18:16:59.727,RX,"-7.91"
+
+18:16:59.727,RX,"Pressure values:"
+
+18:16:59.727,RX,"9959.00"
+
+18:16:59.876,RX,"Differential Pressure values:"
+
+18:16:59.877,RX,"-6.01"
+
+18:16:59.879,RX,"Pressure values:"
+
+18:16:59.879,RX,"9960.90"
+
+18:17:00.026,RX,"Differential Pressure values:"
+
+18:17:00.027,RX,"-5.51"
+
+18:17:00.027,RX,"Pressure values:"
+
+18:17:00.027,RX,"9961.40"
+
+18:17:00.176,RX,"Differential Pressure values:"
+
+18:17:00.177,RX,"-2.01"
+
+18:17:00.177,RX,"Pressure values:"
+
+18:17:00.177,RX,"9964.90"
+
+18:17:00.296,RX,"Differential Pressure values:"
+
+18:17:00.325,RX,"0.58"
+
+18:17:00.326,RX,"Pressure values:"
+
+18:17:00.326,RX,"9967.50"
+
+18:17:00.476,RX,"Differential Pressure values:"
+
+18:17:00.477,RX,"2.18"
+
+18:17:00.478,RX,"Pressure values:"
+
+18:17:00.478,RX,"9969.10"
+
+18:17:00.626,RX,"Differential Pressure values:"
+
+18:17:00.627,RX,"1.78"
+
+18:17:00.627,RX,"Pressure values:"
+
+18:17:00.627,RX,"9968.70"
+
+18:17:00.776,RX,"Differential Pressure values:"
+
+18:17:00.777,RX,"4.28"
+
+18:17:00.779,RX,"Pressure values:"
+
+18:17:00.779,RX,"9971.20"
+
+18:17:00.926,RX,"Differential Pressure values:"
+
+18:17:00.927,RX,"5.08"
+
+18:17:00.927,RX,"Pressure values:"
+
+18:17:00.927,RX,"9972.00"
+
+18:17:01.076,RX,"Differential Pressure values:"
+
+18:17:01.077,RX,"5.88"
+
+18:17:01.077,RX,"Pressure values:"
+
+18:17:01.077,RX,"9972.80"
+
+18:17:01.226,RX,"Differential Pressure values:"
+
+18:17:01.226,RX,"5.38"
+
+18:17:01.229,RX,"Pressure values:"
+
+18:17:01.229,RX,"9972.30"
+
+18:17:01.376,RX,"Differential Pressure values:"
+
+18:17:01.377,RX,"5.78"
+
+18:17:01.377,RX,"Pressure values:"
+
+18:17:01.377,RX,"9972.70"
+
+18:17:01.526,RX,"Differential Pressure values:"
+
+18:17:01.527,RX,"4.28"
+
+18:17:01.527,RX,"Pressure values:"
+
+18:17:01.527,RX,"9971.20"
+
+18:17:01.871,RX,"Differential Pressure values:"
+
+18:17:01.871,RX,"3.18"
+
+18:17:01.871,RX,"Pressure values:"
+
+18:17:01.871,RX,"9970.10"
+
+18:17:01.871,RX,"Differential Pressure values:"
+
+18:17:01.871,RX,"3.38"
+
+18:17:01.871,RX,"Pressure values:"
+
+18:17:01.872,RX,"9970.30"
+
+18:17:01.975,RX,"Differential Pressure values:"
+
+18:17:01.977,RX,"4.08"
+
+18:17:01.977,RX,"Pressure values:"
+
+18:17:01.977,RX,"9971.00"
+
+18:17:02.126,RX,"Differential Pressure values:"
+
+18:17:02.127,RX,"3.88"
+
+18:17:02.127,RX,"Pressure values:"
+
+18:17:02.127,RX,"9970.80"
+
+18:17:02.275,RX,"Differential Pressure values:"
+
+18:17:02.277,RX,"2.48"
+
+18:17:02.277,RX,"Pressure values:"
+
+18:17:02.278,RX,"9969.40"
+
+18:17:02.425,RX,"Differential Pressure values:"
+
+18:17:02.426,RX,"1.68"
+
+18:17:02.426,RX,"Pressure values:"
+
+18:17:02.427,RX,"9968.60"
+
+18:17:02.576,RX,"Differential Pressure values:"
+
+18:17:02.577,RX,"0.58"
+
+18:17:02.577,RX,"Pressure values:"
+
+18:17:02.577,RX,"9967.50"
+
+18:17:02.726,RX,"Differential Pressure values:"
+
+18:17:02.727,RX,"-2.11"
+
+18:17:02.727,RX,"Pressure values:"
+
+18:17:02.729,RX,"9964.80"
+
+18:17:02.876,RX,"Differential Pressure values:"
+
+18:17:02.877,RX,"-5.91"
+
+18:17:02.877,RX,"Pressure values:"
+
+18:17:02.878,RX,"9961.00"
+
+18:17:02.995,RX,"Differential Pressure values:"
+
+18:17:03.026,RX,"-6.81"
+
+18:17:03.026,RX,"Pressure values:"
+
+18:17:03.027,RX,"9960.10"
+
+18:17:03.176,RX,"Differential Pressure values:"
+
+18:17:03.177,RX,"-6.31"
+
+18:17:03.177,RX,"Pressure values:"
+
+18:17:03.179,RX,"9960.60"
+
+18:17:03.325,RX,"Differential Pressure values:"
+
+18:17:03.326,RX,"-5.61"
+
+18:17:03.326,RX,"Pressure values:"
+
+18:17:03.327,RX,"9961.30"
+
+18:17:03.476,RX,"Differential Pressure values:"
+
+18:17:03.477,RX,"-4.91"
+
+18:17:03.477,RX,"Pressure values:"
+
+18:17:03.477,RX,"9962.00"
+
+18:17:03.626,RX,"Differential Pressure values:"
+
+18:17:03.627,RX,"-4.51"
+
+18:17:03.627,RX,"Pressure values:"
+
+18:17:03.629,RX,"9962.40"
+
+18:17:03.745,RX,"Differential Pressure values:"
+
+18:17:03.775,RX,"-3.51"
+
+18:17:03.776,RX,"Pressure values:"
+
+18:17:03.776,RX,"9963.40"
+
+18:17:03.926,RX,"Differential Pressure values:"
+
+18:17:03.927,RX,"-3.21"
+
+18:17:03.927,RX,"Pressure values:"
+
+18:17:03.927,RX,"9963.70"
+
+18:17:04.076,RX,"Differential Pressure values:"
+
+18:17:04.077,RX,"-1.01"
+
+18:17:04.077,RX,"Pressure values:"
+
+18:17:04.079,RX,"9965.90"
+
+18:17:04.226,RX,"Differential Pressure values:"
+
+18:17:04.227,RX,"-1.11"
+
+18:17:04.227,RX,"Pressure values:"
+
+18:17:04.227,RX,"9965.80"
+
+18:17:04.376,RX,"Differential Pressure values:"
+
+18:17:04.377,RX,"0.78"
+
+18:17:04.377,RX,"Pressure values:"
+
+18:17:04.377,RX,"9967.70"
+
+18:17:04.496,RX,"Differential Pressure values:"
+
+18:17:04.525,RX,"3.48"
+
+18:17:04.526,RX,"Pressure values:"
+
+18:17:04.527,RX,"9970.40"
+
+18:17:04.676,RX,"Differential Pressure values:"
+
+18:17:04.677,RX,"4.38"
+
+18:17:04.677,RX,"Pressure values:"
+
+18:17:04.677,RX,"9971.30"
+
+18:17:04.826,RX,"Differential Pressure values:"
+
+18:17:04.827,RX,"5.58"
+
+18:17:04.827,RX,"Pressure values:"
+
+18:17:04.827,RX,"9972.50"
+
+18:17:04.976,RX,"Differential Pressure values:"
+
+18:17:04.977,RX,"4.48"
+
+18:17:04.977,RX,"Pressure values:"
+
+18:17:04.979,RX,"9971.40"
+
+18:17:05.126,RX,"Differential Pressure values:"
+
+18:17:05.127,RX,"3.98"
+
+18:17:05.128,RX,"Pressure values:"
+
+18:17:05.128,RX,"9970.90"
+
+18:17:05.246,RX,"Differential Pressure values:"
+
+18:17:05.276,RX,"3.98"
+
+18:17:05.276,RX,"Pressure values:"
+
+18:17:05.277,RX,"9970.90"
+
+18:17:05.426,RX,"Differential Pressure values:"
+
+18:17:05.427,RX,"3.88"
+
+18:17:05.427,RX,"Pressure values:"
+
+18:17:05.429,RX,"9970.80"
+
+18:17:05.575,RX,"Differential Pressure values:"
+
+18:17:05.576,RX,"3.98"
+
+18:17:05.576,RX,"Pressure values:"
+
+18:17:05.577,RX,"9970.90"
+
+18:17:05.735,RX,"Differential Pressure values:"
+
+18:17:05.735,RX,"4.08"
+
+18:17:05.735,RX,"Pressure values:"
+
+18:17:05.736,RX,"9971.00"
+
+18:17:05.885,RX,"Differential Pressure values:"
+
+18:17:05.885,RX,"4.08"
+
+18:17:05.885,RX,"Pressure values:"
+
+18:17:05.885,RX,"9971.00"
+
+18:17:06.035,RX,"Differential Pressure values:"
+
+18:17:06.035,RX,"3.38"
+
+18:17:06.035,RX,"Pressure values:"
+
+18:17:06.035,RX,"9970.30"
+
+18:17:06.185,RX,"Differential Pressure values:"
+
+18:17:06.185,RX,"2.68"
+
+18:17:06.185,RX,"Pressure values:"
+
+18:17:06.185,RX,"9969.60"
+
+18:17:06.335,RX,"Differential Pressure values:"
+
+18:17:06.335,RX,"2.58"
+
+18:17:06.335,RX,"Pressure values:"
+
+18:17:06.335,RX,"9969.50"
+
+18:17:06.485,RX,"Differential Pressure values:"
+
+18:17:06.485,RX,"2.98"
+
+18:17:06.485,RX,"Pressure values:"
+
+18:17:06.485,RX,"9969.90"
+
+18:17:06.635,RX,"Differential Pressure values:"
+
+18:17:06.635,RX,"1.38"
+
+18:17:06.635,RX,"Pressure values:"
+
+18:17:06.635,RX,"9968.30"
+
+18:17:06.785,RX,"Differential Pressure values:"
+
+18:17:06.785,RX,"-1.41"
+
+18:17:06.785,RX,"Pressure values:"
+
+18:17:06.785,RX,"9965.50"
+
+18:17:06.935,RX,"Differential Pressure values:"
+
+18:17:06.935,RX,"-6.11"
+
+18:17:06.935,RX,"Pressure values:"
+
+18:17:06.935,RX,"9960.80"
+
+18:17:07.085,RX,"Differential Pressure values:"
+
+18:17:07.085,RX,"-8.21"
+
+18:17:07.086,RX,"Pressure values:"
+
+18:17:07.086,RX,"9958.70"
+
+18:17:07.235,RX,"Differential Pressure values:"
+
+18:17:07.235,RX,"-9.11"
+
+18:17:07.235,RX,"Pressure values:"
+
+18:17:07.235,RX,"9957.80"
+
+18:17:07.386,RX,"Differential Pressure values:"
+
+18:17:07.386,RX,"-7.71"
+
+18:17:07.386,RX,"Pressure values:"
+
+18:17:07.386,RX,"9959.20"
+
+18:17:07.535,RX,"Differential Pressure values:"
+
+18:17:07.535,RX,"-9.11"
+
+18:17:07.535,RX,"Pressure values:"
+
+18:17:07.535,RX,"9957.80"
+
+18:17:07.685,RX,"Differential Pressure values:"
+
+18:17:07.685,RX,"-8.91"
+
+18:17:07.685,RX,"Pressure values:"
+
+18:17:07.685,RX,"9958.00"
+
+18:17:07.835,RX,"Differential Pressure values:"
+
+18:17:07.835,RX,"-7.31"
+
+18:17:07.835,RX,"Pressure values:"
+
+18:17:07.835,RX,"9959.60"
+
+18:17:07.946,RX,"Differential Pressure values:"
+
+18:17:07.985,RX,"-3.81"
+
+18:17:07.985,RX,"Pressure values:"
+
+18:17:07.985,RX,"9963.10"
+
+18:17:08.135,RX,"Differential Pressure values:"
+
+18:17:08.135,RX,"1.18"
+
+18:17:08.135,RX,"Pressure values:"
+
+18:17:08.135,RX,"9968.10"
+
+18:17:08.285,RX,"Differential Pressure values:"
+
+18:17:08.285,RX,"2.48"
+
+18:17:08.285,RX,"Pressure values:"
+
+18:17:08.285,RX,"9969.40"
+
+18:17:08.435,RX,"Differential Pressure values:"
+
+18:17:08.435,RX,"5.28"
+
+18:17:08.435,RX,"Pressure values:"
+
+18:17:08.435,RX,"9972.20"
+
+18:17:08.585,RX,"Differential Pressure values:"
+
+18:17:08.585,RX,"5.18"
+
+18:17:08.585,RX,"Pressure values:"
+
+18:17:08.585,RX,"9972.10"
+
+18:17:08.696,RX,"Differential Pressure values:"
+
+18:17:08.735,RX,"5.88"
+
+18:17:08.735,RX,"Pressure values:"
+
+18:17:08.735,RX,"9972.80"
+
+18:17:08.885,RX,"Differential Pressure values:"
+
+18:17:08.885,RX,"6.18"
+
+18:17:08.885,RX,"Pressure values:"
+
+18:17:08.885,RX,"9973.10"
+
+18:17:09.035,RX,"Differential Pressure values:"
+
+18:17:09.035,RX,"6.08"
+
+18:17:09.035,RX,"Pressure values:"
+
+18:17:09.036,RX,"9973.00"
+
+18:17:09.190,RX,"Differential Pressure values:"
+
+18:17:09.190,RX,"5.88"
+
+18:17:09.190,RX,"Pressure values:"
+
+18:17:09.190,RX,"9972.80"
+
+18:17:09.327,RX,"Differential Pressure values:"
+
+18:17:09.327,RX,"4.18"
+
+18:17:09.328,RX,"Pressure values:"
+
+18:17:09.358,RX,"9971.10"
+
+18:17:09.445,RX,"Differential Pressure values:"
+
+18:17:09.475,RX,"4.48"
+
+18:17:09.476,RX,"Pressure values:"
+
+18:17:09.476,RX,"9971.40"
+
+18:17:09.689,RX,"Differential Pressure values:"
+
+18:17:09.689,RX,"4.58"
+
+18:17:09.689,RX,"Pressure values:"
+
+18:17:09.689,RX,"9971.50"
+
+18:17:09.748,RX,"Differential Pressure values:"
+
+18:17:09.750,RX,"5.48"
+
+18:17:09.750,RX,"Pressure values:"
+
+18:17:09.750,RX,"9972.40"
+
+18:17:09.896,RX,"Differential Pressure values:"
+
+18:17:09.896,RX,"4.98"
+
+18:17:09.899,RX,"Pressure values:"
+
+18:17:09.899,RX,"9971.90"
+
+18:17:10.046,RX,"Differential Pressure values:"
+
+18:17:10.047,RX,"4.68"
+
+18:17:10.047,RX,"Pressure values:"
+
+18:17:10.048,RX,"9971.60"
+
+18:17:10.195,RX,"Differential Pressure values:"
+
+18:17:10.197,RX,"2.28"
+
+18:17:10.197,RX,"Pressure values:"
+
+18:17:10.197,RX,"9969.20"
+
+18:17:10.346,RX,"Differential Pressure values:"
+
+18:17:10.347,RX,"-4.31"
+
+18:17:10.347,RX,"Pressure values:"
+
+18:17:10.347,RX,"9962.60"
+
+18:17:10.496,RX,"Differential Pressure values:"
+
+18:17:10.497,RX,"-13.11"
+
+18:17:10.497,RX,"Pressure values:"
+
+18:17:10.497,RX,"9953.80"
+
+18:17:10.646,RX,"Differential Pressure values:"
+
+18:17:10.648,RX,"-15.51"
+
+18:17:10.648,RX,"Pressure values:"
+
+18:17:10.648,RX,"9951.40"
+
+18:17:10.795,RX,"Differential Pressure values:"
+
+18:17:10.796,RX,"-15.31"
+
+18:17:10.798,RX,"Pressure values:"
+
+18:17:10.798,RX,"9951.60"
+
+18:17:10.946,RX,"Differential Pressure values:"
+
+18:17:10.947,RX,"-15.81"
+
+18:17:10.947,RX,"Pressure values:"
+
+18:17:10.947,RX,"9951.10"
+
+18:17:11.066,RX,"Differential Pressure values:"
+
+18:17:11.095,RX,"-13.51"
+
+18:17:11.095,RX,"Pressure values:"
+
+18:17:11.096,RX,"9953.40"
+
+18:17:11.246,RX,"Differential Pressure values:"
+
+18:17:11.247,RX,"-10.01"
+
+18:17:11.247,RX,"Pressure values:"
+
+18:17:11.247,RX,"9956.90"
+
+18:17:11.396,RX,"Differential Pressure values:"
+
+18:17:11.397,RX,"-7.41"
+
+18:17:11.398,RX,"Pressure values:"
+
+18:17:11.398,RX,"9959.50"
+
+18:17:11.545,RX,"Differential Pressure values:"
+
+18:17:11.546,RX,"-7.61"
+
+18:17:11.546,RX,"Pressure values:"
+
+18:17:11.548,RX,"9959.30"
+
+18:17:11.696,RX,"Differential Pressure values:"
+
+18:17:11.697,RX,"0.58"
+
+18:17:11.698,RX,"Pressure values:"
+
+18:17:11.699,RX,"9967.50"
+
+18:17:11.816,RX,"Differential Pressure values:"
+
+18:17:11.845,RX,"3.78"
+
+18:17:11.846,RX,"Pressure values:"
+
+18:17:11.847,RX,"9970.70"
+
+18:17:11.996,RX,"Differential Pressure values:"
+
+18:17:11.997,RX,"4.88"
+
+18:17:11.997,RX,"Pressure values:"
+
+18:17:11.998,RX,"9971.80"
+
+18:17:12.146,RX,"Differential Pressure values:"
+
+18:17:12.147,RX,"6.08"
+
+18:17:12.150,RX,"Pressure values:"
+
+18:17:12.150,RX,"9973.00"
+
+18:17:12.296,RX,"Differential Pressure values:"
+
+18:17:12.297,RX,"7.58"
+
+18:17:12.297,RX,"Pressure values:"
+
+18:17:12.297,RX,"9974.50"
+
+18:17:12.445,RX,"Differential Pressure values:"
+
+18:17:12.446,RX,"6.38"
+
+18:17:12.446,RX,"Pressure values:"
+
+18:17:12.447,RX,"9973.30"
+
+18:17:12.565,RX,"Differential Pressure values:"
+
+18:17:12.595,RX,"5.58"
+
+18:17:12.597,RX,"Pressure values:"
+
+18:17:12.597,RX,"9972.50"
+
+18:17:12.746,RX,"Differential Pressure values:"
+
+18:17:12.747,RX,"5.08"
+
+18:17:12.747,RX,"Pressure values:"
+
+18:17:12.747,RX,"9972.00"
+
+18:17:12.896,RX,"Differential Pressure values:"
+
+18:17:12.898,RX,"4.48"
+
+18:17:12.898,RX,"Pressure values:"
+
+18:17:12.898,RX,"9971.40"
+
+18:17:13.046,RX,"Differential Pressure values:"
+
+18:17:13.047,RX,"5.08"
+
+18:17:13.047,RX,"Pressure values:"
+
+18:17:13.047,RX,"9972.00"
+
+18:17:13.195,RX,"Differential Pressure values:"
+
+18:17:13.196,RX,"4.98"
+
+18:17:13.196,RX,"Pressure values:"
+
+18:17:13.198,RX,"9971.90"
+
+18:17:13.346,RX,"Differential Pressure values:"
+
+18:17:13.347,RX,"6.18"
+
+18:17:13.348,RX,"Pressure values:"
+
+18:17:13.348,RX,"9973.10"
+
+18:17:13.496,RX,"Differential Pressure values:"
+
+18:17:13.496,RX,"6.88"
+
+18:17:13.498,RX,"Pressure values:"
+
+18:17:13.499,RX,"9973.80"
+
+18:17:13.646,RX,"Differential Pressure values:"
+
+18:17:13.648,RX,"5.98"
+
+18:17:13.648,RX,"Pressure values:"
+
+18:17:13.648,RX,"9972.90"
+
+18:17:13.796,RX,"Differential Pressure values:"
+
+18:17:13.797,RX,"4.28"
+
+18:17:13.797,RX,"Pressure values:"
+
+18:17:13.797,RX,"9971.20"
+
+18:17:13.946,RX,"Differential Pressure values:"
+
+18:17:13.948,RX,"-3.21"
+
+18:17:13.948,RX,"Pressure values:"
+
+18:17:13.948,RX,"9963.70"
+
+18:17:14.096,RX,"Differential Pressure values:"
+
+18:17:14.097,RX,"-14.21"
+
+18:17:14.097,RX,"Pressure values:"
+
+18:17:14.099,RX,"9952.70"
+
+18:17:14.246,RX,"Differential Pressure values:"
+
+18:17:14.248,RX,"-13.41"
+
+18:17:14.248,RX,"Pressure values:"
+
+18:17:14.248,RX,"9953.50"
+
+18:17:14.396,RX,"Differential Pressure values:"
+
+18:17:14.397,RX,"-10.41"
+
+18:17:14.397,RX,"Pressure values:"
+
+18:17:14.397,RX,"9956.50"
+
+18:17:14.516,RX,"Differential Pressure values:"
+
+18:17:14.546,RX,"-9.41"
+
+18:17:14.546,RX,"Pressure values:"
+
+18:17:14.547,RX,"9957.50"
+
+18:17:14.696,RX,"Differential Pressure values:"
+
+18:17:14.697,RX,"-8.41"
+
+18:17:14.697,RX,"Pressure values:"
+
+18:17:14.697,RX,"9958.50"
+
+18:17:14.846,RX,"Differential Pressure values:"
+
+18:17:14.847,RX,"-6.51"
+
+18:17:14.847,RX,"Pressure values:"
+
+18:17:14.847,RX,"9960.40"
+
+18:17:14.996,RX,"Differential Pressure values:"
+
+18:17:14.997,RX,"-5.21"
+
+18:17:14.997,RX,"Pressure values:"
+
+18:17:14.999,RX,"9961.70"
+
+18:17:15.146,RX,"Differential Pressure values:"
+
+18:17:15.148,RX,"-1.11"
+
+18:17:15.148,RX,"Pressure values:"
+
+18:17:15.148,RX,"9965.80"
+
+18:17:15.265,RX,"Differential Pressure values:"
+
+18:17:15.295,RX,"1.88"
+
+18:17:15.295,RX,"Pressure values:"
+
+18:17:15.296,RX,"9968.80"
+
+18:17:15.416,RX,"Differential Pressure values:"
+
+18:17:15.417,RX,"5.28"
+
+18:17:15.417,RX,"Pressure values:"
+
+18:17:15.419,RX,"9972.20"
+
+18:17:15.566,RX,"Differential Pressure values:"
+
+18:17:15.567,RX,"7.28"
+
+18:17:15.567,RX,"Pressure values:"
+
+18:17:15.567,RX,"9974.20"
+
+18:17:15.716,RX,"Differential Pressure values:"
+
+18:17:15.717,RX,"6.38"
+
+18:17:15.717,RX,"Pressure values:"
+
+18:17:15.717,RX,"9973.30"
+
+18:17:15.866,RX,"Differential Pressure values:"
+
+18:17:15.866,RX,"5.98"
+
+18:17:15.867,RX,"Pressure values:"
+
+18:17:15.869,RX,"9972.90"
+
+18:17:16.015,RX,"Differential Pressure values:"
+
+18:17:16.016,RX,"5.68"
+
+18:17:16.016,RX,"Pressure values:"
+
+18:17:16.017,RX,"9972.60"
+
+18:17:16.166,RX,"Differential Pressure values:"
+
+18:17:16.167,RX,"5.28"
+
+18:17:16.167,RX,"Pressure values:"
+
+18:17:16.167,RX,"9972.20"
+
+18:17:16.316,RX,"Differential Pressure values:"
+
+18:17:16.317,RX,"4.78"
+
+18:17:16.317,RX,"Pressure values:"
+
+18:17:16.319,RX,"9971.70"
+
+18:17:16.466,RX,"Differential Pressure values:"
+
+18:17:16.467,RX,"5.18"
+
+18:17:16.467,RX,"Pressure values:"
+
+18:17:16.467,RX,"9972.10"
+
+18:17:16.616,RX,"Differential Pressure values:"
+
+18:17:16.617,RX,"3.48"
+
+18:17:16.617,RX,"Pressure values:"
+
+18:17:16.617,RX,"9970.40"
+
+18:17:16.766,RX,"Differential Pressure values:"
+
+18:17:16.767,RX,"2.28"
+
+18:17:16.767,RX,"Pressure values:"
+
+18:17:16.769,RX,"9969.20"
+
+18:17:16.886,RX,"Differential Pressure values:"
+
+18:17:16.915,RX,"2.48"
+
+18:17:16.916,RX,"Pressure values:"
+
+18:17:16.916,RX,"9969.40"
+
+18:17:17.065,RX,"Differential Pressure values:"
+
+18:17:17.066,RX,"2.68"
+
+18:17:17.066,RX,"Pressure values:"
+
+18:17:17.066,RX,"9969.60"
+
+18:17:17.216,RX,"Differential Pressure values:"
+
+18:17:17.217,RX,"2.18"
+
+18:17:17.217,RX,"Pressure values:"
+
+18:17:17.220,RX,"9969.10"
+
+18:17:17.366,RX,"Differential Pressure values:"
+
+18:17:17.367,RX,"0.88"
+
+18:17:17.367,RX,"Pressure values:"
+
+18:17:17.367,RX,"9967.80"
+
+18:17:17.515,RX,"Differential Pressure values:"
+
+18:17:17.516,RX,"-2.81"
+
+18:17:17.516,RX,"Pressure values:"
+
+18:17:17.516,RX,"9964.10"
+
+18:17:17.636,RX,"Differential Pressure values:"
+
+18:17:17.666,RX,"-11.41"
+
+18:17:17.666,RX,"Pressure values:"
+
+18:17:17.667,RX,"9955.50"
+
+18:17:17.816,RX,"Differential Pressure values:"
+
+18:17:17.817,RX,"-13.11"
+
+18:17:17.817,RX,"Pressure values:"
+
+18:17:17.817,RX,"9953.80"
+
+18:17:17.966,RX,"Differential Pressure values:"
+
+18:17:17.967,RX,"-11.21"
+
+18:17:17.967,RX,"Pressure values:"
+
+18:17:17.967,RX,"9955.70"
+
+18:17:18.116,RX,"Differential Pressure values:"
+
+18:17:18.117,RX,"-10.81"
+
+18:17:18.117,RX,"Pressure values:"
+
+18:17:18.145,RX,"9956.10"
+
+18:17:18.266,RX,"Differential Pressure values:"
+
+18:17:18.267,RX,"-9.41"
+
+18:17:18.267,RX,"Pressure values:"
+
+18:17:18.267,RX,"9957.50"
+
+18:17:18.386,RX,"Differential Pressure values:"
+
+18:17:18.415,RX,"-8.31"
+
+18:17:18.416,RX,"Pressure values:"
+
+18:17:18.417,RX,"9958.60"
+
+18:17:18.536,RX,"Differential Pressure values:"
+
+18:17:18.536,RX,"-6.81"
+
+18:17:18.537,RX,"Pressure values:"
+
+18:17:18.539,RX,"9960.10"
+
+18:17:18.686,RX,"Differential Pressure values:"
+
+18:17:18.687,RX,"-5.81"
+
+18:17:18.687,RX,"Pressure values:"
+
+18:17:18.687,RX,"9961.10"
+
+18:17:18.835,RX,"Differential Pressure values:"
+
+18:17:18.836,RX,"-4.01"
+
+18:17:18.836,RX,"Pressure values:"
+
+18:17:18.836,RX,"9962.90"
+
+18:17:18.986,RX,"Differential Pressure values:"
+
+18:17:18.987,RX,"-1.61"
+
+18:17:18.987,RX,"Pressure values:"
+
+18:17:18.989,RX,"9965.30"
+
+18:17:19.136,RX,"Differential Pressure values:"
+
+18:17:19.137,RX,"1.98"
+
+18:17:19.137,RX,"Pressure values:"
+
+18:17:19.137,RX,"9968.90"
+
+18:17:19.286,RX,"Differential Pressure values:"
+
+18:17:19.287,RX,"6.08"
+
+18:17:19.287,RX,"Pressure values:"
+
+18:17:19.287,RX,"9973.00"
+
+18:17:19.436,RX,"Differential Pressure values:"
+
+18:17:19.436,RX,"6.48"
+
+18:17:19.437,RX,"Pressure values:"
+
+18:17:19.439,RX,"9973.40"
+
+18:17:19.586,RX,"Differential Pressure values:"
+
+18:17:19.587,RX,"7.28"
+
+18:17:19.587,RX,"Pressure values:"
+
+18:17:19.587,RX,"9974.20"
+
+18:17:19.736,RX,"Differential Pressure values:"
+
+18:17:19.737,RX,"5.38"
+
+18:17:19.737,RX,"Pressure values:"
+
+18:17:19.737,RX,"9972.30"
+
+18:17:19.886,RX,"Differential Pressure values:"
+
+18:17:19.886,RX,"5.38"
+
+18:17:19.887,RX,"Pressure values:"
+
+18:17:19.889,RX,"9972.30"
+
+18:17:20.036,RX,"Differential Pressure values:"
+
+18:17:20.037,RX,"5.48"
+
+18:17:20.037,RX,"Pressure values:"
+
+18:17:20.037,RX,"9972.40"
+
+18:17:20.186,RX,"Differential Pressure values:"
+
+18:17:20.187,RX,"5.28"
+
+18:17:20.187,RX,"Pressure values:"
+
+18:17:20.187,RX,"9972.20"
+
+18:17:20.336,RX,"Differential Pressure values:"
+
+18:17:20.336,RX,"5.08"
+
+18:17:20.337,RX,"Pressure values:"
+
+18:17:20.339,RX,"9972.00"
+
+18:17:20.486,RX,"Differential Pressure values:"
+
+18:17:20.487,RX,"3.88"
+
+18:17:20.487,RX,"Pressure values:"
+
+18:17:20.487,RX,"9970.80"
+
+18:17:20.636,RX,"Differential Pressure values:"
+
+18:17:20.637,RX,"3.98"
+
+18:17:20.637,RX,"Pressure values:"
+
+18:17:20.637,RX,"9970.90"
+
+18:17:20.757,RX,"Differential Pressure values:"
+
+18:17:20.757,RX,"3.28"
+
+18:17:20.760,RX,"Pressure values:"
+
+18:17:20.787,RX,"9970.20"
+
+18:17:20.906,RX,"Differential Pressure values:"
+
+18:17:20.907,RX,"3.38"
+
+18:17:20.907,RX,"Pressure values:"
+
+18:17:20.907,RX,"9970.30"
+
+18:17:21.056,RX,"Differential Pressure values:"
+
+18:17:21.058,RX,"2.48"
+
+18:17:21.058,RX,"Pressure values:"
+
+18:17:21.088,RX,"9969.40"
+
+18:17:21.176,RX,"Differential Pressure values:"
+
+18:17:21.205,RX,"0.98"
+
+18:17:21.206,RX,"Pressure values:"
+
+18:17:21.206,RX,"9967.90"
+
+18:17:21.356,RX,"Differential Pressure values:"
+
+18:17:21.358,RX,"0.08"
+
+18:17:21.358,RX,"Pressure values:"
+
+18:17:21.387,RX,"9967.00"
+
+18:17:21.506,RX,"Differential Pressure values:"
+
+18:17:21.507,RX,"-1.01"
+
+18:17:21.507,RX,"Pressure values:"
+
+18:17:21.507,RX,"9965.90"
+
+18:17:21.655,RX,"Differential Pressure values:"
+
+18:17:21.656,RX,"-4.41"
+
+18:17:21.656,RX,"Pressure values:"
+
+18:17:21.687,RX,"9962.50"
+
+18:17:21.806,RX,"Differential Pressure values:"
+
+18:17:21.807,RX,"-9.41"
+
+18:17:21.807,RX,"Pressure values:"
+
+18:17:21.807,RX,"9957.50"
+
+18:17:21.926,RX,"Differential Pressure values:"
+
+18:17:21.954,RX,"-10.01"
+
+18:17:21.955,RX,"Pressure values:"
+
+18:17:21.957,RX,"9956.90"
+
+18:17:22.106,RX,"Differential Pressure values:"
+
+18:17:22.106,RX,"-9.61"
+
+18:17:22.109,RX,"Pressure values:"
+
+18:17:22.109,RX,"9957.30"
+
+18:17:22.256,RX,"Differential Pressure values:"
+
+18:17:22.258,RX,"-9.31"
+
+18:17:22.258,RX,"Pressure values:"
+
+18:17:22.286,RX,"9957.60"
+
+18:17:22.406,RX,"Differential Pressure values:"
+
+18:17:22.407,RX,"-9.01"
+
+18:17:22.407,RX,"Pressure values:"
+
+18:17:22.407,RX,"9957.90"
+
+18:17:22.556,RX,"Differential Pressure values:"
+
+18:17:22.556,RX,"-6.61"
+
+18:17:22.560,RX,"Pressure values:"
+
+18:17:22.586,RX,"9960.30"
+
+18:17:22.706,RX,"Differential Pressure values:"
+
+18:17:22.707,RX,"-6.31"
+
+18:17:22.707,RX,"Pressure values:"
+
+18:17:22.707,RX,"9960.60"
+
+18:17:22.856,RX,"Differential Pressure values:"
+
+18:17:22.858,RX,"-5.11"
+
+18:17:22.858,RX,"Pressure values:"
+
+18:17:22.887,RX,"9961.80"
+
+18:17:23.006,RX,"Differential Pressure values:"
+
+18:17:23.007,RX,"-4.31"
+
+18:17:23.009,RX,"Pressure values:"
+
+18:17:23.009,RX,"9962.60"
+
+18:17:23.156,RX,"Differential Pressure values:"
+
+18:17:23.157,RX,"-2.91"
+
+18:17:23.158,RX,"Pressure values:"
+
+18:17:23.187,RX,"9964.00"
+
+18:17:23.306,RX,"Differential Pressure values:"
+
+18:17:23.307,RX,"-1.31"
+
+18:17:23.307,RX,"Pressure values:"
+
+18:17:23.307,RX,"9965.60"
+
+18:17:23.456,RX,"Differential Pressure values:"
+
+18:17:23.456,RX,"2.28"
+
+18:17:23.459,RX,"Pressure values:"
+
+18:17:23.487,RX,"9969.20"
+
+18:17:23.606,RX,"Differential Pressure values:"
+
+18:17:23.607,RX,"4.28"
+
+18:17:23.607,RX,"Pressure values:"
+
+18:17:23.607,RX,"9971.20"
+
+18:17:23.757,RX,"Differential Pressure values:"
+
+18:17:23.757,RX,"7.38"
+
+18:17:23.757,RX,"Pressure values:"
+
+18:17:23.785,RX,"9974.30"
+
+18:17:23.906,RX,"Differential Pressure values:"
+
+18:17:23.907,RX,"7.18"
+
+18:17:23.907,RX,"Pressure values:"
+
+18:17:23.907,RX,"9974.10"
+
+18:17:24.056,RX,"Differential Pressure values:"
+
+18:17:24.057,RX,"8.78"
+
+18:17:24.057,RX,"Pressure values:"
+
+18:17:24.084,RX,"9975.70"
+
+18:17:24.206,RX,"Differential Pressure values:"
+
+18:17:24.207,RX,"7.48"
+
+18:17:24.207,RX,"Pressure values:"
+
+18:17:24.207,RX,"9974.40"
+
+18:17:24.356,RX,"Differential Pressure values:"
+
+18:17:24.357,RX,"6.78"
+
+18:17:24.357,RX,"Pressure values:"
+
+18:17:24.387,RX,"9973.70"
+
+18:17:24.506,RX,"Differential Pressure values:"
+
+18:17:24.506,RX,"6.48"
+
+18:17:24.507,RX,"Pressure values:"
+
+18:17:24.509,RX,"9973.40"
+
+18:17:24.625,RX,"Differential Pressure values:"
+
+18:17:24.655,RX,"5.48"
+
+18:17:24.655,RX,"Pressure values:"
+
+18:17:24.657,RX,"9972.40"
+
+18:17:24.806,RX,"Differential Pressure values:"
+
+18:17:24.807,RX,"4.78"
+
+18:17:24.807,RX,"Pressure values:"
+
+18:17:24.807,RX,"9971.70"
+
+18:17:24.956,RX,"Differential Pressure values:"
+
+18:17:24.957,RX,"5.28"
+
+18:17:24.957,RX,"Pressure values:"
+
+18:17:24.985,RX,"9972.20"
+
+18:17:25.106,RX,"Differential Pressure values:"
+
+18:17:25.107,RX,"4.48"
+
+18:17:25.107,RX,"Pressure values:"
+
+18:17:25.107,RX,"9971.40"
+
+18:17:25.256,RX,"Differential Pressure values:"
+
+18:17:25.257,RX,"4.18"
+
+18:17:25.257,RX,"Pressure values:"
+
+18:17:25.287,RX,"9971.10"
+
+18:17:25.376,RX,"Differential Pressure values:"
+
+18:17:25.405,RX,"4.78"
+
+18:17:25.406,RX,"Pressure values:"
+
+18:17:25.408,RX,"9971.70"
+
+18:17:25.526,RX,"Differential Pressure values:"
+
+18:17:25.527,RX,"4.18"
+
+18:17:25.527,RX,"Pressure values:"
+
+18:17:25.527,RX,"9971.10"
+
+18:17:25.676,RX,"Differential Pressure values:"
+
+18:17:25.677,RX,"3.68"
+
+18:17:25.677,RX,"Pressure values:"
+
+18:17:25.677,RX,"9970.60"
+
+18:17:25.826,RX,"Differential Pressure values:"
+
+18:17:25.826,RX,"3.48"
+
+18:17:25.826,RX,"Pressure values:"
+
+18:17:25.829,RX,"9970.40"
+
+18:17:25.976,RX,"Differential Pressure values:"
+
+18:17:25.977,RX,"1.68"
+
+18:17:25.977,RX,"Pressure values:"
+
+18:17:25.977,RX,"9968.60"
+
+18:17:26.126,RX,"Differential Pressure values:"
+
+18:17:26.127,RX,"0.18"
+
+18:17:26.127,RX,"Pressure values:"
+
+18:17:26.127,RX,"9967.10"
+
+18:17:26.276,RX,"Differential Pressure values:"
+
+18:17:26.277,RX,"-4.01"
+
+18:17:26.277,RX,"Pressure values:"
+
+18:17:26.279,RX,"9962.90"
+
+18:17:26.426,RX,"Differential Pressure values:"
+
+18:17:26.427,RX,"-8.91"
+
+18:17:26.427,RX,"Pressure values:"
+
+18:17:26.427,RX,"9958.00"
+
+18:17:26.576,RX,"Differential Pressure values:"
+
+18:17:26.577,RX,"-10.91"
+
+18:17:26.577,RX,"Pressure values:"
+
+18:17:26.577,RX,"9956.00"
+
+18:17:26.726,RX,"Differential Pressure values:"
+
+18:17:26.726,RX,"-11.21"
+
+18:17:26.727,RX,"Pressure values:"
+
+18:17:26.729,RX,"9955.70"
+
+18:17:26.876,RX,"Differential Pressure values:"
+
+18:17:26.877,RX,"-10.81"
+
+18:17:26.877,RX,"Pressure values:"
+
+18:17:26.877,RX,"9956.10"
+
+18:17:27.026,RX,"Differential Pressure values:"
+
+18:17:27.026,RX,"-8.81"
+
+18:17:27.027,RX,"Pressure values:"
+
+18:17:27.027,RX,"9958.10"
+
+18:17:27.176,RX,"Differential Pressure values:"
+
+18:17:27.176,RX,"-7.51"
+
+18:17:27.177,RX,"Pressure values:"
+
+18:17:27.179,RX,"9959.40"
+
+18:17:27.326,RX,"Differential Pressure values:"
+
+18:17:27.327,RX,"-6.71"
+
+18:17:27.327,RX,"Pressure values:"
+
+18:17:27.327,RX,"9960.20"
+
+18:17:27.476,RX,"Differential Pressure values:"
+
+18:17:27.477,RX,"-5.41"
+
+18:17:27.477,RX,"Pressure values:"
+
+18:17:27.477,RX,"9961.50"
+
+18:17:27.626,RX,"Differential Pressure values:"
+
+18:17:27.626,RX,"-3.21"
+
+18:17:27.626,RX,"Pressure values:"
+
+18:17:27.629,RX,"9963.70"
+
+18:17:27.745,RX,"Differential Pressure values:"
+
+18:17:27.775,RX,"0.38"
+
+18:17:27.775,RX,"Pressure values:"
+
+18:17:27.776,RX,"9967.30"
+
+18:17:27.926,RX,"Differential Pressure values:"
+
+18:17:27.927,RX,"5.18"
+
+18:17:27.927,RX,"Pressure values:"
+
+18:17:27.927,RX,"9972.10"
+
+18:17:28.076,RX,"Differential Pressure values:"
+
+18:17:28.076,RX,"8.18"
+
+18:17:28.077,RX,"Pressure values:"
+
+18:17:28.079,RX,"9975.10"
+
+18:17:28.226,RX,"Differential Pressure values:"
+
+18:17:28.227,RX,"7.98"
+
+18:17:28.227,RX,"Pressure values:"
+
+18:17:28.227,RX,"9974.90"
+
+18:17:28.376,RX,"Differential Pressure values:"
+
+18:17:28.377,RX,"7.08"
+
+18:17:28.377,RX,"Pressure values:"
+
+18:17:28.377,RX,"9974.00"
+
+18:17:28.495,RX,"Differential Pressure values:"
+
+18:17:28.525,RX,"7.18"
+
+18:17:28.526,RX,"Pressure values:"
+
+18:17:28.526,RX,"9974.10"
+
+18:17:28.647,RX,"Differential Pressure values:"
+
+18:17:28.648,RX,"6.98"
+
+18:17:28.648,RX,"Pressure values:"
+
+18:17:28.648,RX,"9973.90"
+
+18:17:28.796,RX,"Differential Pressure values:"
+
+18:17:28.797,RX,"5.98"
+
+18:17:28.797,RX,"Pressure values:"
+
+18:17:28.797,RX,"9972.90"
+
+18:17:28.946,RX,"Differential Pressure values:"
+
+18:17:28.947,RX,"5.58"
+
+18:17:28.950,RX,"Pressure values:"
+
+18:17:28.950,RX,"9972.50"
+
+18:17:29.096,RX,"Differential Pressure values:"
+
+18:17:29.097,RX,"5.78"
+
+18:17:29.097,RX,"Pressure values:"
+
+18:17:29.097,RX,"9972.70"
+
+18:17:29.246,RX,"Differential Pressure values:"
+
+18:17:29.247,RX,"4.08"
+
+18:17:29.247,RX,"Pressure values:"
+
+18:17:29.248,RX,"9971.00"
+
+18:17:29.396,RX,"Differential Pressure values:"
+
+18:17:29.396,RX,"3.38"
+
+18:17:29.398,RX,"Pressure values:"
+
+18:17:29.398,RX,"9970.30"
+
+18:17:29.546,RX,"Differential Pressure values:"
+
+18:17:29.547,RX,"2.78"
+
+18:17:29.547,RX,"Pressure values:"
+
+18:17:29.547,RX,"9969.70"
+
+18:17:29.696,RX,"Differential Pressure values:"
+
+18:17:29.697,RX,"2.48"
+
+18:17:29.697,RX,"Pressure values:"
+
+18:17:29.697,RX,"9969.40"
+
+18:17:29.846,RX,"Differential Pressure values:"
+
+18:17:29.847,RX,"2.18"
+
+18:17:29.847,RX,"Pressure values:"
+
+18:17:29.847,RX,"9969.10"
+
+18:17:29.996,RX,"Differential Pressure values:"
+
+18:17:29.997,RX,"0.98"
+
+18:17:29.997,RX,"Pressure values:"
+
+18:17:29.997,RX,"9967.90"
+
+18:17:30.162,RX,"Differential Pressure values:"
+
+18:17:30.164,RX,"-2.01"
+
+18:17:30.164,RX,"Pressure values:"
+
+18:17:30.164,RX,"9964.90"
+
+18:17:30.296,RX,"Differential Pressure values:"
+
+18:17:30.296,RX,"-7.61"
+
+18:17:30.299,RX,"Pressure values:"
+
+18:17:30.299,RX,"9959.30"
+
+18:17:30.446,RX,"Differential Pressure values:"
+
+18:17:30.447,RX,"-11.21"
+
+18:17:30.447,RX,"Pressure values:"
+
+18:17:30.447,RX,"9955.70"
+
+18:17:30.596,RX,"Differential Pressure values:"
+
+18:17:30.597,RX,"-9.91"
+
+18:17:30.597,RX,"Pressure values:"
+
+18:17:30.597,RX,"9957.00"
+
+18:17:30.746,RX,"Differential Pressure values:"
+
+18:17:30.747,RX,"-8.01"
+
+18:17:30.750,RX,"Pressure values:"
+
+18:17:30.750,RX,"9958.90"
+
+18:17:30.865,RX,"Differential Pressure values:"
+
+18:17:30.895,RX,"-7.91"
+
+18:17:30.896,RX,"Pressure values:"
+
+18:17:30.896,RX,"9959.00"
+
+18:17:31.046,RX,"Differential Pressure values:"
+
+18:17:31.047,RX,"-6.61"
+
+18:17:31.048,RX,"Pressure values:"
+
+18:17:31.048,RX,"9960.30"
+
+18:17:31.196,RX,"Differential Pressure values:"
+
+18:17:31.196,RX,"-4.91"
+
+18:17:31.199,RX,"Pressure values:"
+
+18:17:31.199,RX,"9962.00"
+
+18:17:31.346,RX,"Differential Pressure values:"
+
+18:17:31.347,RX,"-4.81"
+
+18:17:31.347,RX,"Pressure values:"
+
+18:17:31.347,RX,"9962.10"
+
+18:17:31.496,RX,"Differential Pressure values:"
+
+18:17:31.497,RX,"-3.91"
+
+18:17:31.497,RX,"Pressure values:"
+
+18:17:31.497,RX,"9963.00"
+
+18:17:31.616,RX,"Differential Pressure values:"
+
+18:17:31.645,RX,"-2.71"
+
+18:17:31.648,RX,"Pressure values:"
+
+18:17:31.649,RX,"9964.20"
+
+18:17:31.766,RX,"Differential Pressure values:"
+
+18:17:31.767,RX,"0.68"
+
+18:17:31.767,RX,"Pressure values:"
+
+18:17:31.767,RX,"9967.60"
+
+18:17:31.916,RX,"Differential Pressure values:"
+
+18:17:31.917,RX,"2.98"
+
+18:17:31.917,RX,"Pressure values:"
+
+18:17:31.917,RX,"9969.90"
+
+18:17:32.066,RX,"Differential Pressure values:"
+
+18:17:32.066,RX,"5.38"
+
+18:17:32.069,RX,"Pressure values:"
+
+18:17:32.069,RX,"9972.30"
+
+18:17:32.216,RX,"Differential Pressure values:"
+
+18:17:32.216,RX,"7.98"
+
+18:17:32.216,RX,"Pressure values:"
+
+18:17:32.216,RX,"9974.90"
+
+18:17:32.366,RX,"Differential Pressure values:"
+
+18:17:32.367,RX,"6.98"
+
+18:17:32.367,RX,"Pressure values:"
+
+18:17:32.367,RX,"9973.90"
+
+18:17:32.516,RX,"Differential Pressure values:"
+
+18:17:32.517,RX,"6.48"
+
+18:17:32.517,RX,"Pressure values:"
+
+18:17:32.517,RX,"9973.40"
+
+18:17:32.666,RX,"Differential Pressure values:"
+
+18:17:32.667,RX,"6.58"
+
+18:17:32.667,RX,"Pressure values:"
+
+18:17:32.667,RX,"9973.50"
+
+18:17:32.815,RX,"Differential Pressure values:"
+
+18:17:32.815,RX,"6.28"
+
+18:17:32.816,RX,"Pressure values:"
+
+18:17:32.817,RX,"9973.20"
+
+18:17:32.966,RX,"Differential Pressure values:"
+
+18:17:32.966,RX,"4.08"
+
+18:17:32.969,RX,"Pressure values:"
+
+18:17:32.969,RX,"9971.00"
+
+18:17:33.116,RX,"Differential Pressure values:"
+
+18:17:33.117,RX,"4.28"
+
+18:17:33.117,RX,"Pressure values:"
+
+18:17:33.117,RX,"9971.20"
+
+18:17:33.266,RX,"Differential Pressure values:"
+
+18:17:33.267,RX,"3.98"
+
+18:17:33.267,RX,"Pressure values:"
+
+18:17:33.267,RX,"9970.90"
+
+18:17:33.416,RX,"Differential Pressure values:"
+
+18:17:33.416,RX,"2.68"
+
+18:17:33.419,RX,"Pressure values:"
+
+18:17:33.419,RX,"9969.60"
+
+18:17:33.566,RX,"Differential Pressure values:"
+
+18:17:33.567,RX,"3.28"
+
+18:17:33.567,RX,"Pressure values:"
+
+18:17:33.570,RX,"9970.20"
+
+18:17:33.716,RX,"Differential Pressure values:"
+
+18:17:33.717,RX,"2.88"
+
+18:17:33.717,RX,"Pressure values:"
+
+18:17:33.717,RX,"9969.80"
+
+18:17:33.866,RX,"Differential Pressure values:"
+
+18:17:33.869,RX,"3.08"
+
+18:17:33.869,RX,"Pressure values:"
+
+18:17:33.870,RX,"9970.00"
+
+18:17:33.986,RX,"Differential Pressure values:"
+
+18:17:34.016,RX,"2.18"
+
+18:17:34.016,RX,"Pressure values:"
+
+18:17:34.017,RX,"9969.10"
+
+18:17:34.166,RX,"Differential Pressure values:"
+
+18:17:34.167,RX,"1.28"
+
+18:17:34.167,RX,"Pressure values:"
+
+18:17:34.167,RX,"9968.20"
+
+18:17:34.316,RX,"Differential Pressure values:"
+
+18:17:34.316,RX,"-1.91"
+
+18:17:34.316,RX,"Pressure values:"
+
+18:17:34.316,RX,"9965.00"
+
+18:17:34.466,RX,"Differential Pressure values:"
+
+18:17:34.466,RX,"-5.41"
+
+18:17:34.466,RX,"Pressure values:"
+
+18:17:34.469,RX,"9961.50"
+
+18:17:34.616,RX,"Differential Pressure values:"
+
+18:17:34.617,RX,"-5.31"
+
+18:17:34.617,RX,"Pressure values:"
+
+18:17:34.617,RX,"9961.60"
+
+18:17:34.736,RX,"Differential Pressure values:"
+
+18:17:34.766,RX,"-7.01"
+
+18:17:34.766,RX,"Pressure values:"
+
+18:17:34.766,RX,"9959.90"
+
+18:17:34.886,RX,"Differential Pressure values:"
+
+18:17:34.886,RX,"-7.51"
+
+18:17:34.887,RX,"Pressure values:"
+
+18:17:34.889,RX,"9959.40"
+
+18:17:35.036,RX,"Differential Pressure values:"
+
+18:17:35.037,RX,"-6.91"
+
+18:17:35.037,RX,"Pressure values:"
+
+18:17:35.037,RX,"9960.00"
+
+18:17:35.156,RX,"Differential Pressure values:"
+
+18:17:35.185,RX,"-6.71"
+
+18:17:35.186,RX,"Pressure values:"
+
+18:17:35.186,RX,"9960.20"
+
+18:17:35.336,RX,"Differential Pressure values:"
+
+18:17:35.336,RX,"-5.91"
+
+18:17:35.337,RX,"Pressure values:"
+
+18:17:35.339,RX,"9961.00"
+
+18:17:35.486,RX,"Differential Pressure values:"
+
+18:17:35.487,RX,"-6.41"
+
+18:17:35.487,RX,"Pressure values:"
+
+18:17:35.487,RX,"9960.50"
+
+18:17:35.636,RX,"Differential Pressure values:"
+
+18:17:35.636,RX,"-6.41"
+
+18:17:35.637,RX,"Pressure values:"
+
+18:17:35.637,RX,"9960.50"
+
+18:17:35.786,RX,"Differential Pressure values:"
+
+18:17:35.786,RX,"-5.31"
+
+18:17:35.787,RX,"Pressure values:"
+
+18:17:35.789,RX,"9961.60"
+
+18:17:35.936,RX,"Differential Pressure values:"
+
+18:17:35.937,RX,"-5.31"
+
+18:17:35.937,RX,"Pressure values:"
+
+18:17:35.937,RX,"9961.60"
+
+18:17:36.085,RX,"Differential Pressure values:"
+
+18:17:36.086,RX,"-2.71"
+
+18:17:36.087,RX,"Pressure values:"
+
+18:17:36.087,RX,"9964.20"
+
+18:17:36.236,RX,"Differential Pressure values:"
+
+18:17:36.236,RX,"-1.21"
+
+18:17:36.236,RX,"Pressure values:"
+
+18:17:36.239,RX,"9965.70"
+
+18:17:36.386,RX,"Differential Pressure values:"
+
+18:17:36.387,RX,"0.48"
+
+18:17:36.387,RX,"Pressure values:"
+
+18:17:36.388,RX,"9967.40"
+
+18:17:36.536,RX,"Differential Pressure values:"
+
+18:17:36.536,RX,"2.18"
+
+18:17:36.537,RX,"Pressure values:"
+
+18:17:36.537,RX,"9969.10"
+
+18:17:36.686,RX,"Differential Pressure values:"
+
+18:17:36.686,RX,"3.68"
+
+18:17:36.686,RX,"Pressure values:"
+
+18:17:36.689,RX,"9970.60"
+
+18:17:36.836,RX,"Differential Pressure values:"
+
+18:17:36.837,RX,"4.78"
+
+18:17:36.837,RX,"Pressure values:"
+
+18:17:36.837,RX,"9971.70"
+
+18:17:36.986,RX,"Differential Pressure values:"
+
+18:17:36.986,RX,"6.98"
+
+18:17:36.987,RX,"Pressure values:"
+
+18:17:36.987,RX,"9973.90"
+
+18:17:37.105,RX,"Differential Pressure values:"
+
+18:17:37.135,RX,"6.48"
+
+18:17:37.135,RX,"Pressure values:"
+
+18:17:37.138,RX,"9973.40"
+
+18:17:37.286,RX,"Differential Pressure values:"
+
+18:17:37.287,RX,"6.38"
+
+18:17:37.287,RX,"Pressure values:"
+
+18:17:37.287,RX,"9973.30"
+
+18:17:37.436,RX,"Differential Pressure values:"
+
+18:17:37.437,RX,"6.48"
+
+18:17:37.437,RX,"Pressure values:"
+
+18:17:37.467,RX,"9973.40"
+
+18:17:37.586,RX,"Differential Pressure values:"
+
+18:17:37.586,RX,"6.18"
+
+18:17:37.586,RX,"Pressure values:"
+
+18:17:37.589,RX,"9973.10"
+
+18:17:37.736,RX,"Differential Pressure values:"
+
+18:17:37.737,RX,"6.08"
+
+18:17:37.737,RX,"Pressure values:"
+
+18:17:37.737,RX,"9973.00"
+
+18:17:37.855,RX,"Differential Pressure values:"
+
+18:17:37.885,RX,"5.88"
+
+18:17:37.886,RX,"Pressure values:"
+
+18:17:37.886,RX,"9972.80"
+
+18:17:38.036,RX,"Differential Pressure values:"
+
+18:17:38.036,RX,"4.58"
+
+18:17:38.036,RX,"Pressure values:"
+
+18:17:38.039,RX,"9971.50"
+
+18:17:38.185,RX,"Differential Pressure values:"
+
+18:17:38.187,RX,"4.28"
+
+18:17:38.187,RX,"Pressure values:"
+
+18:17:38.187,RX,"9971.20"
+
+18:17:38.336,RX,"Differential Pressure values:"
+
+18:17:38.336,RX,"4.38"
+
+18:17:38.337,RX,"Pressure values:"
+
+18:17:38.337,RX,"9971.30"
+
+18:17:38.486,RX,"Differential Pressure values:"
+
+18:17:38.487,RX,"3.18"
+
+18:17:38.487,RX,"Pressure values:"
+
+18:17:38.488,RX,"9970.10"
+
+18:17:38.636,RX,"Differential Pressure values:"
+
+18:17:38.637,RX,"3.78"
+
+18:17:38.637,RX,"Pressure values:"
+
+18:17:38.637,RX,"9970.70"
+
+18:17:38.785,RX,"Differential Pressure values:"
+
+18:17:38.786,RX,"3.28"
+
+18:17:38.786,RX,"Pressure values:"
+
+18:17:38.788,RX,"9970.20"
+
+18:17:38.936,RX,"Differential Pressure values:"
+
+18:17:38.936,RX,"2.98"
+
+18:17:38.939,RX,"Pressure values:"
+
+18:17:38.939,RX,"9969.90"
+
+18:17:39.086,RX,"Differential Pressure values:"
+
+18:17:39.087,RX,"3.08"
+
+18:17:39.087,RX,"Pressure values:"
+
+18:17:39.087,RX,"9970.00"
+
+18:17:39.236,RX,"Differential Pressure values:"
+
+18:17:39.237,RX,"2.18"
+
+18:17:39.237,RX,"Pressure values:"
+
+18:17:39.237,RX,"9969.10"
+
+18:17:39.356,RX,"Differential Pressure values:"
+
+18:17:39.385,RX,"1.78"
+
+18:17:39.388,RX,"Pressure values:"
+
+18:17:39.388,RX,"9968.70"
+
+18:17:39.536,RX,"Differential Pressure values:"
+
+18:17:39.537,RX,"-0.41"
+
+18:17:39.537,RX,"Pressure values:"
+
+18:17:39.537,RX,"9966.50"
+
+18:17:39.686,RX,"Differential Pressure values:"
+
+18:17:39.687,RX,"-5.01"
+
+18:17:39.687,RX,"Pressure values:"
+
+18:17:39.687,RX,"9961.90"
+
+18:17:39.836,RX,"Differential Pressure values:"
+
+18:17:39.836,RX,"-9.11"
+
+18:17:39.839,RX,"Pressure values:"
+
+18:17:39.839,RX,"9957.80"
+
+18:17:39.986,RX,"Differential Pressure values:"
+
+18:17:39.987,RX,"-12.41"
+
+18:17:39.987,RX,"Pressure values:"
+
+18:17:39.987,RX,"9954.50"
+
+18:17:40.105,RX,"Differential Pressure values:"
+
+18:17:40.135,RX,"-12.61"
+
+18:17:40.135,RX,"Pressure values:"
+
+18:17:40.136,RX,"9954.30"
+
+18:17:40.286,RX,"Differential Pressure values:"
+
+18:17:40.286,RX,"-11.51"
+
+18:17:40.287,RX,"Pressure values:"
+
+18:17:40.287,RX,"9955.40"
+
+18:17:40.436,RX,"Differential Pressure values:"
+
+18:17:40.437,RX,"-10.61"
+
+18:17:40.437,RX,"Pressure values:"
+
+18:17:40.437,RX,"9956.30"
+
+18:17:40.587,RX,"Differential Pressure values:"
+
+18:17:40.588,RX,"-9.11"
+
+18:17:40.588,RX,"Pressure values:"
+
+18:17:40.588,RX,"9957.80"
+
+18:17:40.735,RX,"Differential Pressure values:"
+
+18:17:40.736,RX,"-9.11"
+
+18:17:40.739,RX,"Pressure values:"
+
+18:17:40.739,RX,"9957.80"
+
+18:17:40.886,RX,"Differential Pressure values:"
+
+18:17:40.887,RX,"-8.11"
+
+18:17:40.887,RX,"Pressure values:"
+
+18:17:40.887,RX,"9958.80"
+
+18:17:41.036,RX,"Differential Pressure values:"
+
+18:17:41.037,RX,"-8.81"
+
+18:17:41.037,RX,"Pressure values:"
+
+18:17:41.037,RX,"9958.10"
+
+18:17:41.185,RX,"Differential Pressure values:"
+
+18:17:41.186,RX,"-12.31"
+
+18:17:41.189,RX,"Pressure values:"
+
+18:17:41.189,RX,"9954.60"
+
+18:17:41.336,RX,"Differential Pressure values:"
+
+18:17:41.337,RX,"-11.21"
+
+18:17:41.337,RX,"Pressure values:"
+
+18:17:41.337,RX,"9955.70"
+
+18:17:41.485,RX,"Differential Pressure values:"
+
+18:17:41.486,RX,"-5.31"
+
+18:17:41.486,RX,"Pressure values:"
+
+18:17:41.486,RX,"9961.60"
+
+18:17:41.635,RX,"Differential Pressure values:"
+
+18:17:41.636,RX,"6.08"
+
+18:17:41.639,RX,"Pressure values:"
+
+18:17:41.639,RX,"9973.00"
+
+18:17:41.786,RX,"Differential Pressure values:"
+
+18:17:41.787,RX,"10.78"
+
+18:17:41.787,RX,"Pressure values:"
+
+18:17:41.787,RX,"9977.70"
+
+18:17:41.936,RX,"Differential Pressure values:"
+
+18:17:41.937,RX,"10.28"
+
+18:17:41.937,RX,"Pressure values:"
+
+18:17:41.937,RX,"9977.20"
+
+18:17:42.086,RX,"Differential Pressure values:"
+
+18:17:42.086,RX,"9.78"
+
+18:17:42.089,RX,"Pressure values:"
+
+18:17:42.089,RX,"9976.70"
+
+18:17:42.236,RX,"Differential Pressure values:"
+
+18:17:42.237,RX,"9.38"
+
+18:17:42.237,RX,"Pressure values:"
+
+18:17:42.237,RX,"9976.30"
+
+18:17:42.386,RX,"Differential Pressure values:"
+
+18:17:42.387,RX,"7.18"
+
+18:17:42.387,RX,"Pressure values:"
+
+18:17:42.387,RX,"9974.10"
+
+18:17:42.536,RX,"Differential Pressure values:"
+
+18:17:42.536,RX,"7.68"
+
+18:17:42.539,RX,"Pressure values:"
+
+18:17:42.539,RX,"9974.60"
+
+18:17:42.686,RX,"Differential Pressure values:"
+
+18:17:42.687,RX,"7.28"
+
+18:17:42.687,RX,"Pressure values:"
+
+18:17:42.687,RX,"9974.20"
+
+18:17:42.805,RX,"Differential Pressure values:"
+
+18:17:42.835,RX,"6.38"
+
+18:17:42.836,RX,"Pressure values:"
+
+18:17:42.836,RX,"9973.30"
+
+18:17:42.985,RX,"Differential Pressure values:"
+
+18:17:42.987,RX,"6.18"
+
+18:17:42.987,RX,"Pressure values:"
+
+18:17:42.987,RX,"9973.10"
+
+18:17:43.136,RX,"Differential Pressure values:"
+
+18:17:43.137,RX,"4.68"
+
+18:17:43.137,RX,"Pressure values:"
+
+18:17:43.137,RX,"9971.60"
+
+18:17:43.286,RX,"Differential Pressure values:"
+
+18:17:43.287,RX,"1.28"
+
+18:17:43.287,RX,"Pressure values:"
+
+18:17:43.287,RX,"9968.20"
+
+18:17:43.436,RX,"Differential Pressure values:"
+
+18:17:43.437,RX,"-5.11"
+
+18:17:43.437,RX,"Pressure values:"
+
+18:17:43.437,RX,"9961.80"
+
+18:17:43.586,RX,"Differential Pressure values:"
+
+18:17:43.586,RX,"-11.41"
+
+18:17:43.586,RX,"Pressure values:"
+
+18:17:43.588,RX,"9955.50"
+
+18:17:43.736,RX,"Differential Pressure values:"
+
+18:17:43.737,RX,"-16.21"
+
+18:17:43.737,RX,"Pressure values:"
+
+18:17:43.737,RX,"9950.70"
+
+18:17:43.886,RX,"Differential Pressure values:"
+
+18:17:43.886,RX,"-17.41"
+
+18:17:43.887,RX,"Pressure values:"
+
+18:17:43.887,RX,"9949.50"
+
+18:17:44.036,RX,"Differential Pressure values:"
+
+18:17:44.036,RX,"-16.11"
+
+18:17:44.036,RX,"Pressure values:"
+
+18:17:44.039,RX,"9950.80"
+
+18:17:44.186,RX,"Differential Pressure values:"
+
+18:17:44.187,RX,"-15.31"
+
+18:17:44.187,RX,"Pressure values:"
+
+18:17:44.187,RX,"9951.60"
+
+18:17:44.305,RX,"Differential Pressure values:"
+
+18:17:44.335,RX,"-12.51"
+
+18:17:44.335,RX,"Pressure values:"
+
+18:17:44.336,RX,"9954.40"
+
+18:17:44.456,RX,"Differential Pressure values:"
+
+18:17:44.456,RX,"-24.31"
+
+18:17:44.457,RX,"Pressure values:"
+
+18:17:44.484,RX,"9942.60"
+
+18:17:44.606,RX,"Differential Pressure values:"
+
+18:17:44.607,RX,"-31.81"
+
+18:17:44.607,RX,"Pressure values:"
+
+18:17:44.607,RX,"9935.10"
+
+18:17:44.756,RX,"Differential Pressure values:"
+
+18:17:44.757,RX,"-30.01"
+
+18:17:44.757,RX,"Pressure values:"
+
+18:17:44.787,RX,"9936.90"
+
+18:17:44.906,RX,"Differential Pressure values:"
+
+18:17:44.906,RX,"-10.61"
+
+18:17:44.906,RX,"Pressure values:"
+
+18:17:44.909,RX,"9956.30"
+
+18:17:45.056,RX,"Differential Pressure values:"
+
+18:17:45.057,RX,"7.48"
+
+18:17:45.057,RX,"Pressure values:"
+
+18:17:45.087,RX,"9974.40"
+
+18:17:45.206,RX,"Differential Pressure values:"
+
+18:17:45.206,RX,"8.58"
+
+18:17:45.206,RX,"Pressure values:"
+
+18:17:45.207,RX,"9975.50"
+
+18:17:45.356,RX,"Differential Pressure values:"
+
+18:17:45.357,RX,"10.68"
+
+18:17:45.357,RX,"Pressure values:"
+
+18:17:45.385,RX,"9977.60"
+
+18:17:45.506,RX,"Differential Pressure values:"
+
+18:17:45.507,RX,"9.68"
+
+18:17:45.507,RX,"Pressure values:"
+
+18:17:45.507,RX,"9976.60"
+
+18:17:45.656,RX,"Differential Pressure values:"
+
+18:17:45.657,RX,"8.68"
+
+18:17:45.657,RX,"Pressure values:"
+
+18:17:45.687,RX,"9975.60"
+
+18:17:45.806,RX,"Differential Pressure values:"
+
+18:17:45.806,RX,"8.28"
+
+18:17:45.806,RX,"Pressure values:"
+
+18:17:45.809,RX,"9975.20"
+
+18:17:45.925,RX,"Differential Pressure values:"
+
+18:17:45.955,RX,"9.28"
+
+18:17:45.955,RX,"Pressure values:"
+
+18:17:45.957,RX,"9976.20"
+
+18:17:46.106,RX,"Differential Pressure values:"
+
+18:17:46.107,RX,"9.88"
+
+18:17:46.107,RX,"Pressure values:"
+
+18:17:46.107,RX,"9976.80"
+
+18:17:46.256,RX,"Differential Pressure values:"
+
+18:17:46.257,RX,"8.78"
+
+18:17:46.257,RX,"Pressure values:"
+
+18:17:46.284,RX,"9975.70"
+
+18:17:46.406,RX,"Differential Pressure values:"
+
+18:17:46.407,RX,"7.88"
+
+18:17:46.407,RX,"Pressure values:"
+
+18:17:46.407,RX,"9974.80"
+
+18:17:46.555,RX,"Differential Pressure values:"
+
+18:17:46.558,RX,"5.28"
+
+18:17:46.559,RX,"Pressure values:"
+
+18:17:46.587,RX,"9972.20"
+
+18:17:46.676,RX,"Differential Pressure values:"
+
+18:17:46.705,RX,"2.88"
+
+18:17:46.705,RX,"Pressure values:"
+
+18:17:46.706,RX,"9969.80"
+
+18:17:46.856,RX,"Differential Pressure values:"
+
+18:17:46.858,RX,"0.68"
+
+18:17:46.858,RX,"Pressure values:"
+
+18:17:46.887,RX,"9967.60"
+
+18:17:47.006,RX,"Differential Pressure values:"
+
+18:17:47.006,RX,"-0.21"
+
+18:17:47.006,RX,"Pressure values:"
+
+18:17:47.007,RX,"9966.70"
+
+18:17:47.156,RX,"Differential Pressure values:"
+
+18:17:47.157,RX,"-4.01"
+
+18:17:47.157,RX,"Pressure values:"
+
+18:17:47.184,RX,"9962.90"
+
+18:17:47.306,RX,"Differential Pressure values:"
+
+18:17:47.307,RX,"-7.11"
+
+18:17:47.307,RX,"Pressure values:"
+
+18:17:47.307,RX,"9959.80"
+
+18:17:47.425,RX,"Differential Pressure values:"
+
+18:17:47.456,RX,"-7.51"
+
+18:17:47.457,RX,"Pressure values:"
+
+18:17:47.457,RX,"9959.40"
+
+18:17:47.605,RX,"Differential Pressure values:"
+
+18:17:47.606,RX,"-3.61"
+
+18:17:47.606,RX,"Pressure values:"
+
+18:17:47.609,RX,"9963.30"
+
+18:17:47.757,RX,"Differential Pressure values:"
+
+18:17:47.758,RX,"-4.71"
+
+18:17:47.758,RX,"Pressure values:"
+
+18:17:47.787,RX,"9962.20"
+
+18:17:47.906,RX,"Differential Pressure values:"
+
+18:17:47.906,RX,"-2.71"
+
+18:17:47.906,RX,"Pressure values:"
+
+18:17:47.907,RX,"9964.20"
+
+18:17:48.055,RX,"Differential Pressure values:"
+
+18:17:48.056,RX,"-0.71"
+
+18:17:48.056,RX,"Pressure values:"
+
+18:17:48.084,RX,"9966.20"
+
+18:17:48.175,RX,"Differential Pressure values:"
+
+18:17:48.205,RX,"-0.81"
+
+18:17:48.205,RX,"Pressure values:"
+
+18:17:48.206,RX,"9966.10"
+
+18:17:48.356,RX,"Differential Pressure values:"
+
+18:17:48.357,RX,"0.38"
+
+18:17:48.357,RX,"Pressure values:"
+
+18:17:48.387,RX,"9967.30"
+
+18:17:48.505,RX,"Differential Pressure values:"
+
+18:17:48.506,RX,"0.98"
+
+18:17:48.506,RX,"Pressure values:"
+
+18:17:48.509,RX,"9967.90"
+
+18:17:48.656,RX,"Differential Pressure values:"
+
+18:17:48.657,RX,"1.58"
+
+18:17:48.658,RX,"Pressure values:"
+
+18:17:48.687,RX,"9968.50"
+
+18:17:48.806,RX,"Differential Pressure values:"
+
+18:17:48.806,RX,"0.68"
+
+18:17:48.807,RX,"Pressure values:"
+
+18:17:48.807,RX,"9967.60"
+
+18:17:48.925,RX,"Differential Pressure values:"
+
+18:17:48.955,RX,"0.88"
+
+18:17:48.955,RX,"Pressure values:"
+
+18:17:48.958,RX,"9967.80"
+
+18:17:49.106,RX,"Differential Pressure values:"
+
+18:17:49.107,RX,"0.38"
+
+18:17:49.107,RX,"Pressure values:"
+
+18:17:49.107,RX,"9967.30"
+
+18:17:49.256,RX,"Differential Pressure values:"
+
+18:17:49.257,RX,"1.68"
+
+18:17:49.257,RX,"Pressure values:"
+
+18:17:49.287,RX,"9968.60"
+
+18:17:49.406,RX,"Differential Pressure values:"
+
+18:17:49.406,RX,"2.68"
+
+18:17:49.406,RX,"Pressure values:"
+
+18:17:49.409,RX,"9969.60"
+
+18:17:49.556,RX,"Differential Pressure values:"
+
+18:17:49.557,RX,"1.58"
+
+18:17:49.557,RX,"Pressure values:"
+
+18:17:49.587,RX,"9968.50"
+
+18:17:49.706,RX,"Differential Pressure values:"
+
+18:17:49.706,RX,"0.88"
+
+18:17:49.707,RX,"Pressure values:"
+
+18:17:49.707,RX,"9967.80"
+
+18:17:49.855,RX,"Differential Pressure values:"
+
+18:17:49.856,RX,"-0.21"
+
+18:17:49.856,RX,"Pressure values:"
+
+18:17:49.884,RX,"9966.70"
+
+18:17:50.006,RX,"Differential Pressure values:"
+
+18:17:50.007,RX,"-5.71"
+
+18:17:50.007,RX,"Pressure values:"
+
+18:17:50.007,RX,"9961.20"
+
+18:17:50.156,RX,"Differential Pressure values:"
+
+18:17:50.157,RX,"-1.11"
+
+18:17:50.157,RX,"Pressure values:"
+
+18:17:50.187,RX,"9965.80"
+
+18:17:50.306,RX,"Differential Pressure values:"
+
+18:17:50.307,RX,"-0.11"
+
+18:17:50.308,RX,"Pressure values:"
+
+18:17:50.308,RX,"9966.80"
+
+18:17:50.456,RX,"Differential Pressure values:"
+
+18:17:50.457,RX,"0.28"
+
+18:17:50.458,RX,"Pressure values:"
+
+18:17:50.485,RX,"9967.20"
+
+18:17:50.605,RX,"Differential Pressure values:"
+
+18:17:50.607,RX,"0.38"
+
+18:17:50.607,RX,"Pressure values:"
+
+18:17:50.607,RX,"9967.30"
+
+18:17:50.757,RX,"Differential Pressure values:"
+
+18:17:50.757,RX,"0.08"
+
+18:17:50.757,RX,"Pressure values:"
+
+18:17:50.787,RX,"9967.00"
+
+18:17:50.875,RX,"Differential Pressure values:"
+
+18:17:50.905,RX,"0.18"
+
+18:17:50.906,RX,"Pressure values:"
+
+18:17:50.906,RX,"9967.10"
+
+18:17:51.056,RX,"Differential Pressure values:"
+
+18:17:51.058,RX,"0.28"
+
+18:17:51.058,RX,"Pressure values:"
+
+18:17:51.087,RX,"9967.20"
+
+18:17:51.206,RX,"Differential Pressure values:"
+
+18:17:51.207,RX,"0.18"
+
+18:17:51.209,RX,"Pressure values:"
+
+18:17:51.210,RX,"9967.10"
+
+18:17:51.356,RX,"Differential Pressure values:"
+
+18:17:51.358,RX,"0.38"
+
+18:17:51.358,RX,"Pressure values:"
+
+18:17:51.387,RX,"9967.30"
+
+18:17:51.506,RX,"Differential Pressure values:"
+
+18:17:51.507,RX,"0.28"
+
+18:17:51.507,RX,"Pressure values:"
+
+18:17:51.507,RX,"9967.20"
+
+18:17:51.626,RX,"Differential Pressure values:"
+
+18:17:51.655,RX,"0.28"
+
+18:17:51.658,RX,"Pressure values:"
+
+18:17:51.658,RX,"9967.20"
+
+18:17:51.806,RX,"Differential Pressure values:"
+
+18:17:51.807,RX,"0.48"
+
+18:17:51.807,RX,"Pressure values:"
+
+18:17:51.807,RX,"9967.40"
+
+18:17:51.956,RX,"Differential Pressure values:"
+
+18:17:51.959,RX,"0.08"
+
+18:17:51.959,RX,"Pressure values:"
+
+18:17:51.987,RX,"9967.00"
+
+18:17:52.106,RX,"Differential Pressure values:"
+
+18:17:52.106,RX,"0.08"
+
+18:17:52.111,RX,"Pressure values:"
+
+18:17:52.112,RX,"9967.00"
+
+18:17:52.256,RX,"Differential Pressure values:"
+
+18:17:52.257,RX,"1.88"
+
+18:17:52.258,RX,"Pressure values:"
+
+18:17:52.287,RX,"9968.80"
+
+18:17:52.375,RX,"Differential Pressure values:"
+
+18:17:52.405,RX,"4.08"
+
+18:17:52.405,RX,"Pressure values:"
+
+18:17:52.405,RX,"9971.00"
+
+18:17:52.526,RX,"Differential Pressure values:"
+
+18:17:52.526,RX,"4.48"
+
+18:17:52.529,RX,"Pressure values:"
+
+18:17:52.529,RX,"9971.40"
+
+18:17:52.675,RX,"Differential Pressure values:"
+
+18:17:52.678,RX,"4.48"
+
+18:17:52.678,RX,"Pressure values:"
+
+18:17:52.678,RX,"9971.40"
+
+18:17:52.795,RX,"Differential Pressure values:"
+
+18:17:52.825,RX,"0.58"
+
+18:17:52.826,RX,"Pressure values:"
+
+18:17:52.826,RX,"9967.50"
+
+18:17:52.975,RX,"Differential Pressure values:"
+
+18:17:52.976,RX,"-0.81"
+
+18:17:52.981,RX,"Pressure values:"
+
+18:17:52.981,RX,"9966.10"
+
+18:17:53.124,RX,"Differential Pressure values:"
+
+18:17:53.125,RX,"-8.71"
+
+18:17:53.125,RX,"Pressure values:"
+
+18:17:53.127,RX,"9958.20"
+
+18:17:53.275,RX,"Differential Pressure values:"
+
+18:17:53.277,RX,"-66.41"
+
+18:17:53.278,RX,"Pressure values:"
+
+18:17:53.278,RX,"9900.50"
+
+18:17:53.426,RX,"Differential Pressure values:"
+
+18:17:53.426,RX,"-66.41"
+
+18:17:53.429,RX,"Pressure values:"
+
+18:17:53.429,RX,"9900.50"
+
+18:17:53.575,RX,"Differential Pressure values:"
+
+18:17:53.576,RX,"-54.21"
+
+18:17:53.577,RX,"Pressure values:"
+
+18:17:53.577,RX,"9912.70"
+
+18:17:53.726,RX,"Differential Pressure values:"
+
+18:17:53.727,RX,"-51.11"
+
+18:17:53.727,RX,"Pressure values:"
+
+18:17:53.727,RX,"9915.80"
+
+18:17:53.875,RX,"Differential Pressure values:"
+
+18:17:53.876,RX,"-50.01"
+
+18:17:53.879,RX,"Pressure values:"
+
+18:17:53.879,RX,"9916.90"
+
+18:17:54.025,RX,"Differential Pressure values:"
+
+18:17:54.027,RX,"-51.51"
+
+18:17:54.027,RX,"Pressure values:"
+
+18:17:54.027,RX,"9915.40"
+
+18:17:54.175,RX,"Differential Pressure values:"
+
+18:17:54.177,RX,"-47.01"
+
+18:17:54.177,RX,"Pressure values:"
+
+18:17:54.177,RX,"9919.90"
+
+18:17:54.325,RX,"Differential Pressure values:"
+
+18:17:54.326,RX,"-43.41"
+
+18:17:54.329,RX,"Pressure values:"
+
+18:17:54.329,RX,"9923.50"
+
+18:17:54.475,RX,"Differential Pressure values:"
+
+18:17:54.476,RX,"-37.51"
+
+18:17:54.476,RX,"Pressure values:"
+
+18:17:54.477,RX,"9929.40"
+
+18:17:54.626,RX,"Differential Pressure values:"
+
+18:17:54.627,RX,"-1.41"
+
+18:17:54.627,RX,"Pressure values:"
+
+18:17:54.627,RX,"9965.50"
+
+18:17:54.746,RX,"Differential Pressure values:"
+
+18:17:54.775,RX,"2.58"
+
+18:17:54.777,RX,"Pressure values:"
+
+18:17:54.777,RX,"9969.50"
+
+18:17:54.926,RX,"Differential Pressure values:"
+
+18:17:54.927,RX,"0.78"
+
+18:17:54.927,RX,"Pressure values:"
+
+18:17:54.927,RX,"9967.70"
+
+18:17:55.075,RX,"Differential Pressure values:"
+
+18:17:55.077,RX,"1.58"
+
+18:17:55.077,RX,"Pressure values:"
+
+18:17:55.077,RX,"9968.50"
+
+18:17:55.226,RX,"Differential Pressure values:"
+
+18:17:55.226,RX,"1.68"
+
+18:17:55.229,RX,"Pressure values:"
+
+18:17:55.229,RX,"9968.60"
+
+18:17:55.375,RX,"Differential Pressure values:"
+
+18:17:55.377,RX,"1.48"
+
+18:17:55.377,RX,"Pressure values:"
+
+18:17:55.377,RX,"9968.40"
+
+18:17:55.495,RX,"Differential Pressure values:"
+
+18:17:55.526,RX,"1.18"
+
+18:17:55.526,RX,"Pressure values:"
+
+18:17:55.526,RX,"9968.10"
+
+18:17:55.675,RX,"Differential Pressure values:"
+
+18:17:55.676,RX,"1.28"
+
+18:17:55.679,RX,"Pressure values:"
+
+18:17:55.679,RX,"9968.20"
+
+18:17:55.825,RX,"Differential Pressure values:"
+
+18:17:55.827,RX,"11.18"
+
+18:17:55.827,RX,"Pressure values:"
+
+18:17:55.827,RX,"9978.10"
+
+18:17:55.975,RX,"Differential Pressure values:"
+
+18:17:55.977,RX,"15.28"
+
+18:17:55.977,RX,"Pressure values:"
+
+18:17:55.977,RX,"9982.20"
+
+18:17:56.125,RX,"Differential Pressure values:"
+
+18:17:56.125,RX,"16.28"
+
+18:17:56.129,RX,"Pressure values:"
+
+18:17:56.129,RX,"9983.20"
+
+18:17:56.245,RX,"Differential Pressure values:"
+
+18:17:56.275,RX,"16.48"
+
+18:17:56.276,RX,"Pressure values:"
+
+18:17:56.276,RX,"9983.40"
+
+18:17:56.396,RX,"Differential Pressure values:"
+
+18:17:56.397,RX,"13.98"
+
+18:17:56.398,RX,"Pressure values:"
+
+18:17:56.398,RX,"9980.90"
+
+18:17:56.545,RX,"Differential Pressure values:"
+
+18:17:56.545,RX,"13.08"
+
+18:17:56.548,RX,"Pressure values:"
+
+18:17:56.548,RX,"9980.00"
+
+18:17:56.696,RX,"Differential Pressure values:"
+
+18:17:56.697,RX,"13.08"
+
+18:17:56.697,RX,"Pressure values:"
+
+18:17:56.697,RX,"9980.00"
+
+18:17:56.846,RX,"Differential Pressure values:"
+
+18:17:56.847,RX,"11.58"
+
+18:17:56.847,RX,"Pressure values:"
+
+18:17:56.847,RX,"9978.50"
+
+18:17:56.995,RX,"Differential Pressure values:"
+
+18:17:56.996,RX,"8.98"
+
+18:17:56.999,RX,"Pressure values:"
+
+18:17:56.999,RX,"9975.90"
+
+18:17:57.145,RX,"Differential Pressure values:"
+
+18:17:57.149,RX,"5.78"
+
+18:17:57.149,RX,"Pressure values:"
+
+18:17:57.149,RX,"9972.70"
+
+18:17:57.296,RX,"Differential Pressure values:"
+
+18:17:57.297,RX,"3.78"
+
+18:17:57.297,RX,"Pressure values:"
+
+18:17:57.298,RX,"9970.70"
+
+18:17:57.446,RX,"Differential Pressure values:"
+
+18:17:57.446,RX,"2.18"
+
+18:17:57.449,RX,"Pressure values:"
+
+18:17:57.449,RX,"9969.10"
+
+18:17:57.596,RX,"Differential Pressure values:"
+
+18:17:57.597,RX,"-0.21"
+
+18:17:57.597,RX,"Pressure values:"
+
+18:17:57.597,RX,"9966.70"
+
+18:17:57.746,RX,"Differential Pressure values:"
+
+18:17:57.747,RX,"1.58"
+
+18:17:57.747,RX,"Pressure values:"
+
+18:17:57.747,RX,"9968.50"
+
+18:17:57.865,RX,"Differential Pressure values:"
+
+18:17:57.895,RX,"-0.21"
+
+18:17:57.897,RX,"Pressure values:"
+
+18:17:57.900,RX,"9966.70"
+
+18:17:58.046,RX,"Differential Pressure values:"
+
+18:17:58.047,RX,"-11.51"
+
+18:17:58.047,RX,"Pressure values:"
+
+18:17:58.047,RX,"9955.40"
+
+18:17:58.195,RX,"Differential Pressure values:"
+
+18:17:58.196,RX,"-27.41"
+
+18:17:58.196,RX,"Pressure values:"
+
+18:17:58.197,RX,"9939.50"
+
+18:17:58.346,RX,"Differential Pressure values:"
+
+18:17:58.346,RX,"-23.11"
+
+18:17:58.349,RX,"Pressure values:"
+
+18:17:58.349,RX,"9943.80"
+
+18:17:58.496,RX,"Differential Pressure values:"
+
+18:17:58.496,RX,"-20.01"
+
+18:17:58.497,RX,"Pressure values:"
+
+18:17:58.497,RX,"9946.90"
+
+18:17:58.615,RX,"Differential Pressure values:"
+
+18:17:58.646,RX,"-11.81"
+
+18:17:58.646,RX,"Pressure values:"
+
+18:17:58.646,RX,"9955.10"
+
+18:17:58.795,RX,"Differential Pressure values:"
+
+18:17:58.796,RX,"-1.61"
+
+18:17:58.799,RX,"Pressure values:"
+
+18:17:58.799,RX,"9965.30"
+
+18:17:58.945,RX,"Differential Pressure values:"
+
+18:17:58.946,RX,"1.08"
+
+18:17:58.947,RX,"Pressure values:"
+
+18:17:58.947,RX,"9968.00"
+
+18:17:59.096,RX,"Differential Pressure values:"
+
+18:17:59.097,RX,"0.88"
+
+18:17:59.097,RX,"Pressure values:"
+
+18:17:59.097,RX,"9967.80"
+
+18:17:59.246,RX,"Differential Pressure values:"
+
+18:17:59.246,RX,"-0.01"
+
+18:17:59.249,RX,"Pressure values:"
+
+18:17:59.249,RX,"9966.90"
+
+18:17:59.365,RX,"Differential Pressure values:"
+
+18:17:59.394,RX,"-5.31"
+
+18:17:59.396,RX,"Pressure values:"
+
+18:17:59.396,RX,"9961.60"
+
+18:17:59.532,RX,"Differential Pressure values:"
+
+18:17:59.532,RX,"-3.01"
+
+18:17:59.532,RX,"Pressure values:"
+
+18:17:59.532,RX,"9963.90"
+
+18:17:59.667,RX,"Differential Pressure values:"
+
+18:17:59.668,RX,"-1.11"
+
+18:17:59.668,RX,"Pressure values:"
+
+18:17:59.668,RX,"9965.80"
+
+18:17:59.816,RX,"Differential Pressure values:"
+
+18:17:59.817,RX,"-3.01"
+
+18:17:59.817,RX,"Pressure values:"
+
+18:17:59.817,RX,"9963.90"
+
+18:17:59.966,RX,"Differential Pressure values:"
+
+18:17:59.967,RX,"-2.91"
+
+18:17:59.967,RX,"Pressure values:"
+
+18:17:59.967,RX,"9964.00"
+
+18:18:00.116,RX,"Differential Pressure values:"
+
+18:18:00.116,RX,"-19.61"
+
+18:18:00.119,RX,"Pressure values:"
+
+18:18:00.119,RX,"9947.30"
+
+18:18:00.266,RX,"Differential Pressure values:"
+
+18:18:00.267,RX,"-10.81"
+
+18:18:00.267,RX,"Pressure values:"
+
+18:18:00.267,RX,"9956.10"
+
+18:18:00.415,RX,"Differential Pressure values:"
+
+18:18:00.417,RX,"6.98"
+
+18:18:00.417,RX,"Pressure values:"
+
+18:18:00.417,RX,"9973.90"
+
+18:18:00.566,RX,"Differential Pressure values:"
+
+18:18:00.567,RX,"20.88"
+
+18:18:00.567,RX,"Pressure values:"
+
+18:18:00.567,RX,"9987.80"
+
+18:18:00.716,RX,"Differential Pressure values:"
+
+18:18:00.717,RX,"23.68"
+
+18:18:00.717,RX,"Pressure values:"
+
+18:18:00.717,RX,"9990.60"
+
+18:18:00.866,RX,"Differential Pressure values:"
+
+18:18:00.867,RX,"20.18"
+
+18:18:00.867,RX,"Pressure values:"
+
+18:18:00.868,RX,"9987.10"
+
+18:18:00.985,RX,"Differential Pressure values:"
+
+18:18:01.015,RX,"16.38"
+
+18:18:01.018,RX,"Pressure values:"
+
+18:18:01.018,RX,"9983.30"
+
+18:18:01.166,RX,"Differential Pressure values:"
+
+18:18:01.167,RX,"8.18"
+
+18:18:01.167,RX,"Pressure values:"
+
+18:18:01.167,RX,"9975.10"
+
+18:18:01.316,RX,"Differential Pressure values:"
+
+18:18:01.317,RX,"-5.41"
+
+18:18:01.317,RX,"Pressure values:"
+
+18:18:01.317,RX,"9961.50"
+
+18:18:01.466,RX,"Differential Pressure values:"
+
+18:18:01.467,RX,"-23.41"
+
+18:18:01.467,RX,"Pressure values:"
+
+18:18:01.467,RX,"9943.50"
+
+18:18:01.616,RX,"Differential Pressure values:"
+
+18:18:01.617,RX,"-25.81"
+
+18:18:01.617,RX,"Pressure values:"
+
+18:18:01.617,RX,"9941.10"
+
+18:18:01.735,RX,"Differential Pressure values:"
+
+18:18:01.764,RX,"-21.31"
+
+18:18:01.767,RX,"Pressure values:"
+
+18:18:01.768,RX,"9945.60"
+
+18:18:01.916,RX,"Differential Pressure values:"
+
+18:18:01.916,RX,"-22.31"
+
+18:18:01.919,RX,"Pressure values:"
+
+18:18:01.919,RX,"9944.60"
+
+18:18:02.066,RX,"Differential Pressure values:"
+
+18:18:02.067,RX,"-17.31"
+
+18:18:02.067,RX,"Pressure values:"
+
+18:18:02.067,RX,"9949.60"
+
+18:18:02.216,RX,"Differential Pressure values:"
+
+18:18:02.217,RX,"-12.11"
+
+18:18:02.217,RX,"Pressure values:"
+
+18:18:02.217,RX,"9954.80"
+
+18:18:02.366,RX,"Differential Pressure values:"
+
+18:18:02.367,RX,"1.58"
+
+18:18:02.367,RX,"Pressure values:"
+
+18:18:02.367,RX,"9968.50"
+
+18:18:02.486,RX,"Differential Pressure values:"
+
+18:18:02.515,RX,"4.28"
+
+18:18:02.515,RX,"Pressure values:"
+
+18:18:02.516,RX,"9971.20"
+
+18:18:02.635,RX,"Differential Pressure values:"
+
+18:18:02.637,RX,"5.68"
+
+18:18:02.637,RX,"Pressure values:"
+
+18:18:02.637,RX,"9972.60"
+
+18:18:02.786,RX,"Differential Pressure values:"
+
+18:18:02.786,RX,"4.48"
+
+18:18:02.789,RX,"Pressure values:"
+
+18:18:02.789,RX,"9971.40"
+
+18:18:02.936,RX,"Differential Pressure values:"
+
+18:18:02.937,RX,"7.08"
+
+18:18:02.937,RX,"Pressure values:"
+
+18:18:02.939,RX,"9974.00"
+
+18:18:03.085,RX,"Differential Pressure values:"
+
+18:18:03.087,RX,"15.98"
+
+18:18:03.087,RX,"Pressure values:"
+
+18:18:03.087,RX,"9982.90"
+
+18:18:03.234,RX,"Differential Pressure values:"
+
+18:18:03.236,RX,"15.98"
+
+18:18:03.236,RX,"Pressure values:"
+
+18:18:03.236,RX,"9982.90"
+
+18:18:03.386,RX,"Differential Pressure values:"
+
+18:18:03.386,RX,"11.68"
+
+18:18:03.386,RX,"Pressure values:"
+
+18:18:03.390,RX,"9978.60"
+
+18:18:03.535,RX,"Differential Pressure values:"
+
+18:18:03.537,RX,"12.48"
+
+18:18:03.537,RX,"Pressure values:"
+
+18:18:03.537,RX,"9979.40"
+
+18:18:03.686,RX,"Differential Pressure values:"
+
+18:18:03.686,RX,"13.68"
+
+18:18:03.686,RX,"Pressure values:"
+
+18:18:03.686,RX,"9980.60"
+
+18:18:03.835,RX,"Differential Pressure values:"
+
+18:18:03.836,RX,"10.78"
+
+18:18:03.836,RX,"Pressure values:"
+
+18:18:03.839,RX,"9977.70"
+
+18:18:03.986,RX,"Differential Pressure values:"
+
+18:18:03.987,RX,"8.08"
+
+18:18:03.987,RX,"Pressure values:"
+
+18:18:03.987,RX,"9975.00"
+
+18:18:04.135,RX,"Differential Pressure values:"
+
+18:18:04.136,RX,"5.18"
+
+18:18:04.136,RX,"Pressure values:"
+
+18:18:04.136,RX,"9972.10"
+
+18:18:04.285,RX,"Differential Pressure values:"
+
+18:18:04.286,RX,"1.68"
+
+18:18:04.286,RX,"Pressure values:"
+
+18:18:04.289,RX,"9968.60"
+
+18:18:04.435,RX,"Differential Pressure values:"
+
+18:18:04.437,RX,"0.88"
+
+18:18:04.437,RX,"Pressure values:"
+
+18:18:04.437,RX,"9967.80"
+
+18:18:04.586,RX,"Differential Pressure values:"
+
+18:18:04.589,RX,"0.18"
+
+18:18:04.589,RX,"Pressure values:"
+
+18:18:04.590,RX,"9967.10"
+
+18:18:04.735,RX,"Differential Pressure values:"
+
+18:18:04.736,RX,"-0.51"
+
+18:18:04.736,RX,"Pressure values:"
+
+18:18:04.739,RX,"9966.40"
+
+18:18:04.856,RX,"Differential Pressure values:"
+
+18:18:04.886,RX,"-5.11"
+
+18:18:04.886,RX,"Pressure values:"
+
+18:18:04.886,RX,"9961.80"
+
+18:18:05.036,RX,"Differential Pressure values:"
+
+18:18:05.036,RX,"-5.71"
+
+18:18:05.036,RX,"Pressure values:"
+
+18:18:05.036,RX,"9961.20"
+
+18:18:05.186,RX,"Differential Pressure values:"
+
+18:18:05.186,RX,"-0.81"
+
+18:18:05.186,RX,"Pressure values:"
+
+18:18:05.189,RX,"9966.10"
+
+18:18:05.336,RX,"Differential Pressure values:"
+
+18:18:05.337,RX,"0.28"
+
+18:18:05.337,RX,"Pressure values:"
+
+18:18:05.337,RX,"9967.20"
+
+18:18:05.486,RX,"Differential Pressure values:"
+
+18:18:05.486,RX,"1.08"
+
+18:18:05.486,RX,"Pressure values:"
+
+18:18:05.486,RX,"9968.00"
+
+18:18:05.605,RX,"Differential Pressure values:"
+
+18:18:05.634,RX,"0.98"
+
+18:18:05.635,RX,"Pressure values:"
+
+18:18:05.638,RX,"9967.90"
+
+18:18:05.756,RX,"Differential Pressure values:"
+
+18:18:05.757,RX,"0.28"
+
+18:18:05.757,RX,"Pressure values:"
+
+18:18:05.787,RX,"9967.20"
+
+18:18:05.905,RX,"Differential Pressure values:"
+
+18:18:05.907,RX,"0.08"
+
+18:18:05.907,RX,"Pressure values:"
+
+18:18:05.907,RX,"9967.00"
+
+18:18:06.056,RX,"Differential Pressure values:"
+
+18:18:06.056,RX,"0.58"
+
+18:18:06.056,RX,"Pressure values:"
+
+18:18:06.084,RX,"9967.50"
+
+18:18:06.205,RX,"Differential Pressure values:"
+
+18:18:06.207,RX,"2.28"
+
+18:18:06.207,RX,"Pressure values:"
+
+18:18:06.207,RX,"9969.20"
+
+18:18:06.356,RX,"Differential Pressure values:"
+
+18:18:06.357,RX,"-2.91"
+
+18:18:06.357,RX,"Pressure values:"
+
+18:18:06.387,RX,"9964.00"
+
+18:18:06.505,RX,"Differential Pressure values:"
+
+18:18:06.506,RX,"-2.91"
+
+18:18:06.506,RX,"Pressure values:"
+
+18:18:06.509,RX,"9964.00"
+
+18:18:06.656,RX,"Differential Pressure values:"
+
+18:18:06.657,RX,"-2.01"
+
+18:18:06.658,RX,"Pressure values:"
+
+18:18:06.687,RX,"9964.90"
+
+18:18:06.805,RX,"Differential Pressure values:"
+
+18:18:06.806,RX,"-0.51"
+
+18:18:06.806,RX,"Pressure values:"
+
+18:18:06.806,RX,"9966.40"
+
+18:18:06.956,RX,"Differential Pressure values:"
+
+18:18:06.956,RX,"0.28"
+
+18:18:06.956,RX,"Pressure values:"
+
+18:18:06.984,RX,"9967.20"
+
+18:18:07.106,RX,"Differential Pressure values:"
+
+18:18:07.107,RX,"0.28"
+
+18:18:07.107,RX,"Pressure values:"
+
+18:18:07.107,RX,"9967.20"
+
+18:18:07.226,RX,"Differential Pressure values:"
+
+18:18:07.256,RX,"0.98"
+
+18:18:07.256,RX,"Pressure values:"
+
+18:18:07.256,RX,"9967.90"
+
+18:18:07.405,RX,"Differential Pressure values:"
+
+18:18:07.406,RX,"2.98"
+
+18:18:07.406,RX,"Pressure values:"
+
+18:18:07.408,RX,"9969.90"
+
+18:18:07.556,RX,"Differential Pressure values:"
+
+18:18:07.557,RX,"1.48"
+
+18:18:07.557,RX,"Pressure values:"
+
+18:18:07.587,RX,"9968.40"
+
+18:18:07.705,RX,"Differential Pressure values:"
+
+18:18:07.706,RX,"1.08"
+
+18:18:07.707,RX,"Pressure values:"
+
+18:18:07.707,RX,"9968.00"
+
+18:18:07.857,RX,"Differential Pressure values:"
+
+18:18:07.857,RX,"0.68"
+
+18:18:07.859,RX,"Pressure values:"
+
+18:18:07.887,RX,"9967.60"
+
+18:18:08.006,RX,"Differential Pressure values:"
+
+18:18:08.006,RX,"0.68"
+
+18:18:08.006,RX,"Pressure values:"
+
+18:18:08.006,RX,"9967.60"
+
+18:18:08.156,RX,"Differential Pressure values:"
+
+18:18:08.158,RX,"0.28"
+
+18:18:08.158,RX,"Pressure values:"
+
+18:18:08.187,RX,"9967.20"
+
+18:18:08.305,RX,"Differential Pressure values:"
+
+18:18:08.307,RX,"0.28"
+
+18:18:08.307,RX,"Pressure values:"
+
+18:18:08.307,RX,"9967.20"
+
+18:18:08.456,RX,"Differential Pressure values:"
+
+18:18:08.457,RX,"0.48"
+
+18:18:08.457,RX,"Pressure values:"
+
+18:18:08.487,RX,"9967.40"
+
+18:18:08.605,RX,"Differential Pressure values:"
+
+18:18:08.607,RX,"0.28"
+
+18:18:08.608,RX,"Pressure values:"
+
+18:18:08.608,RX,"9967.20"
+
+18:18:08.725,RX,"Differential Pressure values:"
+
+18:18:08.755,RX,"-0.01"
+
+18:18:08.758,RX,"Pressure values:"
+
+18:18:08.759,RX,"9966.90"
+
+18:18:08.906,RX,"Differential Pressure values:"
+
+18:18:08.908,RX,"0.28"
+
+18:18:08.908,RX,"Pressure values:"
+
+18:18:08.908,RX,"9967.20"
+
+18:18:09.056,RX,"Differential Pressure values:"
+
+18:18:09.057,RX,"0.08"
+
+18:18:09.058,RX,"Pressure values:"
+
+18:18:09.087,RX,"9967.00"
+
+18:18:09.205,RX,"Differential Pressure values:"
+
+18:18:09.206,RX,"-0.41"
+
+18:18:09.209,RX,"Pressure values:"
+
+18:18:09.209,RX,"9966.50"
+
+18:18:09.358,RX,"Differential Pressure values:"
+
+18:18:09.358,RX,"-0.41"
+
+18:18:09.358,RX,"Pressure values:"
+
+18:18:09.387,RX,"9966.50"
+
+18:18:09.475,RX,"Differential Pressure values:"
+
+18:18:09.505,RX,"-0.11"
+
+18:18:09.506,RX,"Pressure values:"
+
+18:18:09.506,RX,"9966.80"
+
+18:18:09.657,RX,"Differential Pressure values:"
+
+18:18:09.660,RX,"0.18"
+
+18:18:09.660,RX,"Pressure values:"
+
+18:18:09.687,RX,"9967.10"
+
+18:18:09.806,RX,"Differential Pressure values:"
+
+18:18:09.807,RX,"0.28"
+
+18:18:09.807,RX,"Pressure values:"
+
+18:18:09.807,RX,"9967.20"
+
+18:18:09.956,RX,"Differential Pressure values:"
+
+18:18:09.958,RX,"0.18"
+
+18:18:09.958,RX,"Pressure values:"
+
+18:18:09.988,RX,"9967.10"
+
+18:18:10.105,RX,"Differential Pressure values:"
+
+18:18:10.106,RX,"0.38"
+
+18:18:10.109,RX,"Pressure values:"
+
+18:18:10.109,RX,"9967.30"
+
+18:18:10.256,RX,"Differential Pressure values:"
+
+18:18:10.258,RX,"0.58"
+
+18:18:10.258,RX,"Pressure values:"
+
+18:18:10.287,RX,"9967.50"
+
+18:18:10.406,RX,"Differential Pressure values:"
+
+18:18:10.407,RX,"0.68"
+
+18:18:10.407,RX,"Pressure values:"
+
+18:18:10.407,RX,"9967.60"
+
+18:18:10.556,RX,"Differential Pressure values:"
+
+18:18:10.557,RX,"0.78"
+
+18:18:10.557,RX,"Pressure values:"
+
+18:18:10.557,RX,"9967.70"
+
+18:18:10.675,RX,"Differential Pressure values:"
+
+18:18:10.705,RX,"0.28"
+
+18:18:10.706,RX,"Pressure values:"
+
+18:18:10.706,RX,"9967.20"
+
+18:18:10.857,RX,"Differential Pressure values:"
+
+18:18:10.858,RX,"0.38"
+
+18:18:10.858,RX,"Pressure values:"
+
+18:18:10.885,RX,"9967.30"
+
+18:18:11.006,RX,"Differential Pressure values:"
+
+18:18:11.006,RX,"0.48"
+
+18:18:11.006,RX,"Pressure values:"
+
+18:18:11.007,RX,"9967.40"
+
+18:18:11.156,RX,"Differential Pressure values:"
+
+18:18:11.157,RX,"0.18"
+
+18:18:11.157,RX,"Pressure values:"
+
+18:18:11.159,RX,"9967.10"
+
+18:18:11.306,RX,"Differential Pressure values:"
+
+18:18:11.307,RX,"0.38"
+
+18:18:11.307,RX,"Pressure values:"
+
+18:18:11.307,RX,"9967.30"
+
+18:18:11.426,RX,"Differential Pressure values:"
+
+18:18:11.456,RX,"0.38"
+
+18:18:11.457,RX,"Pressure values:"
+
+18:18:11.457,RX,"9967.30"
+
+18:18:11.606,RX,"Differential Pressure values:"
+
+18:18:11.606,RX,"0.38"
+
+18:18:11.606,RX,"Pressure values:"
+
+18:18:11.609,RX,"9967.30"
+
+18:18:11.756,RX,"Differential Pressure values:"
+
+18:18:11.765,RX,"0.48"
+
+18:18:11.765,RX,"Pressure values:"
+
+18:18:11.786,RX,"9967.40"
+
+18:18:11.905,RX,"Differential Pressure values:"
+
+18:18:11.910,RX,"0.28"
+
+18:18:11.910,RX,"Pressure values:"
+
+18:18:11.911,RX,"9967.20"
+
+18:18:12.056,RX,"Differential Pressure values:"
+
+18:18:12.057,RX,"0.38"
+
+18:18:12.057,RX,"Pressure values:"
+
+18:18:12.087,RX,"9967.30"
+
+18:18:12.175,RX,"Differential Pressure values:"
+
+18:18:12.204,RX,"0.28"
+
+18:18:12.206,RX,"Pressure values:"
+
+18:18:12.206,RX,"9967.20"
+
+18:18:12.356,RX,"Differential Pressure values:"
+
+18:18:12.357,RX,"0.18"
+
+18:18:12.357,RX,"Pressure values:"
+
+18:18:12.387,RX,"9967.10"
+
+18:18:12.506,RX,"Differential Pressure values:"
+
+18:18:12.506,RX,"0.18"
+
+18:18:12.506,RX,"Pressure values:"
+
+18:18:12.509,RX,"9967.10"
+
+18:18:12.656,RX,"Differential Pressure values:"
+
+18:18:12.658,RX,"0.08"
+
+18:18:12.658,RX,"Pressure values:"
+
+18:18:12.687,RX,"9967.00"
+
+18:18:12.806,RX,"Differential Pressure values:"
+
+18:18:12.806,RX,"-0.11"
+
+18:18:12.807,RX,"Pressure values:"
+
+18:18:12.807,RX,"9966.80"
+
+18:18:12.956,RX,"Differential Pressure values:"
+
+18:18:12.957,RX,"0.08"
+
+18:18:12.957,RX,"Pressure values:"
+
+18:18:12.985,RX,"9967.00"
+
+18:18:13.106,RX,"Differential Pressure values:"
+
+18:18:13.107,RX,"0.08"
+
+18:18:13.107,RX,"Pressure values:"
+
+18:18:13.107,RX,"9967.00"
+
+18:18:13.255,RX,"Differential Pressure values:"
+
+18:18:13.259,RX,"-0.01"
+
+18:18:13.259,RX,"Pressure values:"
+
+18:18:13.287,RX,"9966.90"
+
+18:18:13.405,RX,"Differential Pressure values:"
+
+18:18:13.406,RX,"0.18"
+
+18:18:13.406,RX,"Pressure values:"
+
+18:18:13.406,RX,"9967.10"
+
+18:18:13.556,RX,"Differential Pressure values:"
+
+18:18:13.558,RX,"0.38"
+
+18:18:13.558,RX,"Pressure values:"
+
+18:18:13.587,RX,"9967.30"
+
+18:18:13.706,RX,"Differential Pressure values:"
+
+18:18:13.706,RX,"0.68"
+
+18:18:13.707,RX,"Pressure values:"
+
+18:18:13.707,RX,"9967.60"
+
+18:18:13.857,RX,"Differential Pressure values:"
+
+18:18:13.859,RX,"0.78"
+
+18:18:13.859,RX,"Pressure values:"
+
+18:18:13.887,RX,"9967.70"
+
+18:18:14.006,RX,"Differential Pressure values:"
+
+18:18:14.007,RX,"1.28"
+
+18:18:14.007,RX,"Pressure values:"
+
+18:18:14.007,RX,"9968.20"
+
+18:18:14.125,RX,"Differential Pressure values:"
+
+18:18:14.154,RX,"1.28"
+
+18:18:14.155,RX,"Pressure values:"
+
+18:18:14.157,RX,"9968.20"
+
+18:18:14.306,RX,"Differential Pressure values:"
+
+18:18:14.306,RX,"0.98"
+
+18:18:14.309,RX,"Pressure values:"
+
+18:18:14.309,RX,"9967.90"
+
+18:18:14.456,RX,"Differential Pressure values:"
+
+18:18:14.457,RX,"0.88"
+
+18:18:14.458,RX,"Pressure values:"
+
+18:18:14.487,RX,"9967.80"
+
+18:18:14.606,RX,"Differential Pressure values:"
+
+18:18:14.607,RX,"0.78"
+
+18:18:14.607,RX,"Pressure values:"
+
+18:18:14.607,RX,"9967.70"
+
+18:18:14.756,RX,"Differential Pressure values:"
+
+18:18:14.757,RX,"0.78"
+
+18:18:14.760,RX,"Pressure values:"
+
+18:18:14.788,RX,"9967.70"
+
+18:18:14.876,RX,"Differential Pressure values:"
+
+18:18:14.906,RX,"0.48"
+
+18:18:14.906,RX,"Pressure values:"
+
+18:18:14.906,RX,"9967.40"
+
+18:18:15.026,RX,"Differential Pressure values:"
+
+18:18:15.028,RX,"0.48"
+
+18:18:15.028,RX,"Pressure values:"
+
+18:18:15.029,RX,"9967.40"
+
+18:18:15.176,RX,"Differential Pressure values:"
+
+18:18:15.176,RX,"0.48"
+
+18:18:15.178,RX,"Pressure values:"
+
+18:18:15.180,RX,"9967.40"
+
+18:18:15.328,RX,"Differential Pressure values:"
+
+18:18:15.329,RX,"0.18"
+
+18:18:15.329,RX,"Pressure values:"
+
+18:18:15.329,RX,"9967.10"
+
+18:18:15.476,RX,"Differential Pressure values:"
+
+18:18:15.477,RX,"0.08"
+
+18:18:15.477,RX,"Pressure values:"
+
+18:18:15.477,RX,"9967.00"
+
+18:18:15.626,RX,"Differential Pressure values:"
+
+18:18:15.627,RX,"-0.21"
+
+18:18:15.629,RX,"Pressure values:"
+
+18:18:15.630,RX,"9966.70"
+
+18:18:15.776,RX,"Differential Pressure values:"
+
+18:18:15.777,RX,"-0.11"
+
+18:18:15.777,RX,"Pressure values:"
+
+18:18:15.777,RX,"9966.80"
+
+18:18:15.926,RX,"Differential Pressure values:"
+
+18:18:15.929,RX,"-0.01"
+
+18:18:15.929,RX,"Pressure values:"
+
+18:18:15.929,RX,"9966.90"
+
+18:18:16.076,RX,"Differential Pressure values:"
+
+18:18:16.077,RX,"0.28"
+
+18:18:16.079,RX,"Pressure values:"
+
+18:18:16.079,RX,"9967.20"
+
+18:18:16.226,RX,"Differential Pressure values:"
+
+18:18:16.227,RX,"0.28"
+
+18:18:16.227,RX,"Pressure values:"
+
+18:18:16.227,RX,"9967.20"
+
+18:18:16.376,RX,"Differential Pressure values:"
+
+18:18:16.377,RX,"0.48"
+
+18:18:16.377,RX,"Pressure values:"
+
+18:18:16.380,RX,"9967.40"
+
+18:18:16.495,RX,"Differential Pressure values:"
+
+18:18:16.524,RX,"0.38"
+
+18:18:16.525,RX,"Pressure values:"
+
+18:18:16.526,RX,"9967.30"
+
+18:18:16.646,RX,"Differential Pressure values:"
+
+18:18:16.647,RX,"0.68"
+
+18:18:16.647,RX,"Pressure values:"
+
+18:18:16.647,RX,"9967.60"
+
+18:18:16.797,RX,"Differential Pressure values:"
+
+18:18:16.797,RX,"0.98"
+
+18:18:16.798,RX,"Pressure values:"
+
+18:18:16.798,RX,"9967.90"
+
+18:18:16.946,RX,"Differential Pressure values:"
+
+18:18:16.946,RX,"1.08"
+
+18:18:16.946,RX,"Pressure values:"
+
+18:18:16.947,RX,"9968.00"
+
+18:18:17.096,RX,"Differential Pressure values:"
+
+18:18:17.097,RX,"1.18"
+
+18:18:17.097,RX,"Pressure values:"
+
+18:18:17.099,RX,"9968.10"
+
+18:18:17.246,RX,"Differential Pressure values:"
+
+18:18:17.247,RX,"0.98"
+
+18:18:17.247,RX,"Pressure values:"
+
+18:18:17.247,RX,"9967.90"
+
+18:18:17.396,RX,"Differential Pressure values:"
+
+18:18:17.399,RX,"0.88"
+
+18:18:17.399,RX,"Pressure values:"
+
+18:18:17.399,RX,"9967.80"
+
+18:18:17.546,RX,"Differential Pressure values:"
+
+18:18:17.546,RX,"0.68"
+
+18:18:17.546,RX,"Pressure values:"
+
+18:18:17.549,RX,"9967.60"
+
+18:18:17.696,RX,"Differential Pressure values:"
+
+18:18:17.697,RX,"0.58"
+
+18:18:17.697,RX,"Pressure values:"
+
+18:18:17.697,RX,"9967.50"
+
+18:18:17.846,RX,"Differential Pressure values:"
+
+18:18:17.848,RX,"0.78"
+
+18:18:17.848,RX,"Pressure values:"
+
+18:18:17.849,RX,"9967.70"
+
+18:18:17.996,RX,"Differential Pressure values:"
+
+18:18:17.997,RX,"0.58"
+
+18:18:17.997,RX,"Pressure values:"
+
+18:18:17.999,RX,"9967.50"
+
+18:18:18.115,RX,"Differential Pressure values:"
+
+18:18:18.145,RX,"0.58"
+
+18:18:18.145,RX,"Pressure values:"
+
+18:18:18.146,RX,"9967.50"
+
+18:18:18.296,RX,"Differential Pressure values:"
+
+18:18:18.297,RX,"0.48"
+
+18:18:18.297,RX,"Pressure values:"
+
+18:18:18.297,RX,"9967.40"
+
+18:18:18.446,RX,"Differential Pressure values:"
+
+18:18:18.446,RX,"0.08"
+
+18:18:18.446,RX,"Pressure values:"
+
+18:18:18.449,RX,"9967.00"
+
+18:18:18.596,RX,"Differential Pressure values:"
+
+18:18:18.597,RX,"-0.11"
+
+18:18:18.597,RX,"Pressure values:"
+
+18:18:18.597,RX,"9966.80"
+
+18:18:18.745,RX,"Differential Pressure values:"
+
+18:18:18.746,RX,"-0.01"
+
+18:18:18.746,RX,"Pressure values:"
+
+18:18:18.747,RX,"9966.90"
+
+18:18:18.864,RX,"Differential Pressure values:"
+
+18:18:18.895,RX,"0.18"
+
+18:18:18.895,RX,"Pressure values:"
+
+18:18:18.896,RX,"9967.10"
+
+18:18:19.046,RX,"Differential Pressure values:"
+
+18:18:19.047,RX,"0.18"
+
+18:18:19.047,RX,"Pressure values:"
+
+18:18:19.048,RX,"9967.10"
+
+18:18:19.196,RX,"Differential Pressure values:"
+
+18:18:19.196,RX,"0.28"
+
+18:18:19.196,RX,"Pressure values:"
+
+18:18:19.196,RX,"9967.20"
+
+18:18:19.346,RX,"Differential Pressure values:"
+
+18:18:19.346,RX,"0.28"
+
+18:18:19.346,RX,"Pressure values:"
+
+18:18:19.349,RX,"9967.20"
+
+18:18:19.496,RX,"Differential Pressure values:"
+
+18:18:19.497,RX,"0.48"
+
+18:18:19.497,RX,"Pressure values:"
+
+18:18:19.497,RX,"9967.40"
+
+18:18:19.625,RX,"Differential Pressure values:"
+
+18:18:19.646,RX,"0.68"
+
+18:18:19.647,RX,"Pressure values:"
+
+18:18:19.647,RX,"9967.60"
+
+18:18:19.796,RX,"Differential Pressure values:"
+
+18:18:19.797,RX,"1.28"
+
+18:18:19.797,RX,"Pressure values:"
+
+18:18:19.797,RX,"9968.20"
+
+18:18:19.947,RX,"Differential Pressure values:"
+
+18:18:19.947,RX,"1.08"
+
+18:18:19.947,RX,"Pressure values:"
+
+18:18:19.947,RX,"9968.00"
+
+18:18:20.096,RX,"Differential Pressure values:"
+
+18:18:20.097,RX,"0.98"
+
+18:18:20.097,RX,"Pressure values:"
+
+18:18:20.127,RX,"9967.90"
+
+18:18:20.246,RX,"Differential Pressure values:"
+
+18:18:20.246,RX,"1.18"
+
+18:18:20.250,RX,"Pressure values:"
+
+18:18:20.250,RX,"9968.10"
+
+18:18:20.396,RX,"Differential Pressure values:"
+
+18:18:20.397,RX,"0.88"
+
+18:18:20.397,RX,"Pressure values:"
+
+18:18:20.397,RX,"9967.80"
+
+18:18:20.546,RX,"Differential Pressure values:"
+
+18:18:20.547,RX,"0.88"
+
+18:18:20.547,RX,"Pressure values:"
+
+18:18:20.547,RX,"9967.80"
+
+18:18:20.696,RX,"Differential Pressure values:"
+
+18:18:20.696,RX,"0.58"
+
+18:18:20.699,RX,"Pressure values:"
+
+18:18:20.699,RX,"9967.50"
+
+18:18:20.846,RX,"Differential Pressure values:"
+
+18:18:20.847,RX,"0.58"
+
+18:18:20.847,RX,"Pressure values:"
+
+18:18:20.847,RX,"9967.50"
+
+18:18:20.996,RX,"Differential Pressure values:"
+
+18:18:20.997,RX,"0.68"
+
+18:18:20.997,RX,"Pressure values:"
+
+18:18:20.997,RX,"9967.60"
+
+18:18:21.146,RX,"Differential Pressure values:"
+
+18:18:21.146,RX,"0.78"
+
+18:18:21.149,RX,"Pressure values:"
+
+18:18:21.149,RX,"9967.70"
+
+18:18:21.295,RX,"Differential Pressure values:"
+
+18:18:21.296,RX,"0.68"
+
+18:18:21.296,RX,"Pressure values:"
+
+18:18:21.297,RX,"9967.60"
+
+18:18:21.446,RX,"Differential Pressure values:"
+
+18:18:21.447,RX,"0.08"
+
+18:18:21.447,RX,"Pressure values:"
+
+18:18:21.447,RX,"9967.00"
+
+18:18:21.566,RX,"Differential Pressure values:"
+
+18:18:21.595,RX,"-0.11"
+
+18:18:21.598,RX,"Pressure values:"
+
+18:18:21.598,RX,"9966.80"
+
+18:18:21.746,RX,"Differential Pressure values:"
+
+18:18:21.747,RX,"0.28"
+
+18:18:21.747,RX,"Pressure values:"
+
+18:18:21.747,RX,"9967.20"
+
+18:18:21.896,RX,"Differential Pressure values:"
+
+18:18:21.897,RX,"0.18"
+
+18:18:21.897,RX,"Pressure values:"
+
+18:18:21.897,RX,"9967.10"
+
+18:18:22.046,RX,"Differential Pressure values:"
+
+18:18:22.046,RX,"0.38"
+
+18:18:22.049,RX,"Pressure values:"
+
+18:18:22.050,RX,"9967.30"
+
+18:18:22.196,RX,"Differential Pressure values:"
+
+18:18:22.197,RX,"0.58"
+
+18:18:22.197,RX,"Pressure values:"
+
+18:18:22.197,RX,"9967.50"
+
+18:18:22.316,RX,"Differential Pressure values:"
+
+18:18:22.345,RX,"0.58"
+
+18:18:22.345,RX,"Pressure values:"
+
+18:18:22.347,RX,"9967.50"
+
+18:18:22.466,RX,"Differential Pressure values:"
+
+18:18:22.467,RX,"0.58"
+
+18:18:22.469,RX,"Pressure values:"
+
+18:18:22.469,RX,"9967.50"
+
+18:18:22.616,RX,"Differential Pressure values:"
+
+18:18:22.617,RX,"1.18"
+
+18:18:22.617,RX,"Pressure values:"
+
+18:18:22.617,RX,"9968.10"
+
+18:18:22.766,RX,"Differential Pressure values:"
+
+18:18:22.767,RX,"0.88"
+
+18:18:22.768,RX,"Pressure values:"
+
+18:18:22.768,RX,"9967.80"
+
+18:18:22.916,RX,"Differential Pressure values:"
+
+18:18:22.917,RX,"1.08"
+
+18:18:22.918,RX,"Pressure values:"
+
+18:18:22.918,RX,"9968.00"
+
+18:18:23.066,RX,"Differential Pressure values:"
+
+18:18:23.067,RX,"0.78"
+
+18:18:23.067,RX,"Pressure values:"
+
+18:18:23.067,RX,"9967.70"
+
+18:18:23.216,RX,"Differential Pressure values:"
+
+18:18:23.217,RX,"0.88"
+
+18:18:23.217,RX,"Pressure values:"
+
+18:18:23.217,RX,"9967.80"
+
+18:18:23.366,RX,"Differential Pressure values:"
+
+18:18:23.367,RX,"0.98"
+
+18:18:23.367,RX,"Pressure values:"
+
+18:18:23.367,RX,"9967.90"
+
+18:18:23.516,RX,"Differential Pressure values:"
+
+18:18:23.517,RX,"0.68"
+
+18:18:23.517,RX,"Pressure values:"
+
+18:18:23.519,RX,"9967.60"
+
+18:18:23.665,RX,"Differential Pressure values:"
+
+18:18:23.666,RX,"0.78"
+
+18:18:23.666,RX,"Pressure values:"
+
+18:18:23.667,RX,"9967.70"
+
+18:18:23.816,RX,"Differential Pressure values:"
+
+18:18:23.817,RX,"0.38"
+
+18:18:23.817,RX,"Pressure values:"
+
+18:18:23.817,RX,"9967.30"
+
+18:18:23.935,RX,"Differential Pressure values:"
+
+18:18:23.966,RX,"-0.01"
+
+18:18:23.966,RX,"Pressure values:"
+
+18:18:23.967,RX,"9966.90"
+
+18:18:24.115,RX,"Differential Pressure values:"
+
+18:18:24.116,RX,"-0.11"
+
+18:18:24.116,RX,"Pressure values:"
+
+18:18:24.117,RX,"9966.80"
+
+18:18:24.266,RX,"Differential Pressure values:"
+
+18:18:24.267,RX,"-0.21"
+
+18:18:24.267,RX,"Pressure values:"
+
+18:18:24.267,RX,"9966.70"
+
+18:18:24.416,RX,"Differential Pressure values:"
+
+18:18:24.416,RX,"-0.21"
+
+18:18:24.416,RX,"Pressure values:"
+
+18:18:24.419,RX,"9966.70"
+
+18:18:24.567,RX,"Differential Pressure values:"
+
+18:18:24.567,RX,"-0.31"
+
+18:18:24.567,RX,"Pressure values:"
+
+18:18:24.568,RX,"9966.60"
+
+18:18:24.686,RX,"Differential Pressure values:"
+
+18:18:24.716,RX,"-0.11"
+
+18:18:24.716,RX,"Pressure values:"
+
+18:18:24.716,RX,"9966.80"
+
+18:18:24.866,RX,"Differential Pressure values:"
+
+18:18:24.867,RX,"-0.31"
+
+18:18:24.867,RX,"Pressure values:"
+
+18:18:24.894,RX,"9966.60"
+
+18:18:25.016,RX,"Differential Pressure values:"
+
+18:18:25.017,RX,"-0.11"
+
+18:18:25.017,RX,"Pressure values:"
+
+18:18:25.017,RX,"9966.80"
+
+18:18:25.165,RX,"Differential Pressure values:"
+
+18:18:25.166,RX,"0.28"
+
+18:18:25.166,RX,"Pressure values:"
+
+18:18:25.166,RX,"9967.20"
+
+18:18:25.316,RX,"Differential Pressure values:"
+
+18:18:25.317,RX,"0.78"
+
+18:18:25.317,RX,"Pressure values:"
+
+18:18:25.319,RX,"9967.70"
+
+18:18:25.436,RX,"Differential Pressure values:"
+
+18:18:25.465,RX,"0.68"
+
+18:18:25.465,RX,"Pressure values:"
+
+18:18:25.467,RX,"9967.60"
+
+18:18:25.616,RX,"Differential Pressure values:"
+
+18:18:25.617,RX,"0.98"
+
+18:18:25.617,RX,"Pressure values:"
+
+18:18:25.617,RX,"9967.90"
+
+18:18:25.767,RX,"Differential Pressure values:"
+
+18:18:25.767,RX,"1.18"
+
+18:18:25.767,RX,"Pressure values:"
+
+18:18:25.767,RX,"9968.10"
+
+18:18:25.916,RX,"Differential Pressure values:"
+
+18:18:25.917,RX,"1.38"
+
+18:18:25.917,RX,"Pressure values:"
+
+18:18:25.917,RX,"9968.30"
+
+18:18:26.066,RX,"Differential Pressure values:"
+
+18:18:26.067,RX,"1.18"
+
+18:18:26.067,RX,"Pressure values:"
+
+18:18:26.068,RX,"9968.10"
+
+18:18:26.216,RX,"Differential Pressure values:"
+
+18:18:26.217,RX,"0.98"
+
+18:18:26.219,RX,"Pressure values:"
+
+18:18:26.219,RX,"9967.90"
+
+18:18:26.366,RX,"Differential Pressure values:"
+
+18:18:26.367,RX,"0.98"
+
+18:18:26.367,RX,"Pressure values:"
+
+18:18:26.367,RX,"9967.90"
+
+18:18:26.516,RX,"Differential Pressure values:"
+
+18:18:26.517,RX,"0.78"
+
+18:18:26.518,RX,"Pressure values:"
+
+18:18:26.518,RX,"9967.70"
+
+18:18:26.636,RX,"Differential Pressure values:"
+
+18:18:26.665,RX,"0.88"
+
+18:18:26.666,RX,"Pressure values:"
+
+18:18:26.666,RX,"9967.80"
+
+18:18:26.816,RX,"Differential Pressure values:"
+
+18:18:26.817,RX,"0.78"
+
+18:18:26.817,RX,"Pressure values:"
+
+18:18:26.817,RX,"9967.70"
+
+18:18:26.966,RX,"Differential Pressure values:"
+
+18:18:26.967,RX,"0.78"
+
+18:18:26.967,RX,"Pressure values:"
+
+18:18:26.967,RX,"9967.70"
+
+18:18:27.116,RX,"Differential Pressure values:"
+
+18:18:27.117,RX,"0.68"
+
+18:18:27.119,RX,"Pressure values:"
+
+18:18:27.119,RX,"9967.60"
+
+18:18:27.266,RX,"Differential Pressure values:"
+
+18:18:27.267,RX,"0.48"
+
+18:18:27.267,RX,"Pressure values:"
+
+18:18:27.267,RX,"9967.40"
+
+18:18:27.386,RX,"Differential Pressure values:"
+
+18:18:27.415,RX,"-0.61"
+
+18:18:27.415,RX,"Pressure values:"
+
+18:18:27.417,RX,"9966.30"
+
+18:18:27.566,RX,"Differential Pressure values:"
+
+18:18:27.566,RX,"-1.01"
+
+18:18:27.568,RX,"Pressure values:"
+
+18:18:27.568,RX,"9965.90"
+
+18:18:27.716,RX,"Differential Pressure values:"
+
+18:18:27.717,RX,"-0.51"
+
+18:18:27.717,RX,"Pressure values:"
+
+18:18:27.717,RX,"9966.40"
+
+18:18:27.866,RX,"Differential Pressure values:"
+
+18:18:27.867,RX,"-0.61"
+
+18:18:27.867,RX,"Pressure values:"
+
+18:18:27.868,RX,"9966.30"
+
+18:18:28.016,RX,"Differential Pressure values:"
+
+18:18:28.017,RX,"-0.31"
+
+18:18:28.019,RX,"Pressure values:"
+
+18:18:28.019,RX,"9966.60"
+
+18:18:28.136,RX,"Differential Pressure values:"
+
+18:18:28.166,RX,"0.08"
+
+18:18:28.166,RX,"Pressure values:"
+
+18:18:28.166,RX,"9967.00"
+
+18:18:28.316,RX,"Differential Pressure values:"
+
+18:18:28.317,RX,"0.38"
+
+18:18:28.317,RX,"Pressure values:"
+
+18:18:28.317,RX,"9967.30"
+
+18:18:28.466,RX,"Differential Pressure values:"
+
+18:18:28.466,RX,"0.58"
+
+18:18:28.469,RX,"Pressure values:"
+
+18:18:28.469,RX,"9967.50"
+
+18:18:28.616,RX,"Differential Pressure values:"
+
+18:18:28.617,RX,"1.48"
+
+18:18:28.617,RX,"Pressure values:"
+
+18:18:28.617,RX,"9968.40"
+
+18:18:28.767,RX,"Differential Pressure values:"
+
+18:18:28.767,RX,"1.88"
+
+18:18:28.768,RX,"Pressure values:"
+
+18:18:28.768,RX,"9968.80"
+
+18:18:28.916,RX,"Differential Pressure values:"
+
+18:18:28.919,RX,"1.78"
+
+18:18:28.919,RX,"Pressure values:"
+
+18:18:28.919,RX,"9968.70"
+
+18:18:29.066,RX,"Differential Pressure values:"
+
+18:18:29.066,RX,"1.88"
+
+18:18:29.067,RX,"Pressure values:"
+
+18:18:29.069,RX,"9968.80"
+
+18:18:29.216,RX,"Differential Pressure values:"
+
+18:18:29.217,RX,"1.88"
+
+18:18:29.217,RX,"Pressure values:"
+
+18:18:29.217,RX,"9968.80"
+
+18:18:29.366,RX,"Differential Pressure values:"
+
+18:18:29.367,RX,"1.38"
+
+18:18:29.367,RX,"Pressure values:"
+
+18:18:29.367,RX,"9968.30"
+
+18:18:29.516,RX,"Differential Pressure values:"
+
+18:18:29.517,RX,"0.98"
+
+18:18:29.517,RX,"Pressure values:"
+
+18:18:29.519,RX,"9967.90"
+
+18:18:29.666,RX,"Differential Pressure values:"
+
+18:18:29.667,RX,"1.18"
+
+18:18:29.667,RX,"Pressure values:"
+
+18:18:29.667,RX,"9968.10"
+
+18:18:29.816,RX,"Differential Pressure values:"
+
+18:18:29.817,RX,"1.08"
+
+18:18:29.817,RX,"Pressure values:"
+
+18:18:29.817,RX,"9968.00"
+
+18:18:29.965,RX,"Differential Pressure values:"
+
+18:18:29.966,RX,"0.68"
+
+18:18:29.966,RX,"Pressure values:"
+
+18:18:29.967,RX,"9967.60"
+
+18:18:30.116,RX,"Differential Pressure values:"
+
+18:18:30.117,RX,"0.58"
+
+18:18:30.117,RX,"Pressure values:"
+
+18:18:30.117,RX,"9967.50"
+
+18:18:30.266,RX,"Differential Pressure values:"
+
+18:18:30.267,RX,"0.38"
+
+18:18:30.267,RX,"Pressure values:"
+
+18:18:30.267,RX,"9967.30"
+
+18:18:30.416,RX,"Differential Pressure values:"
+
+18:18:30.417,RX,"-0.41"
+
+18:18:30.417,RX,"Pressure values:"
+
+18:18:30.419,RX,"9966.50"
+
+18:18:30.566,RX,"Differential Pressure values:"
+
+18:18:30.567,RX,"-1.81"
+
+18:18:30.567,RX,"Pressure values:"
+
+18:18:30.567,RX,"9965.10"
+
+18:18:30.716,RX,"Differential Pressure values:"
+
+18:18:30.717,RX,"-2.71"
+
+18:18:30.717,RX,"Pressure values:"
+
+18:18:30.717,RX,"9964.20"
+
+18:18:30.836,RX,"Differential Pressure values:"
+
+18:18:30.866,RX,"-2.01"
+
+18:18:30.867,RX,"Pressure values:"
+
+18:18:30.869,RX,"9964.90"
+
+18:18:30.986,RX,"Differential Pressure values:"
+
+18:18:30.987,RX,"-0.91"
+
+18:18:30.987,RX,"Pressure values:"
+
+18:18:30.988,RX,"9966.00"
+
+18:18:31.136,RX,"Differential Pressure values:"
+
+18:18:31.137,RX,"-0.31"
+
+18:18:31.137,RX,"Pressure values:"
+
+18:18:31.137,RX,"9966.60"
+
+18:18:31.286,RX,"Differential Pressure values:"
+
+18:18:31.287,RX,"0.08"
+
+18:18:31.287,RX,"Pressure values:"
+
+18:18:31.289,RX,"9967.00"
+
+18:18:31.436,RX,"Differential Pressure values:"
+
+18:18:31.438,RX,"0.28"
+
+18:18:31.438,RX,"Pressure values:"
+
+18:18:31.438,RX,"9967.20"
+
+18:18:31.586,RX,"Differential Pressure values:"
+
+18:18:31.587,RX,"0.78"
+
+18:18:31.587,RX,"Pressure values:"
+
+18:18:31.587,RX,"9967.70"
+
+18:18:31.737,RX,"Differential Pressure values:"
+
+18:18:31.737,RX,"2.28"
+
+18:18:31.738,RX,"Pressure values:"
+
+18:18:31.738,RX,"9969.20"
+
+18:18:31.886,RX,"Differential Pressure values:"
+
+18:18:31.887,RX,"2.58"
+
+18:18:31.887,RX,"Pressure values:"
+
+18:18:31.887,RX,"9969.50"
+
+18:18:32.036,RX,"Differential Pressure values:"
+
+18:18:32.037,RX,"1.88"
+
+18:18:32.038,RX,"Pressure values:"
+
+18:18:32.038,RX,"9968.80"
+
+18:18:32.186,RX,"Differential Pressure values:"
+
+18:18:32.187,RX,"1.28"
+
+18:18:32.189,RX,"Pressure values:"
+
+18:18:32.189,RX,"9968.20"
+
+18:18:32.336,RX,"Differential Pressure values:"
+
+18:18:32.337,RX,"1.08"
+
+18:18:32.337,RX,"Pressure values:"
+
+18:18:32.337,RX,"9968.00"
+
+18:18:32.456,RX,"Differential Pressure values:"
+
+18:18:32.486,RX,"1.28"
+
+18:18:32.486,RX,"Pressure values:"
+
+18:18:32.487,RX,"9968.20"
+
+18:18:32.636,RX,"Differential Pressure values:"
+
+18:18:32.637,RX,"0.78"
+
+18:18:32.638,RX,"Pressure values:"
+
+18:18:32.638,RX,"9967.70"
+
+18:18:32.786,RX,"Differential Pressure values:"
+
+18:18:32.787,RX,"0.78"
+
+18:18:32.787,RX,"Pressure values:"
+
+18:18:32.787,RX,"9967.70"
+
+18:18:32.936,RX,"Differential Pressure values:"
+
+18:18:32.938,RX,"0.78"
+
+18:18:32.938,RX,"Pressure values:"
+
+18:18:32.938,RX,"9967.70"
+
+18:18:33.086,RX,"Differential Pressure values:"
+
+18:18:33.087,RX,"0.38"
+
+18:18:33.088,RX,"Pressure values:"
+
+18:18:33.089,RX,"9967.30"
+
+18:18:33.206,RX,"Differential Pressure values:"
+
+18:18:33.236,RX,"0.18"
+
+18:18:33.236,RX,"Pressure values:"
+
+18:18:33.237,RX,"9967.10"
+
+18:18:33.356,RX,"Differential Pressure values:"
+
+18:18:33.358,RX,"0.18"
+
+18:18:33.358,RX,"Pressure values:"
+
+18:18:33.387,RX,"9967.10"
+
+18:18:33.506,RX,"Differential Pressure values:"
+
+18:18:33.507,RX,"0.28"
+
+18:18:33.509,RX,"Pressure values:"
+
+18:18:33.509,RX,"9967.20"
+
+18:18:33.656,RX,"Differential Pressure values:"
+
+18:18:33.658,RX,"-0.01"
+
+18:18:33.658,RX,"Pressure values:"
+
+18:18:33.687,RX,"9966.90"
+
+18:18:33.805,RX,"Differential Pressure values:"
+
+18:18:33.806,RX,"-0.21"
+
+18:18:33.806,RX,"Pressure values:"
+
+18:18:33.806,RX,"9966.70"
+
+18:18:33.956,RX,"Differential Pressure values:"
+
+18:18:33.957,RX,"-0.41"
+
+18:18:33.960,RX,"Pressure values:"
+
+18:18:33.987,RX,"9966.50"
+
+18:18:34.075,RX,"Differential Pressure values:"
+
+18:18:34.104,RX,"-0.31"
+
+18:18:34.106,RX,"Pressure values:"
+
+18:18:34.106,RX,"9966.60"
+
+18:18:34.256,RX,"Differential Pressure values:"
+
+18:18:34.258,RX,"0.08"
+
+18:18:34.258,RX,"Pressure values:"
+
+18:18:34.288,RX,"9967.00"
+
+18:18:34.406,RX,"Differential Pressure values:"
+
+18:18:34.407,RX,"-0.11"
+
+18:18:34.409,RX,"Pressure values:"
+
+18:18:34.409,RX,"9966.80"
+
+18:18:34.556,RX,"Differential Pressure values:"
+
+18:18:34.557,RX,"0.68"
+
+18:18:34.557,RX,"Pressure values:"
+
+18:18:34.585,RX,"9967.60"
+
+18:18:34.706,RX,"Differential Pressure values:"
+
+18:18:34.707,RX,"1.78"
+
+18:18:34.707,RX,"Pressure values:"
+
+18:18:34.708,RX,"9968.70"
+
+18:18:34.826,RX,"Differential Pressure values:"
+
+18:18:34.856,RX,"2.38"
+
+18:18:34.858,RX,"Pressure values:"
+
+18:18:34.858,RX,"9969.30"
+
+18:18:35.006,RX,"Differential Pressure values:"
+
+18:18:35.007,RX,"2.18"
+
+18:18:35.007,RX,"Pressure values:"
+
+18:18:35.007,RX,"9969.10"
+
+18:18:35.156,RX,"Differential Pressure values:"
+
+18:18:35.158,RX,"2.28"
+
+18:18:35.158,RX,"Pressure values:"
+
+18:18:35.215,RX,"9969.20"
+
+18:18:35.307,RX,"Differential Pressure values:"
+
+18:18:35.307,RX,"2.08"
+
+18:18:35.307,RX,"Pressure values:"
+
+18:18:35.307,RX,"9969.00"
+
+18:18:35.456,RX,"Differential Pressure values:"
+
+18:18:35.457,RX,"2.18"
+
+18:18:35.457,RX,"Pressure values:"
+
+18:18:35.485,RX,"9969.10"
+
+18:18:35.576,RX,"Differential Pressure values:"
+
+18:18:35.605,RX,"1.78"
+
+18:18:35.605,RX,"Pressure values:"
+
+18:18:35.607,RX,"9968.70"
+
+18:18:35.756,RX,"Differential Pressure values:"
+
+18:18:35.757,RX,"1.68"
+
+18:18:35.760,RX,"Pressure values:"
+
+18:18:35.787,RX,"9968.60"
+
+18:18:35.906,RX,"Differential Pressure values:"
+
+18:18:35.907,RX,"1.48"
+
+18:18:35.907,RX,"Pressure values:"
+
+18:18:35.907,RX,"9968.40"
+
+18:18:36.056,RX,"Differential Pressure values:"
+
+18:18:36.058,RX,"0.98"
+
+18:18:36.058,RX,"Pressure values:"
+
+18:18:36.087,RX,"9967.90"
+
+18:18:36.206,RX,"Differential Pressure values:"
+
+18:18:36.207,RX,"0.88"
+
+18:18:36.209,RX,"Pressure values:"
+
+18:18:36.210,RX,"9967.80"
+
+18:18:36.325,RX,"Differential Pressure values:"
+
+18:18:36.356,RX,"0.58"
+
+18:18:36.356,RX,"Pressure values:"
+
+18:18:36.357,RX,"9967.50"
+
+18:18:36.506,RX,"Differential Pressure values:"
+
+18:18:36.507,RX,"0.38"
+
+18:18:36.508,RX,"Pressure values:"
+
+18:18:36.508,RX,"9967.30"
+
+18:18:36.658,RX,"Differential Pressure values:"
+
+18:18:36.658,RX,"-0.41"
+
+18:18:36.658,RX,"Pressure values:"
+
+18:18:36.687,RX,"9966.50"
+
+18:18:36.805,RX,"Differential Pressure values:"
+
+18:18:36.806,RX,"-0.81"
+
+18:18:36.806,RX,"Pressure values:"
+
+18:18:36.808,RX,"9966.10"
+
+18:18:36.956,RX,"Differential Pressure values:"
+
+18:18:36.958,RX,"-0.41"
+
+18:18:36.958,RX,"Pressure values:"
+
+18:18:36.987,RX,"9966.50"
+
+18:18:37.106,RX,"Differential Pressure values:"
+
+18:18:37.107,RX,"-0.41"
+
+18:18:37.107,RX,"Pressure values:"
+
+18:18:37.107,RX,"9966.50"
+
+18:18:37.256,RX,"Differential Pressure values:"
+
+18:18:37.257,RX,"-0.51"
+
+18:18:37.257,RX,"Pressure values:"
+
+18:18:37.285,RX,"9966.40"
+
+18:18:37.406,RX,"Differential Pressure values:"
+
+18:18:37.407,RX,"-0.21"
+
+18:18:37.407,RX,"Pressure values:"
+
+18:18:37.408,RX,"9966.70"
+
+18:18:37.526,RX,"Differential Pressure values:"
+
+18:18:37.556,RX,"0.08"
+
+18:18:37.556,RX,"Pressure values:"
+
+18:18:37.558,RX,"9967.00"
+
+18:18:37.706,RX,"Differential Pressure values:"
+
+18:18:37.706,RX,"0.28"
+
+18:18:37.707,RX,"Pressure values:"
+
+18:18:37.709,RX,"9967.20"
+
+18:18:37.856,RX,"Differential Pressure values:"
+
+18:18:37.858,RX,"0.98"
+
+18:18:37.858,RX,"Pressure values:"
+
+18:18:37.888,RX,"9967.90"
+
+18:18:38.006,RX,"Differential Pressure values:"
+
+18:18:38.007,RX,"3.68"
+
+18:18:38.007,RX,"Pressure values:"
+
+18:18:38.007,RX,"9970.60"
+
+18:18:38.156,RX,"Differential Pressure values:"
+
+18:18:38.157,RX,"3.18"
+
+18:18:38.157,RX,"Pressure values:"
+
+18:18:38.185,RX,"9970.10"
+
+18:18:38.277,RX,"Differential Pressure values:"
+
+18:18:38.304,RX,"2.08"
+
+18:18:38.306,RX,"Pressure values:"
+
+18:18:38.306,RX,"9969.00"
+
+18:18:38.427,RX,"Differential Pressure values:"
+
+18:18:38.427,RX,"1.88"
+
+18:18:38.428,RX,"Pressure values:"
+
+18:18:38.428,RX,"9968.80"
+
+18:18:38.576,RX,"Differential Pressure values:"
+
+18:18:38.577,RX,"1.58"
+
+18:18:38.577,RX,"Pressure values:"
+
+18:18:38.579,RX,"9968.50"
+
+18:18:38.726,RX,"Differential Pressure values:"
+
+18:18:38.727,RX,"1.38"
+
+18:18:38.728,RX,"Pressure values:"
+
+18:18:38.728,RX,"9968.30"
+
+18:18:38.875,RX,"Differential Pressure values:"
+
+18:18:38.876,RX,"1.08"
+
+18:18:38.877,RX,"Pressure values:"
+
+18:18:38.877,RX,"9968.00"
+
+18:18:39.026,RX,"Differential Pressure values:"
+
+18:18:39.027,RX,"0.88"
+
+18:18:39.027,RX,"Pressure values:"
+
+18:18:39.029,RX,"9967.80"
+
+18:18:39.176,RX,"Differential Pressure values:"
+
+18:18:39.177,RX,"0.78"
+
+18:18:39.178,RX,"Pressure values:"
+
+18:18:39.178,RX,"9967.70"
+
+18:18:39.326,RX,"Differential Pressure values:"
+
+18:18:39.327,RX,"0.58"
+
+18:18:39.327,RX,"Pressure values:"
+
+18:18:39.327,RX,"9967.50"
+
+18:18:39.476,RX,"Differential Pressure values:"
+
+18:18:39.477,RX,"0.08"
+
+18:18:39.477,RX,"Pressure values:"
+
+18:18:39.479,RX,"9967.00"
+
+18:18:39.627,RX,"Differential Pressure values:"
+
+18:18:39.628,RX,"-0.41"
+
+18:18:39.628,RX,"Pressure values:"
+
+18:18:39.628,RX,"9966.50"
+
+18:18:39.776,RX,"Differential Pressure values:"
+
+18:18:39.777,RX,"-1.11"
+
+18:18:39.777,RX,"Pressure values:"
+
+18:18:39.777,RX,"9965.80"
+
+18:18:39.896,RX,"Differential Pressure values:"
+
+18:18:39.926,RX,"-0.81"
+
+18:18:39.926,RX,"Pressure values:"
+
+18:18:39.927,RX,"9966.10"
+
+18:18:40.046,RX,"Differential Pressure values:"
+
+18:18:40.047,RX,"-0.91"
+
+18:18:40.047,RX,"Pressure values:"
+
+18:18:40.047,RX,"9966.00"
+
+18:18:40.196,RX,"Differential Pressure values:"
+
+18:18:40.199,RX,"-0.91"
+
+18:18:40.200,RX,"Pressure values:"
+
+18:18:40.200,RX,"9966.00"
+
+18:18:40.346,RX,"Differential Pressure values:"
+
+18:18:40.347,RX,"-0.51"
+
+18:18:40.347,RX,"Pressure values:"
+
+18:18:40.349,RX,"9966.40"
+
+18:18:40.496,RX,"Differential Pressure values:"
+
+18:18:40.497,RX,"0.28"
+
+18:18:40.497,RX,"Pressure values:"
+
+18:18:40.497,RX,"9967.20"
+
+18:18:40.646,RX,"Differential Pressure values:"
+
+18:18:40.647,RX,"0.68"
+
+18:18:40.647,RX,"Pressure values:"
+
+18:18:40.647,RX,"9967.60"
+
+18:18:40.796,RX,"Differential Pressure values:"
+
+18:18:40.798,RX,"0.48"
+
+18:18:40.799,RX,"Pressure values:"
+
+18:18:40.799,RX,"9967.40"
+
+18:18:40.946,RX,"Differential Pressure values:"
+
+18:18:40.947,RX,"0.88"
+
+18:18:40.948,RX,"Pressure values:"
+
+18:18:40.948,RX,"9967.80"
+
+18:18:41.096,RX,"Differential Pressure values:"
+
+18:18:41.097,RX,"3.18"
+
+18:18:41.098,RX,"Pressure values:"
+
+18:18:41.098,RX,"9970.10"
+
+18:18:41.245,RX,"Differential Pressure values:"
+
+18:18:41.247,RX,"2.68"
+
+18:18:41.247,RX,"Pressure values:"
+
+18:18:41.248,RX,"9969.60"
+
+18:18:41.396,RX,"Differential Pressure values:"
+
+18:18:41.397,RX,"1.98"
+
+18:18:41.397,RX,"Pressure values:"
+
+18:18:41.397,RX,"9968.90"
+
+18:18:41.521,RX,"Differential Pressure values:"
+
+18:18:41.522,RX,"1.58"
+
+18:18:41.522,RX,"Pressure values:"
+
+18:18:41.522,RX,"9968.50"
+
+18:18:41.665,RX,"Differential Pressure values:"
+
+18:18:41.666,RX,"1.38"
+
+18:18:41.668,RX,"Pressure values:"
+
+18:18:41.669,RX,"9968.30"
+
+18:18:41.816,RX,"Differential Pressure values:"
+
+18:18:41.818,RX,"1.38"
+
+18:18:41.818,RX,"Pressure values:"
+
+18:18:41.847,RX,"9968.30"
+
+18:18:41.936,RX,"Differential Pressure values:"
+
+18:18:41.966,RX,"0.98"
+
+18:18:41.966,RX,"Pressure values:"
+
+18:18:41.967,RX,"9967.90"
+
+18:18:42.116,RX,"Differential Pressure values:"
+
+18:18:42.118,RX,"0.68"
+
+18:18:42.120,RX,"Pressure values:"
+
+18:18:42.120,RX,"9967.60"
+
+18:18:42.266,RX,"Differential Pressure values:"
+
+18:18:42.267,RX,"0.48"
+
+18:18:42.267,RX,"Pressure values:"
+
+18:18:42.267,RX,"9967.40"
+
+18:18:42.416,RX,"Differential Pressure values:"
+
+18:18:42.418,RX,"-1.31"
+
+18:18:42.418,RX,"Pressure values:"
+
+18:18:42.418,RX,"9965.60"
+
+18:18:42.566,RX,"Differential Pressure values:"
+
+18:18:42.567,RX,"-2.21"
+
+18:18:42.569,RX,"Pressure values:"
+
+18:18:42.570,RX,"9964.70"
+
+18:18:42.718,RX,"Differential Pressure values:"
+
+18:18:42.719,RX,"-1.61"
+
+18:18:42.719,RX,"Pressure values:"
+
+18:18:42.719,RX,"9965.30"
+
+18:18:42.866,RX,"Differential Pressure values:"
+
+18:18:42.867,RX,"-1.21"
+
+18:18:42.867,RX,"Pressure values:"
+
+18:18:42.867,RX,"9965.70"
+
+18:18:43.016,RX,"Differential Pressure values:"
+
+18:18:43.017,RX,"-0.31"
+
+18:18:43.021,RX,"Pressure values:"
+
+18:18:43.021,RX,"9966.60"
+
+18:18:43.166,RX,"Differential Pressure values:"
+
+18:18:43.167,RX,"-0.31"
+
+18:18:43.167,RX,"Pressure values:"
+
+18:18:43.167,RX,"9966.60"
+
+18:18:43.316,RX,"Differential Pressure values:"
+
+18:18:43.318,RX,"-0.01"
+
+18:18:43.318,RX,"Pressure values:"
+
+18:18:43.319,RX,"9966.90"
+
+18:18:43.466,RX,"Differential Pressure values:"
+
+18:18:43.468,RX,"0.78"
+
+18:18:43.472,RX,"Pressure values:"
+
+18:18:43.472,RX,"9967.70"
+
+18:18:43.616,RX,"Differential Pressure values:"
+
+18:18:43.619,RX,"2.38"
+
+18:18:43.619,RX,"Pressure values:"
+
+18:18:43.619,RX,"9969.30"
+
+18:18:43.769,RX,"Differential Pressure values:"
+
+18:18:43.769,RX,"2.18"
+
+18:18:43.769,RX,"Pressure values:"
+
+18:18:43.769,RX,"9969.10"
+
+18:18:43.888,RX,"Differential Pressure values:"
+
+18:18:43.916,RX,"2.38"
+
+18:18:43.917,RX,"Pressure values:"
+
+18:18:43.917,RX,"9969.30"
+
+18:18:44.066,RX,"Differential Pressure values:"
+
+18:18:44.068,RX,"2.18"
+
+18:18:44.069,RX,"Pressure values:"
+
+18:18:44.069,RX,"9969.10"
+
+18:18:44.216,RX,"Differential Pressure values:"
+
+18:18:44.217,RX,"1.78"
+
+18:18:44.218,RX,"Pressure values:"
+
+18:18:44.218,RX,"9968.70"
+
+18:18:44.366,RX,"Differential Pressure values:"
+
+18:18:44.367,RX,"1.78"
+
+18:18:44.369,RX,"Pressure values:"
+
+18:18:44.370,RX,"9968.70"
+
+18:18:44.518,RX,"Differential Pressure values:"
+
+18:18:44.521,RX,"1.38"
+
+18:18:44.521,RX,"Pressure values:"
+
+18:18:44.521,RX,"9968.30"
+
+18:18:44.666,RX,"Differential Pressure values:"
+
+18:18:44.668,RX,"1.48"
+
+18:18:44.668,RX,"Pressure values:"
+
+18:18:44.668,RX,"9968.40"
+
+18:18:44.815,RX,"Differential Pressure values:"
+
+18:18:44.817,RX,"1.18"
+
+18:18:44.817,RX,"Pressure values:"
+
+18:18:44.817,RX,"9968.10"
+
+18:18:44.965,RX,"Differential Pressure values:"
+
+18:18:44.966,RX,"1.08"
+
+18:18:44.966,RX,"Pressure values:"
+
+18:18:44.967,RX,"9968.00"
+
+18:18:45.116,RX,"Differential Pressure values:"
+
+18:18:45.119,RX,"0.98"
+
+18:18:45.119,RX,"Pressure values:"
+
+18:18:45.119,RX,"9967.90"
+
+18:18:45.266,RX,"Differential Pressure values:"
+
+18:18:45.267,RX,"0.08"
+
+18:18:45.267,RX,"Pressure values:"
+
+18:18:45.269,RX,"9967.00"
+
+18:18:45.386,RX,"Differential Pressure values:"
+
+18:18:45.416,RX,"-1.21"
+
+18:18:45.417,RX,"Pressure values:"
+
+18:18:45.417,RX,"9965.70"
+
+18:18:45.566,RX,"Differential Pressure values:"
+
+18:18:45.567,RX,"-1.71"
+
+18:18:45.568,RX,"Pressure values:"
+
+18:18:45.568,RX,"9965.20"
+
+18:18:45.717,RX,"Differential Pressure values:"
+
+18:18:45.717,RX,"-1.11"
+
+18:18:45.718,RX,"Pressure values:"
+
+18:18:45.718,RX,"9965.80"
+
+18:18:45.866,RX,"Differential Pressure values:"
+
+18:18:45.867,RX,"-1.11"
+
+18:18:45.867,RX,"Pressure values:"
+
+18:18:45.870,RX,"9965.80"
+
+18:18:46.016,RX,"Differential Pressure values:"
+
+18:18:46.018,RX,"-0.31"
+
+18:18:46.018,RX,"Pressure values:"
+
+18:18:46.018,RX,"9966.60"
+
+18:18:46.166,RX,"Differential Pressure values:"
+
+18:18:46.167,RX,"0.08"
+
+18:18:46.167,RX,"Pressure values:"
+
+18:18:46.167,RX,"9967.00"
+
+18:18:46.317,RX,"Differential Pressure values:"
+
+18:18:46.317,RX,"0.08"
+
+18:18:46.317,RX,"Pressure values:"
+
+18:18:46.320,RX,"9967.00"
+
+18:18:46.466,RX,"Differential Pressure values:"
+
+18:18:46.467,RX,"0.78"
+
+18:18:46.467,RX,"Pressure values:"
+
+18:18:46.467,RX,"9967.70"
+
+18:18:46.586,RX,"Differential Pressure values:"
+
+18:18:46.617,RX,"0.98"
+
+18:18:46.617,RX,"Pressure values:"
+
+18:18:46.617,RX,"9967.90"
+
+18:18:46.766,RX,"Differential Pressure values:"
+
+18:18:46.767,RX,"1.68"
+
+18:18:46.767,RX,"Pressure values:"
+
+18:18:46.769,RX,"9968.60"
+
+18:18:46.918,RX,"Differential Pressure values:"
+
+18:18:46.919,RX,"2.58"
+
+18:18:46.919,RX,"Pressure values:"
+
+18:18:46.919,RX,"9969.50"
+
+18:18:47.066,RX,"Differential Pressure values:"
+
+18:18:47.067,RX,"2.28"
+
+18:18:47.067,RX,"Pressure values:"
+
+18:18:47.067,RX,"9969.20"
+
+18:18:47.217,RX,"Differential Pressure values:"
+
+18:18:47.217,RX,"1.98"
+
+18:18:47.217,RX,"Pressure values:"
+
+18:18:47.220,RX,"9968.90"
+
+18:18:47.336,RX,"Differential Pressure values:"
+
+18:18:47.366,RX,"1.68"
+
+18:18:47.366,RX,"Pressure values:"
+
+18:18:47.367,RX,"9968.60"
+
+18:18:47.520,RX,"Differential Pressure values:"
+
+18:18:47.521,RX,"1.48"
+
+18:18:47.521,RX,"Pressure values:"
+
+18:18:47.521,RX,"9968.40"
+
+18:18:47.666,RX,"Differential Pressure values:"
+
+18:18:47.667,RX,"1.48"
+
+18:18:47.670,RX,"Pressure values:"
+
+18:18:47.670,RX,"9968.40"
+
+18:18:47.816,RX,"Differential Pressure values:"
+
+18:18:47.818,RX,"1.18"
+
+18:18:47.818,RX,"Pressure values:"
+
+18:18:47.818,RX,"9968.10"
+
+18:18:47.966,RX,"Differential Pressure values:"
+
+18:18:47.968,RX,"0.48"
+
+18:18:47.968,RX,"Pressure values:"
+
+18:18:47.968,RX,"9967.40"
+
+18:18:48.086,RX,"Differential Pressure values:"
+
+18:18:48.115,RX,"0.68"
+
+18:18:48.119,RX,"Pressure values:"
+
+18:18:48.119,RX,"9967.60"
+
+18:18:48.266,RX,"Differential Pressure values:"
+
+18:18:48.267,RX,"0.08"
+
+18:18:48.267,RX,"Pressure values:"
+
+18:18:48.267,RX,"9967.00"
+
+18:18:48.417,RX,"Differential Pressure values:"
+
+18:18:48.418,RX,"-0.91"
+
+18:18:48.418,RX,"Pressure values:"
+
+18:18:48.418,RX,"9966.00"
+
+18:18:48.566,RX,"Differential Pressure values:"
+
+18:18:48.567,RX,"-0.91"
+
+18:18:48.569,RX,"Pressure values:"
+
+18:18:48.570,RX,"9966.00"
+
+18:18:48.718,RX,"Differential Pressure values:"
+
+18:18:48.719,RX,"-0.81"
+
+18:18:48.719,RX,"Pressure values:"
+
+18:18:48.719,RX,"9966.10"
+
+18:18:48.836,RX,"Differential Pressure values:"
+
+18:18:48.866,RX,"-0.11"
+
+18:18:48.866,RX,"Pressure values:"
+
+18:18:48.867,RX,"9966.80"
+
+18:18:49.015,RX,"Differential Pressure values:"
+
+18:18:49.016,RX,"0.08"
+
+18:18:49.019,RX,"Pressure values:"
+
+18:18:49.019,RX,"9967.00"
+
+18:18:49.166,RX,"Differential Pressure values:"
+
+18:18:49.167,RX,"0.38"
+
+18:18:49.167,RX,"Pressure values:"
+
+18:18:49.167,RX,"9967.30"
+
+18:18:49.316,RX,"Differential Pressure values:"
+
+18:18:49.318,RX,"0.68"
+
+18:18:49.318,RX,"Pressure values:"
+
+18:18:49.318,RX,"9967.60"
+
+18:18:49.466,RX,"Differential Pressure values:"
+
+18:18:49.467,RX,"0.88"
+
+18:18:49.469,RX,"Pressure values:"
+
+18:18:49.470,RX,"9967.80"
+
+18:18:49.617,RX,"Differential Pressure values:"
+
+18:18:49.618,RX,"1.28"
+
+18:18:49.618,RX,"Pressure values:"
+
+18:18:49.618,RX,"9968.20"
+
+18:18:49.766,RX,"Differential Pressure values:"
+
+18:18:49.767,RX,"2.08"
+
+18:18:49.768,RX,"Pressure values:"
+
+18:18:49.768,RX,"9969.00"
+
+18:18:49.915,RX,"Differential Pressure values:"
+
+18:18:49.916,RX,"2.48"
+
+18:18:49.919,RX,"Pressure values:"
+
+18:18:49.919,RX,"9969.40"
+
+18:18:50.036,RX,"Differential Pressure values:"
+
+18:18:50.066,RX,"1.78"
+
+18:18:50.066,RX,"Pressure values:"
+
+18:18:50.066,RX,"9968.70"
+
+18:18:50.216,RX,"Differential Pressure values:"
+
+18:18:50.217,RX,"1.68"
+
+18:18:50.217,RX,"Pressure values:"
+
+18:18:50.217,RX,"9968.60"
+
+18:18:50.366,RX,"Differential Pressure values:"
+
+18:18:50.367,RX,"1.38"
+
+18:18:50.369,RX,"Pressure values:"
+
+18:18:50.370,RX,"9968.30"
+
+18:18:50.517,RX,"Differential Pressure values:"
+
+18:18:50.518,RX,"1.18"
+
+18:18:50.518,RX,"Pressure values:"
+
+18:18:50.520,RX,"9968.10"
+
+18:18:50.667,RX,"Differential Pressure values:"
+
+18:18:50.667,RX,"0.78"
+
+18:18:50.667,RX,"Pressure values:"
+
+18:18:50.668,RX,"9967.70"
+
+18:18:50.786,RX,"Differential Pressure values:"
+
+18:18:50.816,RX,"0.88"
+
+18:18:50.816,RX,"Pressure values:"
+
+18:18:50.817,RX,"9967.80"
+
+18:18:50.937,RX,"Differential Pressure values:"
+
+18:18:50.938,RX,"0.28"
+
+18:18:50.938,RX,"Pressure values:"
+
+18:18:50.940,RX,"9967.20"
+
+18:18:51.086,RX,"Differential Pressure values:"
+
+18:18:51.087,RX,"-0.11"
+
+18:18:51.087,RX,"Pressure values:"
+
+18:18:51.087,RX,"9966.80"
+
+18:18:51.236,RX,"Differential Pressure values:"
+
+18:18:51.237,RX,"-0.11"
+
+18:18:51.238,RX,"Pressure values:"
+
+18:18:51.238,RX,"9966.80"
+
+18:18:51.394,RX,"Differential Pressure values:"
+
+18:18:51.395,RX,"-0.11"
+
+18:18:51.395,RX,"Pressure values:"
+
+18:18:51.395,RX,"9966.80"
+
+18:18:51.537,RX,"Differential Pressure values:"
+
+18:18:51.538,RX,"0.08"
+
+18:18:51.538,RX,"Pressure values:"
+
+18:18:51.538,RX,"9967.00"
+
+18:18:51.657,RX,"Differential Pressure values:"
+
+18:18:51.686,RX,"0.08"
+
+18:18:51.687,RX,"Pressure values:"
+
+18:18:51.687,RX,"9967.00"
+
+18:18:51.836,RX,"Differential Pressure values:"
+
+18:18:51.837,RX,"0.08"
+
+18:18:51.837,RX,"Pressure values:"
+
+18:18:51.840,RX,"9967.00"
+
+18:18:51.986,RX,"Differential Pressure values:"
+
+18:18:51.987,RX,"-0.01"
+
+18:18:51.987,RX,"Pressure values:"
+
+18:18:51.987,RX,"9966.90"
+
+18:18:52.136,RX,"Differential Pressure values:"
+
+18:18:52.137,RX,"0.48"
+
+18:18:52.138,RX,"Pressure values:"
+
+18:18:52.138,RX,"9967.40"
+
+18:18:52.286,RX,"Differential Pressure values:"
+
+18:18:52.287,RX,"0.48"
+
+18:18:52.287,RX,"Pressure values:"
+
+18:18:52.289,RX,"9967.40"
+
+18:18:52.406,RX,"Differential Pressure values:"
+
+18:18:52.435,RX,"0.58"
+
+18:18:52.436,RX,"Pressure values:"
+
+18:18:52.438,RX,"9967.50"
+
+18:18:52.586,RX,"Differential Pressure values:"
+
+18:18:52.587,RX,"0.78"
+
+18:18:52.587,RX,"Pressure values:"
+
+18:18:52.587,RX,"9967.70"
+
+18:18:52.737,RX,"Differential Pressure values:"
+
+18:18:52.738,RX,"1.18"
+
+18:18:52.738,RX,"Pressure values:"
+
+18:18:52.740,RX,"9968.10"
+
+18:18:52.886,RX,"Differential Pressure values:"
+
+18:18:52.888,RX,"2.78"
+
+18:18:52.888,RX,"Pressure values:"
+
+18:18:52.888,RX,"9969.70"
+
+18:18:53.036,RX,"Differential Pressure values:"
+
+18:18:53.037,RX,"2.68"
+
+18:18:53.038,RX,"Pressure values:"
+
+18:18:53.038,RX,"9969.60"
+
+18:18:53.156,RX,"Differential Pressure values:"
+
+18:18:53.186,RX,"1.88"
+
+18:18:53.186,RX,"Pressure values:"
+
+18:18:53.187,RX,"9968.80"
+
+18:18:53.306,RX,"Differential Pressure values:"
+
+18:18:53.308,RX,"1.38"
+
+18:18:53.308,RX,"Pressure values:"
+
+18:18:53.308,RX,"9968.30"
+
+18:18:53.456,RX,"Differential Pressure values:"
+
+18:18:53.457,RX,"1.38"
+
+18:18:53.457,RX,"Pressure values:"
+
+18:18:53.488,RX,"9968.30"
+
+18:18:53.606,RX,"Differential Pressure values:"
+
+18:18:53.607,RX,"1.18"
+
+18:18:53.607,RX,"Pressure values:"
+
+18:18:53.610,RX,"9968.10"
+
+18:18:53.756,RX,"Differential Pressure values:"
+
+18:18:53.758,RX,"1.08"
+
+18:18:53.758,RX,"Pressure values:"
+
+18:18:53.788,RX,"9968.00"
+
+18:18:53.906,RX,"Differential Pressure values:"
+
+18:18:53.907,RX,"0.78"
+
+18:18:53.907,RX,"Pressure values:"
+
+18:18:53.908,RX,"9967.70"
+
+18:18:54.026,RX,"Differential Pressure values:"
+
+18:18:54.055,RX,"0.08"
+
+18:18:54.057,RX,"Pressure values:"
+
+18:18:54.057,RX,"9967.00"
+
+18:18:54.207,RX,"Differential Pressure values:"
+
+18:18:54.208,RX,"-0.31"
+
+18:18:54.208,RX,"Pressure values:"
+
+18:18:54.208,RX,"9966.60"
+
+18:18:54.356,RX,"Differential Pressure values:"
+
+18:18:54.357,RX,"-4.81"
+
+18:18:54.357,RX,"Pressure values:"
+
+18:18:54.388,RX,"9962.10"
+
+18:18:54.507,RX,"Differential Pressure values:"
+
+18:18:54.507,RX,"-52.61"
+
+18:18:54.507,RX,"Pressure values:"
+
+18:18:54.508,RX,"9914.30"
+
+18:18:54.656,RX,"Differential Pressure values:"
+
+18:18:54.658,RX,"-85.81"
+
+18:18:54.658,RX,"Pressure values:"
+
+18:18:54.688,RX,"9881.10"
+
+18:18:54.776,RX,"Differential Pressure values:"
+
+18:18:54.807,RX,"-54.81"
+
+18:18:54.807,RX,"Pressure values:"
+
+18:18:54.807,RX,"9912.10"
+
+18:18:54.926,RX,"Differential Pressure values:"
+
+18:18:54.928,RX,"0.28"
+
+18:18:54.928,RX,"Pressure values:"
+
+18:18:54.928,RX,"9967.20"
+
+18:18:55.076,RX,"Differential Pressure values:"
+
+18:18:55.078,RX,"0.78"
+
+18:18:55.078,RX,"Pressure values:"
+
+18:18:55.078,RX,"9967.70"
+
+18:18:55.226,RX,"Differential Pressure values:"
+
+18:18:55.227,RX,"0.98"
+
+18:18:55.227,RX,"Pressure values:"
+
+18:18:55.227,RX,"9967.90"
+
+18:18:55.376,RX,"Differential Pressure values:"
+
+18:18:55.377,RX,"0.28"
+
+18:18:55.377,RX,"Pressure values:"
+
+18:18:55.380,RX,"9967.20"
+
+18:18:55.526,RX,"Differential Pressure values:"
+
+18:18:55.528,RX,"1.38"
+
+18:18:55.528,RX,"Pressure values:"
+
+18:18:55.528,RX,"9968.30"
+
+18:18:55.676,RX,"Differential Pressure values:"
+
+18:18:55.677,RX,"2.58"
+
+18:18:55.677,RX,"Pressure values:"
+
+18:18:55.677,RX,"9969.50"
+
+18:18:55.826,RX,"Differential Pressure values:"
+
+18:18:55.827,RX,"1.78"
+
+18:18:55.827,RX,"Pressure values:"
+
+18:18:55.830,RX,"9968.70"
+
+18:18:55.976,RX,"Differential Pressure values:"
+
+18:18:55.978,RX,"1.08"
+
+18:18:55.978,RX,"Pressure values:"
+
+18:18:55.978,RX,"9968.00"
+
+18:18:56.126,RX,"Differential Pressure values:"
+
+18:18:56.127,RX,"0.98"
+
+18:18:56.127,RX,"Pressure values:"
+
+18:18:56.127,RX,"9967.90"
+
+18:18:56.276,RX,"Differential Pressure values:"
+
+18:18:56.277,RX,"0.78"
+
+18:18:56.277,RX,"Pressure values:"
+
+18:18:56.280,RX,"9967.70"
+
+18:18:56.396,RX,"Differential Pressure values:"
+
+18:18:56.425,RX,"0.58"
+
+18:18:56.426,RX,"Pressure values:"
+
+18:18:56.426,RX,"9967.50"
+
+18:18:56.576,RX,"Differential Pressure values:"
+
+18:18:56.577,RX,"-0.01"
+
+18:18:56.577,RX,"Pressure values:"
+
+18:18:56.577,RX,"9966.90"
+
+18:18:56.726,RX,"Differential Pressure values:"
+
+18:18:56.727,RX,"-46.31"
+
+18:18:56.727,RX,"Pressure values:"
+
+18:18:56.731,RX,"9920.60"
+
+18:18:56.876,RX,"Differential Pressure values:"
+
+18:18:56.878,RX,"-90.91"
+
+18:18:56.878,RX,"Pressure values:"
+
+18:18:56.878,RX,"9876.00"
+
+18:18:57.026,RX,"Differential Pressure values:"
+
+18:18:57.027,RX,"-107.31"
+
+18:18:57.027,RX,"Pressure values:"
+
+18:18:57.027,RX,"9859.60"
+
+18:18:57.146,RX,"Differential Pressure values:"
+
+18:18:57.175,RX,"-107.81"
+
+18:18:57.176,RX,"Pressure values:"
+
+18:18:57.179,RX,"9859.10"
+
+18:18:57.296,RX,"Differential Pressure values:"
+
+18:18:57.298,RX,"-107.11"
+
+18:18:57.298,RX,"Pressure values:"
+
+18:18:57.298,RX,"9859.80"
+
+18:18:57.445,RX,"Differential Pressure values:"
+
+18:18:57.446,RX,"-117.01"
+
+18:18:57.447,RX,"Pressure values:"
+
+18:18:57.447,RX,"9849.90"
+
+18:18:57.596,RX,"Differential Pressure values:"
+
+18:18:57.597,RX,"-108.21"
+
+18:18:57.597,RX,"Pressure values:"
+
+18:18:57.599,RX,"9858.70"
+
+18:18:57.746,RX,"Differential Pressure values:"
+
+18:18:57.748,RX,"-87.11"
+
+18:18:57.748,RX,"Pressure values:"
+
+18:18:57.748,RX,"9879.80"
+
+18:18:57.896,RX,"Differential Pressure values:"
+
+18:18:57.897,RX,"-63.01"
+
+18:18:57.897,RX,"Pressure values:"
+
+18:18:57.897,RX,"9903.90"
+
+18:18:58.046,RX,"Differential Pressure values:"
+
+18:18:58.047,RX,"-29.31"
+
+18:18:58.047,RX,"Pressure values:"
+
+18:18:58.050,RX,"9937.60"
+
+18:18:58.196,RX,"Differential Pressure values:"
+
+18:18:58.198,RX,"3.58"
+
+18:18:58.198,RX,"Pressure values:"
+
+18:18:58.198,RX,"9970.50"
+
+18:18:58.347,RX,"Differential Pressure values:"
+
+18:18:58.350,RX,"3.98"
+
+18:18:58.351,RX,"Pressure values:"
+
+18:18:58.351,RX,"9970.90"
+
+18:18:58.496,RX,"Differential Pressure values:"
+
+18:18:58.497,RX,"3.78"
+
+18:18:58.497,RX,"Pressure values:"
+
+18:18:58.499,RX,"9970.70"
+
+18:18:58.646,RX,"Differential Pressure values:"
+
+18:18:58.647,RX,"0.98"
+
+18:18:58.647,RX,"Pressure values:"
+
+18:18:58.648,RX,"9967.90"
+
+18:18:58.766,RX,"Differential Pressure values:"
+
+18:18:58.796,RX,"1.38"
+
+18:18:58.796,RX,"Pressure values:"
+
+18:18:58.797,RX,"9968.30"
+
+18:18:58.916,RX,"Differential Pressure values:"
+
+18:18:58.917,RX,"9.38"
+
+18:18:58.917,RX,"Pressure values:"
+
+18:18:58.919,RX,"9976.30"
+
+18:18:59.066,RX,"Differential Pressure values:"
+
+18:18:59.068,RX,"12.58"
+
+18:18:59.068,RX,"Pressure values:"
+
+18:18:59.068,RX,"9979.50"
+
+18:18:59.215,RX,"Differential Pressure values:"
+
+18:18:59.216,RX,"16.88"
+
+18:18:59.216,RX,"Pressure values:"
+
+18:18:59.217,RX,"9983.80"
+
+18:18:59.366,RX,"Differential Pressure values:"
+
+18:18:59.367,RX,"20.08"
+
+18:18:59.367,RX,"Pressure values:"
+
+18:18:59.370,RX,"9987.00"
+
+18:18:59.516,RX,"Differential Pressure values:"
+
+18:18:59.517,RX,"25.68"
+
+18:18:59.517,RX,"Pressure values:"
+
+18:18:59.518,RX,"9992.60"
+
+18:18:59.665,RX,"Differential Pressure values:"
+
+18:18:59.667,RX,"25.88"
+
+18:18:59.667,RX,"Pressure values:"
+
+18:18:59.667,RX,"9992.80"
+
+18:18:59.816,RX,"Differential Pressure values:"
+
+18:18:59.817,RX,"23.28"
+
+18:18:59.817,RX,"Pressure values:"
+
+18:18:59.820,RX,"9990.20"
+
+18:18:59.966,RX,"Differential Pressure values:"
+
+18:18:59.968,RX,"19.68"
+
+18:18:59.968,RX,"Pressure values:"
+
+18:18:59.968,RX,"9986.60"
+
+18:19:00.116,RX,"Differential Pressure values:"
+
+18:19:00.117,RX,"16.18"
+
+18:19:00.117,RX,"Pressure values:"
+
+18:19:00.117,RX,"9983.10"
+
+18:19:00.266,RX,"Differential Pressure values:"
+
+18:19:00.267,RX,"13.58"
+
+18:19:00.267,RX,"Pressure values:"
+
+18:19:00.270,RX,"9980.50"
+
+18:19:00.386,RX,"Differential Pressure values:"
+
+18:19:00.415,RX,"10.58"
+
+18:19:00.416,RX,"Pressure values:"
+
+18:19:00.416,RX,"9977.50"
+
+18:19:00.566,RX,"Differential Pressure values:"
+
+18:19:00.567,RX,"10.58"
+
+18:19:00.567,RX,"Pressure values:"
+
+18:19:00.567,RX,"9977.50"
+
+18:19:00.716,RX,"Differential Pressure values:"
+
+18:19:00.717,RX,"11.88"
+
+18:19:00.717,RX,"Pressure values:"
+
+18:19:00.719,RX,"9978.80"
+
+18:19:00.866,RX,"Differential Pressure values:"
+
+18:19:00.867,RX,"10.38"
+
+18:19:00.867,RX,"Pressure values:"
+
+18:19:00.867,RX,"9977.30"
+
+18:19:01.016,RX,"Differential Pressure values:"
+
+18:19:01.021,RX,"7.38"
+
+18:19:01.021,RX,"Pressure values:"
+
+18:19:01.021,RX,"9974.30"
+
+18:19:01.135,RX,"Differential Pressure values:"
+
+18:19:01.166,RX,"7.78"
+
+18:19:01.166,RX,"Pressure values:"
+
+18:19:01.166,RX,"9974.70"
+
+18:19:01.286,RX,"Differential Pressure values:"
+
+18:19:01.288,RX,"5.18"
+
+18:19:01.288,RX,"Pressure values:"
+
+18:19:01.288,RX,"9972.10"
+
+18:19:01.436,RX,"Differential Pressure values:"
+
+18:19:01.437,RX,"4.48"
+
+18:19:01.437,RX,"Pressure values:"
+
+18:19:01.437,RX,"9971.40"
+
+18:19:01.586,RX,"Differential Pressure values:"
+
+18:19:01.587,RX,"1.18"
+
+18:19:01.587,RX,"Pressure values:"
+
+18:19:01.590,RX,"9968.10"
+
+18:19:01.736,RX,"Differential Pressure values:"
+
+18:19:01.738,RX,"-15.61"
+
+18:19:01.738,RX,"Pressure values:"
+
+18:19:01.738,RX,"9951.30"
+
+18:19:01.886,RX,"Differential Pressure values:"
+
+18:19:01.887,RX,"-78.11"
+
+18:19:01.887,RX,"Pressure values:"
+
+18:19:01.887,RX,"9888.80"
+
+18:19:02.006,RX,"Differential Pressure values:"
+
+18:19:02.035,RX,"-87.61"
+
+18:19:02.036,RX,"Pressure values:"
+
+18:19:02.039,RX,"9879.30"
+
+18:19:02.186,RX,"Differential Pressure values:"
+
+18:19:02.188,RX,"-100.91"
+
+18:19:02.188,RX,"Pressure values:"
+
+18:19:02.188,RX,"9866.00"
+
+18:19:02.336,RX,"Differential Pressure values:"
+
+18:19:02.337,RX,"-98.31"
+
+18:19:02.337,RX,"Pressure values:"
+
+18:19:02.337,RX,"9868.60"
+
+18:19:02.486,RX,"Differential Pressure values:"
+
+18:19:02.487,RX,"-96.71"
+
+18:19:02.487,RX,"Pressure values:"
+
+18:19:02.490,RX,"9870.20"
+
+18:19:02.636,RX,"Differential Pressure values:"
+
+18:19:02.638,RX,"-88.31"
+
+18:19:02.638,RX,"Pressure values:"
+
+18:19:02.638,RX,"9878.60"
+
+18:19:02.757,RX,"Differential Pressure values:"
+
+18:19:02.787,RX,"-86.61"
+
+18:19:02.787,RX,"Pressure values:"
+
+18:19:02.787,RX,"9880.30"
+
+18:19:02.936,RX,"Differential Pressure values:"
+
+18:19:02.937,RX,"-84.71"
+
+18:19:02.937,RX,"Pressure values:"
+
+18:19:02.940,RX,"9882.20"
+
+18:19:03.086,RX,"Differential Pressure values:"
+
+18:19:03.088,RX,"-81.61"
+
+18:19:03.088,RX,"Pressure values:"
+
+18:19:03.088,RX,"9885.30"
+
+18:19:03.236,RX,"Differential Pressure values:"
+
+18:19:03.237,RX,"-73.61"
+
+18:19:03.237,RX,"Pressure values:"
+
+18:19:03.237,RX,"9893.30"
+
+18:19:03.386,RX,"Differential Pressure values:"
+
+18:19:03.387,RX,"-67.01"
+
+18:19:03.387,RX,"Pressure values:"
+
+18:19:03.389,RX,"9899.90"
+
+18:19:03.506,RX,"Differential Pressure values:"
+
+18:19:03.535,RX,"-46.41"
+
+18:19:03.536,RX,"Pressure values:"
+
+18:19:03.536,RX,"9920.50"
+
+18:19:03.686,RX,"Differential Pressure values:"
+
+18:19:03.687,RX,"-25.01"
+
+18:19:03.687,RX,"Pressure values:"
+
+18:19:03.687,RX,"9941.90"
+
+18:19:03.837,RX,"Differential Pressure values:"
+
+18:19:03.838,RX,"-5.01"
+
+18:19:03.838,RX,"Pressure values:"
+
+18:19:03.838,RX,"9961.90"
+
+18:19:03.986,RX,"Differential Pressure values:"
+
+18:19:03.988,RX,"-0.21"
+
+18:19:03.988,RX,"Pressure values:"
+
+18:19:03.988,RX,"9966.70"
+
+18:19:04.136,RX,"Differential Pressure values:"
+
+18:19:04.137,RX,"0.88"
+
+18:19:04.137,RX,"Pressure values:"
+
+18:19:04.137,RX,"9967.80"
+
+18:19:04.256,RX,"Differential Pressure values:"
+
+18:19:04.286,RX,"1.48"
+
+18:19:04.286,RX,"Pressure values:"
+
+18:19:04.286,RX,"9968.40"
+
+18:19:04.436,RX,"Differential Pressure values:"
+
+18:19:04.438,RX,"12.68"
+
+18:19:04.438,RX,"Pressure values:"
+
+18:19:04.438,RX,"9979.60"
+
+18:19:04.586,RX,"Differential Pressure values:"
+
+18:19:04.587,RX,"20.28"
+
+18:19:04.587,RX,"Pressure values:"
+
+18:19:04.587,RX,"9987.20"
+
+18:19:04.737,RX,"Differential Pressure values:"
+
+18:19:04.737,RX,"14.28"
+
+18:19:04.737,RX,"Pressure values:"
+
+18:19:04.740,RX,"9981.20"
+
+18:19:04.888,RX,"Differential Pressure values:"
+
+18:19:04.888,RX,"12.98"
+
+18:19:04.888,RX,"Pressure values:"
+
+18:19:04.889,RX,"9979.90"
+
+18:19:05.040,RX,"Differential Pressure values:"
+
+18:19:05.041,RX,"12.68"
+
+18:19:05.041,RX,"Pressure values:"
+
+18:19:05.041,RX,"9979.60"
+
+18:19:05.186,RX,"Differential Pressure values:"
+
+18:19:05.187,RX,"12.18"
+
+18:19:05.190,RX,"Pressure values:"
+
+18:19:05.190,RX,"9979.10"
+
+18:19:05.336,RX,"Differential Pressure values:"
+
+18:19:05.337,RX,"13.78"
+
+18:19:05.338,RX,"Pressure values:"
+
+18:19:05.338,RX,"9980.70"
+
+18:19:05.456,RX,"Differential Pressure values:"
+
+18:19:05.486,RX,"12.98"
+
+18:19:05.486,RX,"Pressure values:"
+
+18:19:05.487,RX,"9979.90"
+
+18:19:05.636,RX,"Differential Pressure values:"
+
+18:19:05.637,RX,"10.28"
+
+18:19:05.640,RX,"Pressure values:"
+
+18:19:05.640,RX,"9977.20"
+
+18:19:05.786,RX,"Differential Pressure values:"
+
+18:19:05.787,RX,"10.08"
+
+18:19:05.788,RX,"Pressure values:"
+
+18:19:05.788,RX,"9977.00"
+
+18:19:05.936,RX,"Differential Pressure values:"
+
+18:19:05.938,RX,"7.18"
+
+18:19:05.938,RX,"Pressure values:"
+
+18:19:05.938,RX,"9974.10"
+
+18:19:06.086,RX,"Differential Pressure values:"
+
+18:19:06.087,RX,"11.78"
+
+18:19:06.090,RX,"Pressure values:"
+
+18:19:06.090,RX,"9978.70"
+
+18:19:06.206,RX,"Differential Pressure values:"
+
+18:19:06.236,RX,"6.28"
+
+18:19:06.236,RX,"Pressure values:"
+
+18:19:06.236,RX,"9973.20"
+
+18:19:06.386,RX,"Differential Pressure values:"
+
+18:19:06.388,RX,"3.18"
+
+18:19:06.388,RX,"Pressure values:"
+
+18:19:06.388,RX,"9970.10"
+
+18:19:06.536,RX,"Differential Pressure values:"
+
+18:19:06.537,RX,"0.98"
+
+18:19:06.540,RX,"Pressure values:"
+
+18:19:06.540,RX,"9967.90"
+
+18:19:06.687,RX,"Differential Pressure values:"
+
+18:19:06.688,RX,"0.58"
+
+18:19:06.688,RX,"Pressure values:"
+
+18:19:06.688,RX,"9967.50"
+
+18:19:06.835,RX,"Differential Pressure values:"
+
+18:19:06.836,RX,"-2.11"
+
+18:19:06.837,RX,"Pressure values:"
+
+18:19:06.838,RX,"9964.80"
+
+18:19:06.956,RX,"Differential Pressure values:"
+
+18:19:06.986,RX,"-19.91"
+
+18:19:06.989,RX,"Pressure values:"
+
+18:19:06.989,RX,"9947.00"
+
+18:19:07.106,RX,"Differential Pressure values:"
+
+18:19:07.107,RX,"-68.11"
+
+18:19:07.108,RX,"Pressure values:"
+
+18:19:07.108,RX,"9898.80"
+
+18:19:07.257,RX,"Differential Pressure values:"
+
+18:19:07.260,RX,"-92.51"
+
+18:19:07.260,RX,"Pressure values:"
+
+18:19:07.288,RX,"9874.40"
+
+18:19:07.406,RX,"Differential Pressure values:"
+
+18:19:07.407,RX,"-96.61"
+
+18:19:07.410,RX,"Pressure values:"
+
+18:19:07.410,RX,"9870.30"
+
+18:19:07.556,RX,"Differential Pressure values:"
+
+18:19:07.558,RX,"-96.81"
+
+18:19:07.559,RX,"Pressure values:"
+
+18:19:07.588,RX,"9870.10"
+
+18:19:07.706,RX,"Differential Pressure values:"
+
+18:19:07.708,RX,"-95.81"
+
+18:19:07.708,RX,"Pressure values:"
+
+18:19:07.708,RX,"9871.10"
+
+18:19:07.826,RX,"Differential Pressure values:"
+
+18:19:07.856,RX,"-93.81"
+
+18:19:07.860,RX,"Pressure values:"
+
+18:19:07.860,RX,"9873.10"
+
+18:19:08.006,RX,"Differential Pressure values:"
+
+18:19:08.008,RX,"-77.61"
+
+18:19:08.008,RX,"Pressure values:"
+
+18:19:08.008,RX,"9889.30"
+
+18:19:08.156,RX,"Differential Pressure values:"
+
+18:19:08.158,RX,"-74.61"
+
+18:19:08.158,RX,"Pressure values:"
+
+18:19:08.188,RX,"9892.30"
+
+18:19:08.307,RX,"Differential Pressure values:"
+
+18:19:08.308,RX,"-75.61"
+
+18:19:08.310,RX,"Pressure values:"
+
+18:19:08.310,RX,"9891.30"
+
+18:19:08.457,RX,"Differential Pressure values:"
+
+18:19:08.458,RX,"-69.91"
+
+18:19:08.458,RX,"Pressure values:"
+
+18:19:08.488,RX,"9897.00"
+
+18:19:08.576,RX,"Differential Pressure values:"
+
+18:19:08.606,RX,"-47.71"
+
+18:19:08.606,RX,"Pressure values:"
+
+18:19:08.607,RX,"9919.20"
+
+18:19:08.726,RX,"Differential Pressure values:"
+
+18:19:08.727,RX,"-22.01"
+
+18:19:08.730,RX,"Pressure values:"
+
+18:19:08.730,RX,"9944.90"
+
+18:19:08.876,RX,"Differential Pressure values:"
+
+18:19:08.879,RX,"-11.21"
+
+18:19:08.879,RX,"Pressure values:"
+
+18:19:08.879,RX,"9955.70"
+
+18:19:09.026,RX,"Differential Pressure values:"
+
+18:19:09.028,RX,"1.18"
+
+18:19:09.028,RX,"Pressure values:"
+
+18:19:09.029,RX,"9968.10"
+
+18:19:09.176,RX,"Differential Pressure values:"
+
+18:19:09.177,RX,"2.48"
+
+18:19:09.180,RX,"Pressure values:"
+
+18:19:09.180,RX,"9969.40"
+
+18:19:09.326,RX,"Differential Pressure values:"
+
+18:19:09.326,RX,"3.38"
+
+18:19:09.327,RX,"Pressure values:"
+
+18:19:09.328,RX,"9970.30"
+
+18:19:09.493,RX,"Differential Pressure values:"
+
+18:19:09.494,RX,"4.98"
+
+18:19:09.494,RX,"Pressure values:"
+
+18:19:09.494,RX,"9971.90"
+
+18:19:09.626,RX,"Differential Pressure values:"
+
+18:19:09.630,RX,"2.78"
+
+18:19:09.630,RX,"Pressure values:"
+
+18:19:09.630,RX,"9969.70"
+
+18:19:09.776,RX,"Differential Pressure values:"
+
+18:19:09.777,RX,"0.68"
+
+18:19:09.778,RX,"Pressure values:"
+
+18:19:09.778,RX,"9967.60"
+
+18:19:09.926,RX,"Differential Pressure values:"
+
+18:19:09.928,RX,"0.28"
+
+18:19:09.928,RX,"Pressure values:"
+
+18:19:09.928,RX,"9967.20"
+
+18:19:10.076,RX,"Differential Pressure values:"
+
+18:19:10.077,RX,"3.28"
+
+18:19:10.080,RX,"Pressure values:"
+
+18:19:10.080,RX,"9970.20"
+
+18:19:10.196,RX,"Differential Pressure values:"
+
+18:19:10.226,RX,"2.68"
+
+18:19:10.227,RX,"Pressure values:"
+
+18:19:10.227,RX,"9969.60"
+
+18:19:10.376,RX,"Differential Pressure values:"
+
+18:19:10.378,RX,"1.28"
+
+18:19:10.378,RX,"Pressure values:"
+
+18:19:10.378,RX,"9968.20"
+
+18:19:10.526,RX,"Differential Pressure values:"
+
+18:19:10.527,RX,"1.18"
+
+18:19:10.530,RX,"Pressure values:"
+
+18:19:10.531,RX,"9968.10"
+
+18:19:10.676,RX,"Differential Pressure values:"
+
+18:19:10.677,RX,"2.58"
+
+18:19:10.677,RX,"Pressure values:"
+
+18:19:10.677,RX,"9969.50"
+
+18:19:10.826,RX,"Differential Pressure values:"
+
+18:19:10.828,RX,"1.38"
+
+18:19:10.828,RX,"Pressure values:"
+
+18:19:10.828,RX,"9968.30"
+
+18:19:10.946,RX,"Differential Pressure values:"
+
+18:19:10.976,RX,"2.38"
+
+18:19:10.979,RX,"Pressure values:"
+
+18:19:10.979,RX,"9969.30"
+
+18:19:11.126,RX,"Differential Pressure values:"
+
+18:19:11.128,RX,"1.78"
+
+18:19:11.128,RX,"Pressure values:"
+
+18:19:11.128,RX,"9968.70"
+
+18:19:11.276,RX,"Differential Pressure values:"
+
+18:19:11.278,RX,"2.08"
+
+18:19:11.278,RX,"Pressure values:"
+
+18:19:11.278,RX,"9969.00"
+
+18:19:11.426,RX,"Differential Pressure values:"
+
+18:19:11.428,RX,"0.48"
+
+18:19:11.428,RX,"Pressure values:"
+
+18:19:11.428,RX,"9967.40"
+
+18:19:11.594,RX,"Differential Pressure values:"
+
+18:19:11.596,RX,"1.08"
+
+18:19:11.596,RX,"Pressure values:"
+
+18:19:11.596,RX,"9968.00"
+
+18:19:11.697,RX,"Differential Pressure values:"
+
+18:19:11.725,RX,"0.48"
+
+18:19:11.726,RX,"Pressure values:"
+
+18:19:11.726,RX,"9967.40"
+
+18:19:11.877,RX,"Differential Pressure values:"
+
+18:19:11.879,RX,"-1.21"
+
+18:19:11.879,RX,"Pressure values:"
+
+18:19:11.879,RX,"9965.70"
+
+18:19:12.026,RX,"Differential Pressure values:"
+
+18:19:12.027,RX,"0.98"
+
+18:19:12.027,RX,"Pressure values:"
+
+18:19:12.031,RX,"9967.90"
+
+18:19:12.176,RX,"Differential Pressure values:"
+
+18:19:12.178,RX,"0.28"
+
+18:19:12.178,RX,"Pressure values:"
+
+18:19:12.178,RX,"9967.20"
+
+18:19:12.326,RX,"Differential Pressure values:"
+
+18:19:12.327,RX,"1.38"
+
+18:19:12.327,RX,"Pressure values:"
+
+18:19:12.327,RX,"9968.30"
+
+18:19:12.475,RX,"Differential Pressure values:"
+
+18:19:12.476,RX,"14.58"
+
+18:19:12.476,RX,"Pressure values:"
+
+18:19:12.478,RX,"9981.50"
+
+18:19:12.626,RX,"Differential Pressure values:"
+
+18:19:12.628,RX,"13.68"
+
+18:19:12.628,RX,"Pressure values:"
+
+18:19:12.628,RX,"9980.60"
+
+18:19:12.776,RX,"Differential Pressure values:"
+
+18:19:12.777,RX,"16.38"
+
+18:19:12.777,RX,"Pressure values:"
+
+18:19:12.777,RX,"9983.30"
+
+18:19:12.926,RX,"Differential Pressure values:"
+
+18:19:12.927,RX,"20.88"
+
+18:19:12.927,RX,"Pressure values:"
+
+18:19:12.930,RX,"9987.80"
+
+18:19:13.076,RX,"Differential Pressure values:"
+
+18:19:13.078,RX,"19.28"
+
+18:19:13.078,RX,"Pressure values:"
+
+18:19:13.078,RX,"9986.20"
+
+18:19:13.226,RX,"Differential Pressure values:"
+
+18:19:13.227,RX,"15.48"
+
+18:19:13.227,RX,"Pressure values:"
+
+18:19:13.227,RX,"9982.40"
+
+18:19:13.376,RX,"Differential Pressure values:"
+
+18:19:13.377,RX,"13.48"
+
+18:19:13.377,RX,"Pressure values:"
+
+18:19:13.379,RX,"9980.40"
+
+18:19:13.527,RX,"Differential Pressure values:"
+
+18:19:13.528,RX,"10.58"
+
+18:19:13.528,RX,"Pressure values:"
+
+18:19:13.528,RX,"9977.50"
+
+18:19:13.647,RX,"Differential Pressure values:"
+
+18:19:13.675,RX,"10.38"
+
+18:19:13.677,RX,"Pressure values:"
+
+18:19:13.677,RX,"9977.30"
+
+18:19:13.796,RX,"Differential Pressure values:"
+
+18:19:13.797,RX,"8.18"
+
+18:19:13.797,RX,"Pressure values:"
+
+18:19:13.800,RX,"9975.10"
+
+18:19:13.946,RX,"Differential Pressure values:"
+
+18:19:13.948,RX,"8.08"
+
+18:19:13.948,RX,"Pressure values:"
+
+18:19:13.948,RX,"9975.00"
+
+18:19:14.069,RX,"Differential Pressure values:"
+
+18:19:14.096,RX,"6.38"
+
+18:19:14.096,RX,"Pressure values:"
+
+18:19:14.098,RX,"9973.30"
+
+18:19:14.246,RX,"Differential Pressure values:"
+
+18:19:14.247,RX,"3.18"
+
+18:19:14.247,RX,"Pressure values:"
+
+18:19:14.250,RX,"9970.10"
+
+18:19:14.395,RX,"Differential Pressure values:"
+
+18:19:14.396,RX,"2.88"
+
+18:19:14.397,RX,"Pressure values:"
+
+18:19:14.398,RX,"9969.80"
+
+18:19:14.546,RX,"Differential Pressure values:"
+
+18:19:14.547,RX,"1.18"
+
+18:19:14.547,RX,"Pressure values:"
+
+18:19:14.548,RX,"9968.10"
+
+18:19:14.696,RX,"Differential Pressure values:"
+
+18:19:14.697,RX,"-3.51"
+
+18:19:14.697,RX,"Pressure values:"
+
+18:19:14.700,RX,"9963.40"
+
+18:19:14.846,RX,"Differential Pressure values:"
+
+18:19:14.848,RX,"-45.41"
+
+18:19:14.848,RX,"Pressure values:"
+
+18:19:14.848,RX,"9921.50"
+
+18:19:14.997,RX,"Differential Pressure values:"
+
+18:19:15.000,RX,"-83.51"
+
+18:19:15.000,RX,"Pressure values:"
+
+18:19:15.000,RX,"9883.40"
+
+18:19:15.146,RX,"Differential Pressure values:"
+
+18:19:15.147,RX,"-98.71"
+
+18:19:15.147,RX,"Pressure values:"
+
+18:19:15.150,RX,"9868.20"
+
+18:19:15.267,RX,"Differential Pressure values:"
+
+18:19:15.297,RX,"-100.31"
+
+18:19:15.297,RX,"Pressure values:"
+
+18:19:15.297,RX,"9866.60"
+
+18:19:15.446,RX,"Differential Pressure values:"
+
+18:19:15.447,RX,"-91.01"
+
+18:19:15.447,RX,"Pressure values:"
+
+18:19:15.448,RX,"9875.90"
+
+18:19:15.596,RX,"Differential Pressure values:"
+
+18:19:15.597,RX,"-85.91"
+
+18:19:15.597,RX,"Pressure values:"
+
+18:19:15.600,RX,"9881.00"
+
+18:19:15.746,RX,"Differential Pressure values:"
+
+18:19:15.747,RX,"-81.71"
+
+18:19:15.748,RX,"Pressure values:"
+
+18:19:15.748,RX,"9885.20"
+
+18:19:15.896,RX,"Differential Pressure values:"
+
+18:19:15.897,RX,"-86.11"
+
+18:19:15.898,RX,"Pressure values:"
+
+18:19:15.898,RX,"9880.80"
+
+18:19:16.016,RX,"Differential Pressure values:"
+
+18:19:16.045,RX,"-84.81"
+
+18:19:16.046,RX,"Pressure values:"
+
+18:19:16.049,RX,"9882.10"
+
+18:19:16.167,RX,"Differential Pressure values:"
+
+18:19:16.168,RX,"-89.71"
+
+18:19:16.168,RX,"Pressure values:"
+
+18:19:16.168,RX,"9877.20"
+
+18:19:16.316,RX,"Differential Pressure values:"
+
+18:19:16.317,RX,"-76.21"
+
+18:19:16.317,RX,"Pressure values:"
+
+18:19:16.318,RX,"9890.70"
+
+18:19:16.467,RX,"Differential Pressure values:"
+
+18:19:16.468,RX,"-58.61"
+
+18:19:16.468,RX,"Pressure values:"
+
+18:19:16.471,RX,"9908.30"
+
+18:19:16.616,RX,"Differential Pressure values:"
+
+18:19:16.618,RX,"-34.81"
+
+18:19:16.618,RX,"Pressure values:"
+
+18:19:16.618,RX,"9932.10"
+
+18:19:16.768,RX,"Differential Pressure values:"
+
+18:19:16.769,RX,"-23.21"
+
+18:19:16.769,RX,"Pressure values:"
+
+18:19:16.769,RX,"9943.70"
+
+18:19:16.916,RX,"Differential Pressure values:"
+
+18:19:16.917,RX,"-2.81"
+
+18:19:16.917,RX,"Pressure values:"
+
+18:19:16.920,RX,"9964.10"
+
+18:19:17.067,RX,"Differential Pressure values:"
+
+18:19:17.068,RX,"2.28"
+
+18:19:17.068,RX,"Pressure values:"
+
+18:19:17.068,RX,"9969.20"
+
+18:19:17.216,RX,"Differential Pressure values:"
+
+18:19:17.217,RX,"1.28"
+
+18:19:17.218,RX,"Pressure values:"
+
+18:19:17.218,RX,"9968.20"
+
+18:19:17.367,RX,"Differential Pressure values:"
+
+18:19:17.368,RX,"2.08"
+
+18:19:17.368,RX,"Pressure values:"
+
+18:19:17.370,RX,"9969.00"
+
+18:19:17.516,RX,"Differential Pressure values:"
+
+18:19:17.518,RX,"4.68"
+
+18:19:17.518,RX,"Pressure values:"
+
+18:19:17.518,RX,"9971.60"
+
+18:19:17.637,RX,"Differential Pressure values:"
+
+18:19:17.668,RX,"4.88"
+
+18:19:17.668,RX,"Pressure values:"
+
+18:19:17.668,RX,"9971.80"
+
+18:19:17.816,RX,"Differential Pressure values:"
+
+18:19:17.817,RX,"2.68"
+
+18:19:17.817,RX,"Pressure values:"
+
+18:19:17.820,RX,"9969.60"
+
+18:19:17.967,RX,"Differential Pressure values:"
+
+18:19:17.968,RX,"2.18"
+
+18:19:17.968,RX,"Pressure values:"
+
+18:19:17.968,RX,"9969.10"
+
+18:19:18.116,RX,"Differential Pressure values:"
+
+18:19:18.117,RX,"1.08"
+
+18:19:18.117,RX,"Pressure values:"
+
+18:19:18.117,RX,"9968.00"
+
+18:19:18.267,RX,"Differential Pressure values:"
+
+18:19:18.268,RX,"0.48"
+
+18:19:18.268,RX,"Pressure values:"
+
+18:19:18.270,RX,"9967.40"
+
+18:19:18.386,RX,"Differential Pressure values:"
+
+18:19:18.416,RX,"0.78"
+
+18:19:18.416,RX,"Pressure values:"
+
+18:19:18.417,RX,"9967.70"
+
+18:19:18.536,RX,"Differential Pressure values:"
+
+18:19:18.538,RX,"3.88"
+
+18:19:18.538,RX,"Pressure values:"
+
+18:19:18.538,RX,"9970.80"
+
+18:19:18.687,RX,"Differential Pressure values:"
+
+18:19:18.688,RX,"3.38"
+
+18:19:18.688,RX,"Pressure values:"
+
+18:19:18.688,RX,"9970.30"
+
+18:19:18.837,RX,"Differential Pressure values:"
+
+18:19:18.838,RX,"4.78"
+
+18:19:18.838,RX,"Pressure values:"
+
+18:19:18.838,RX,"9971.70"
+
+18:19:18.987,RX,"Differential Pressure values:"
+
+18:19:18.988,RX,"6.38"
+
+18:19:18.988,RX,"Pressure values:"
+
+18:19:18.988,RX,"9973.30"
+
+18:19:19.137,RX,"Differential Pressure values:"
+
+18:19:19.137,RX,"8.88"
+
+18:19:19.140,RX,"Pressure values:"
+
+18:19:19.140,RX,"9975.80"
+
+18:19:19.286,RX,"Differential Pressure values:"
+
+18:19:19.288,RX,"9.48"
+
+18:19:19.288,RX,"Pressure values:"
+
+18:19:19.288,RX,"9976.40"
+
+18:19:19.437,RX,"Differential Pressure values:"
+
+18:19:19.438,RX,"11.78"
+
+18:19:19.438,RX,"Pressure values:"
+
+18:19:19.438,RX,"9978.70"
+
+18:19:19.587,RX,"Differential Pressure values:"
+
+18:19:19.587,RX,"7.48"
+
+18:19:19.589,RX,"Pressure values:"
+
+18:19:19.589,RX,"9974.40"
+
+18:19:19.736,RX,"Differential Pressure values:"
+
+18:19:19.737,RX,"9.48"
+
+18:19:19.738,RX,"Pressure values:"
+
+18:19:19.738,RX,"9976.40"
+
+18:19:19.887,RX,"Differential Pressure values:"
+
+18:19:19.888,RX,"8.28"
+
+18:19:19.888,RX,"Pressure values:"
+
+18:19:19.888,RX,"9975.20"
+
+18:19:20.006,RX,"Differential Pressure values:"
+
+18:19:20.036,RX,"7.08"
+
+18:19:20.037,RX,"Pressure values:"
+
+18:19:20.037,RX,"9974.00"
+
+18:19:20.157,RX,"Differential Pressure values:"
+
+18:19:20.158,RX,"6.38"
+
+18:19:20.159,RX,"Pressure values:"
+
+18:19:20.188,RX,"9973.30"
+
+18:19:20.306,RX,"Differential Pressure values:"
+
+18:19:20.308,RX,"5.48"
+
+18:19:20.308,RX,"Pressure values:"
+
+18:19:20.308,RX,"9972.40"
+
+18:19:20.457,RX,"Differential Pressure values:"
+
+18:19:20.457,RX,"3.78"
+
+18:19:20.461,RX,"Pressure values:"
+
+18:19:20.489,RX,"9970.70"
+
+18:19:20.606,RX,"Differential Pressure values:"
+
+18:19:20.608,RX,"1.08"
+
+18:19:20.608,RX,"Pressure values:"
+
+18:19:20.608,RX,"9968.00"
+
+18:19:20.757,RX,"Differential Pressure values:"
+
+18:19:20.758,RX,"0.38"
+
+18:19:20.759,RX,"Pressure values:"
+
+18:19:20.789,RX,"9967.30"
+
+18:19:20.906,RX,"Differential Pressure values:"
+
+18:19:20.907,RX,"0.88"
+
+18:19:20.910,RX,"Pressure values:"
+
+18:19:20.910,RX,"9967.80"
+
+18:19:21.057,RX,"Differential Pressure values:"
+
+18:19:21.058,RX,"-1.91"
+
+18:19:21.059,RX,"Pressure values:"
+
+18:19:21.088,RX,"9965.00"
+
+18:19:21.206,RX,"Differential Pressure values:"
+
+18:19:21.208,RX,"-15.01"
+
+18:19:21.208,RX,"Pressure values:"
+
+18:19:21.208,RX,"9951.90"
+
+18:19:21.357,RX,"Differential Pressure values:"
+
+18:19:21.357,RX,"-48.21"
+
+18:19:21.361,RX,"Pressure values:"
+
+18:19:21.388,RX,"9918.70"
+
+18:19:21.506,RX,"Differential Pressure values:"
+
+18:19:21.508,RX,"-78.71"
+
+18:19:21.508,RX,"Pressure values:"
+
+18:19:21.508,RX,"9888.20"
+
+18:19:21.626,RX,"Differential Pressure values:"
+
+18:19:21.656,RX,"-89.51"
+
+18:19:21.656,RX,"Pressure values:"
+
+18:19:21.658,RX,"9877.40"
+
+18:19:21.806,RX,"Differential Pressure values:"
+
+18:19:21.807,RX,"-93.21"
+
+18:19:21.810,RX,"Pressure values:"
+
+18:19:21.810,RX,"9873.70"
+
+18:19:21.957,RX,"Differential Pressure values:"
+
+18:19:21.959,RX,"-87.41"
+
+18:19:21.959,RX,"Pressure values:"
+
+18:19:21.988,RX,"9879.50"
+
+18:19:22.106,RX,"Differential Pressure values:"
+
+18:19:22.108,RX,"-82.31"
+
+18:19:22.108,RX,"Pressure values:"
+
+18:19:22.108,RX,"9884.60"
+
+18:19:22.257,RX,"Differential Pressure values:"
+
+18:19:22.257,RX,"-95.41"
+
+18:19:22.260,RX,"Pressure values:"
+
+18:19:22.288,RX,"9871.50"
+
+18:19:22.376,RX,"Differential Pressure values:"
+
+18:19:22.406,RX,"-85.21"
+
+18:19:22.407,RX,"Pressure values:"
+
+18:19:22.407,RX,"9881.70"
+
+18:19:22.526,RX,"Differential Pressure values:"
+
+18:19:22.527,RX,"-80.21"
+
+18:19:22.527,RX,"Pressure values:"
+
+18:19:22.527,RX,"9886.70"
+
+18:19:22.677,RX,"Differential Pressure values:"
+
+18:19:22.677,RX,"-69.41"
+
+18:19:22.678,RX,"Pressure values:"
+
+18:19:22.678,RX,"9897.50"
+
+18:19:22.827,RX,"Differential Pressure values:"
+
+18:19:22.828,RX,"-56.81"
+
+18:19:22.828,RX,"Pressure values:"
+
+18:19:22.828,RX,"9910.10"
+
+18:19:22.977,RX,"Differential Pressure values:"
+
+18:19:22.978,RX,"-12.61"
+
+18:19:22.978,RX,"Pressure values:"
+
+18:19:22.978,RX,"9954.30"
+
+18:19:23.127,RX,"Differential Pressure values:"
+
+18:19:23.128,RX,"2.78"
+
+18:19:23.128,RX,"Pressure values:"
+
+18:19:23.128,RX,"9969.70"
+
+18:19:23.277,RX,"Differential Pressure values:"
+
+18:19:23.278,RX,"7.68"
+
+18:19:23.278,RX,"Pressure values:"
+
+18:19:23.278,RX,"9974.60"
+
+18:19:23.427,RX,"Differential Pressure values:"
+
+18:19:23.428,RX,"0.68"
+
+18:19:23.428,RX,"Pressure values:"
+
+18:19:23.428,RX,"9967.60"
+
+18:19:23.577,RX,"Differential Pressure values:"
+
+18:19:23.577,RX,"1.18"
+
+18:19:23.580,RX,"Pressure values:"
+
+18:19:23.580,RX,"9968.10"
+
+18:19:23.727,RX,"Differential Pressure values:"
+
+18:19:23.728,RX,"0.58"
+
+18:19:23.728,RX,"Pressure values:"
+
+18:19:23.728,RX,"9967.50"
+
+18:19:23.877,RX,"Differential Pressure values:"
+
+18:19:23.878,RX,"0.78"
+
+18:19:23.878,RX,"Pressure values:"
+
+18:19:23.878,RX,"9967.70"
+
+18:19:23.997,RX,"Differential Pressure values:"
+
+18:19:24.026,RX,"0.28"
+
+18:19:24.028,RX,"Pressure values:"
+
+18:19:24.029,RX,"9967.20"
+
+18:19:24.177,RX,"Differential Pressure values:"
+
+18:19:24.178,RX,"0.48"
+
+18:19:24.178,RX,"Pressure values:"
+
+18:19:24.178,RX,"9967.40"
+
+18:19:24.327,RX,"Differential Pressure values:"
+
+18:19:24.328,RX,"0.08"
+
+18:19:24.328,RX,"Pressure values:"
+
+18:19:24.328,RX,"9967.00"
+
+18:19:24.477,RX,"Differential Pressure values:"
+
+18:19:24.477,RX,"0.38"
+
+18:19:24.480,RX,"Pressure values:"
+
+18:19:24.480,RX,"9967.30"
+
+18:19:24.626,RX,"Differential Pressure values:"
+
+18:19:24.627,RX,"0.48"
+
+18:19:24.627,RX,"Pressure values:"
+
+18:19:24.628,RX,"9967.40"
+
+18:19:24.746,RX,"Differential Pressure values:"
+
+18:19:24.776,RX,"0.48"
+
+18:19:24.776,RX,"Pressure values:"
+
+18:19:24.778,RX,"9967.40"
+
+18:19:24.927,RX,"Differential Pressure values:"
+
+18:19:24.927,RX,"0.28"
+
+18:19:24.930,RX,"Pressure values:"
+
+18:19:24.930,RX,"9967.20"
+
+18:19:25.077,RX,"Differential Pressure values:"
+
+18:19:25.078,RX,"0.28"
+
+18:19:25.078,RX,"Pressure values:"
+
+18:19:25.078,RX,"9967.20"
+
+18:19:25.228,RX,"Differential Pressure values:"
+
+18:19:25.228,RX,"0.58"
+
+18:19:25.228,RX,"Pressure values:"
+
+18:19:25.229,RX,"9967.50"
+
+18:19:25.377,RX,"Differential Pressure values:"
+
+18:19:25.377,RX,"0.38"
+
+18:19:25.380,RX,"Pressure values:"
+
+18:19:25.380,RX,"9967.30"
+
+18:19:25.497,RX,"Differential Pressure values:"
+
+18:19:25.498,RX,"0.28"
+
+18:19:25.499,RX,"Pressure values:"
+
+18:19:25.501,RX,"9967.20"
+
+18:19:25.646,RX,"Differential Pressure values:"
+
+18:19:25.647,RX,"0.28"
+
+18:19:25.647,RX,"Pressure values:"
+
+18:19:25.647,RX,"9967.20"
+
+18:19:25.797,RX,"Differential Pressure values:"
+
+18:19:25.798,RX,"0.28"
+
+18:19:25.798,RX,"Pressure values:"
+
+18:19:25.798,RX,"9967.20"
+
+18:19:25.947,RX,"Differential Pressure values:"
+
+18:19:25.947,RX,"0.48"
+
+18:19:25.948,RX,"Pressure values:"
+
+18:19:25.950,RX,"9967.40"
+
+18:19:26.097,RX,"Differential Pressure values:"
+
+18:19:26.098,RX,"0.38"
+
+18:19:26.098,RX,"Pressure values:"
+
+18:19:26.098,RX,"9967.30"
+
+18:19:26.247,RX,"Differential Pressure values:"
+
+18:19:26.248,RX,"0.38"
+
+18:19:26.248,RX,"Pressure values:"
+
+18:19:26.248,RX,"9967.30"
+
+18:19:26.367,RX,"Differential Pressure values:"
+
+18:19:26.397,RX,"0.38"
+
+18:19:26.397,RX,"Pressure values:"
+
+18:19:26.398,RX,"9967.30"
+
+18:19:26.517,RX,"Differential Pressure values:"
+
+18:19:26.518,RX,"0.28"
+
+18:19:26.518,RX,"Pressure values:"
+
+18:19:26.519,RX,"9967.20"
+
+18:19:26.667,RX,"Differential Pressure values:"
+
+18:19:26.668,RX,"0.48"
+
+18:19:26.668,RX,"Pressure values:"
+
+18:19:26.668,RX,"9967.40"
+
+18:19:26.817,RX,"Differential Pressure values:"
+
+18:19:26.817,RX,"0.48"
+
+18:19:26.817,RX,"Pressure values:"
+
+18:19:26.819,RX,"9967.40"
+
+18:19:26.967,RX,"Differential Pressure values:"
+
+18:19:26.968,RX,"0.58"
+
+18:19:26.968,RX,"Pressure values:"
+
+18:19:26.968,RX,"9967.50"
+
+18:19:27.117,RX,"Differential Pressure values:"
+
+18:19:27.118,RX,"0.68"
+
+18:19:27.118,RX,"Pressure values:"
+
+18:19:27.118,RX,"9967.60"
+
+18:19:27.267,RX,"Differential Pressure values:"
+
+18:19:27.267,RX,"0.58"
+
+18:19:27.268,RX,"Pressure values:"
+
+18:19:27.270,RX,"9967.50"
+
+18:19:27.417,RX,"Differential Pressure values:"
+
+18:19:27.418,RX,"0.18"
+
+18:19:27.419,RX,"Pressure values:"
+
+18:19:27.419,RX,"9967.10"
+
+18:19:27.567,RX,"Differential Pressure values:"
+
+18:19:27.567,RX,"0.38"
+
+18:19:27.567,RX,"Pressure values:"
+
+18:19:27.568,RX,"9967.30"
+
+18:19:27.717,RX,"Differential Pressure values:"
+
+18:19:27.718,RX,"0.38"
+
+18:19:27.718,RX,"Pressure values:"
+
+18:19:27.720,RX,"9967.30"
+
+18:19:27.867,RX,"Differential Pressure values:"
+
+18:19:27.868,RX,"0.28"
+
+18:19:27.868,RX,"Pressure values:"
+
+18:19:27.868,RX,"9967.20"
+
+18:19:27.987,RX,"Differential Pressure values:"
+
+18:19:28.016,RX,"0.38"
+
+18:19:28.016,RX,"Pressure values:"
+
+18:19:28.018,RX,"9967.30"
+
+18:19:28.136,RX,"Differential Pressure values:"
+
+18:19:28.137,RX,"0.48"
+
+18:19:28.137,RX,"Pressure values:"
+
+18:19:28.140,RX,"9967.40"
+
+18:19:28.287,RX,"Differential Pressure values:"
+
+18:19:28.288,RX,"0.48"
+
+18:19:28.288,RX,"Pressure values:"
+
+18:19:28.288,RX,"9967.40"
+
+18:19:28.440,RX,"Differential Pressure values:"
+
+18:19:28.441,RX,"0.38"
+
+18:19:28.441,RX,"Pressure values:"
+
+18:19:28.441,RX,"9967.30"
+
+18:19:28.587,RX,"Differential Pressure values:"
+
+18:19:28.588,RX,"0.48"
+
+18:19:28.588,RX,"Pressure values:"
+
+18:19:28.588,RX,"9967.40"
+
+18:19:28.736,RX,"Differential Pressure values:"
+
+18:19:28.738,RX,"0.28"
+
+18:19:28.738,RX,"Pressure values:"
+
+18:19:28.738,RX,"9967.20"
+
+18:19:28.887,RX,"Differential Pressure values:"
+
+18:19:28.888,RX,"0.38"
+
+18:19:28.888,RX,"Pressure values:"
+
+18:19:28.889,RX,"9967.30"
+
+18:19:29.037,RX,"Differential Pressure values:"
+
+18:19:29.037,RX,"0.38"
+
+18:19:29.040,RX,"Pressure values:"
+
+18:19:29.040,RX,"9967.30"
+
+18:19:29.186,RX,"Differential Pressure values:"
+
+18:19:29.187,RX,"0.48"
+
+18:19:29.187,RX,"Pressure values:"
+
+18:19:29.188,RX,"9967.40"
+
+18:19:29.336,RX,"Differential Pressure values:"
+
+18:19:29.338,RX,"0.38"
+
+18:19:29.338,RX,"Pressure values:"
+
+18:19:29.338,RX,"9967.30"
+
+18:19:29.490,RX,"Differential Pressure values:"
+
+18:19:29.492,RX,"0.38"
+
+18:19:29.493,RX,"Pressure values:"
+
+18:19:29.493,RX,"9967.30"
+
+18:19:29.607,RX,"Differential Pressure values:"
+
+18:19:29.637,RX,"0.38"
+
+18:19:29.638,RX,"Pressure values:"
+
+18:19:29.638,RX,"9967.30"
+
+18:19:29.787,RX,"Differential Pressure values:"
+
+18:19:29.788,RX,"0.18"
+
+18:19:29.788,RX,"Pressure values:"
+
+18:19:29.788,RX,"9967.10"
+
+18:19:29.937,RX,"Differential Pressure values:"
+
+18:19:29.938,RX,"0.38"
+
+18:19:29.938,RX,"Pressure values:"
+
+18:19:29.938,RX,"9967.30"
+
+18:19:30.087,RX,"Differential Pressure values:"
+
+18:19:30.088,RX,"0.38"
+
+18:19:30.088,RX,"Pressure values:"
+
+18:19:30.088,RX,"9967.30"
+
+18:19:30.237,RX,"Differential Pressure values:"
+
+18:19:30.238,RX,"0.38"
+
+18:19:30.238,RX,"Pressure values:"
+
+18:19:30.238,RX,"9967.30"
+
+18:19:30.357,RX,"Differential Pressure values:"
+
+18:19:30.387,RX,"0.18"
+
+18:19:30.390,RX,"Pressure values:"
+
+18:19:30.390,RX,"9967.10"
+
+18:19:30.507,RX,"Differential Pressure values:"
+
+18:19:30.508,RX,"0.38"
+
+18:19:30.508,RX,"Pressure values:"
+
+18:19:30.508,RX,"9967.30"
+
+18:19:30.656,RX,"Differential Pressure values:"
+
+18:19:30.657,RX,"0.48"
+
+18:19:30.657,RX,"Pressure values:"
+
+18:19:30.686,RX,"9967.40"
+
+18:19:30.807,RX,"Differential Pressure values:"
+
+18:19:30.807,RX,"0.48"
+
+18:19:30.810,RX,"Pressure values:"
+
+18:19:30.810,RX,"9967.40"
+
+18:19:30.958,RX,"Differential Pressure values:"
+
+18:19:30.959,RX,"0.38"
+
+18:19:30.959,RX,"Pressure values:"
+
+18:19:30.988,RX,"9967.30"
+
+18:19:31.107,RX,"Differential Pressure values:"
+
+18:19:31.107,RX,"0.48"
+
+18:19:31.107,RX,"Pressure values:"
+
+18:19:31.108,RX,"9967.40"
+
+18:19:31.256,RX,"Differential Pressure values:"
+
+18:19:31.257,RX,"0.48"
+
+18:19:31.258,RX,"Pressure values:"
+
+18:19:31.286,RX,"9967.40"
+
+18:19:31.407,RX,"Differential Pressure values:"
+
+18:19:31.408,RX,"0.38"
+
+18:19:31.408,RX,"Pressure values:"
+
+18:19:31.411,RX,"9967.30"
+
+18:19:31.557,RX,"Differential Pressure values:"
+
+18:19:31.559,RX,"0.48"
+
+18:19:31.559,RX,"Pressure values:"
+
+18:19:31.587,RX,"9967.40"
+
+18:19:31.707,RX,"Differential Pressure values:"
+
+18:19:31.708,RX,"0.38"
+
+18:19:31.708,RX,"Pressure values:"
+
+18:19:31.708,RX,"9967.30"
+
+18:19:31.857,RX,"Differential Pressure values:"
+
+18:19:31.858,RX,"0.48"
+
+18:19:31.858,RX,"Pressure values:"
+
+18:19:31.885,RX,"9967.40"
+
+18:19:31.976,RX,"Differential Pressure values:"
+
+18:19:32.006,RX,"0.48"
+
+18:19:32.006,RX,"Pressure values:"
+
+18:19:32.007,RX,"9967.40"
+
+18:19:32.157,RX,"Differential Pressure values:"
+
+18:19:32.158,RX,"0.28"
+
+18:19:32.158,RX,"Pressure values:"
+
+18:19:32.188,RX,"9967.20"
+
+18:19:32.307,RX,"Differential Pressure values:"
+
+18:19:32.307,RX,"0.38"
+
+18:19:32.308,RX,"Pressure values:"
+
+18:19:32.310,RX,"9967.30"
+
+18:19:32.459,RX,"Differential Pressure values:"
+
+18:19:32.460,RX,"0.28"
+
+18:19:32.460,RX,"Pressure values:"
+
+18:19:32.488,RX,"9967.20"
+
+18:19:32.607,RX,"Differential Pressure values:"
+
+18:19:32.607,RX,"0.38"
+
+18:19:32.608,RX,"Pressure values:"
+
+18:19:32.608,RX,"9967.30"
+
+18:19:32.727,RX,"Differential Pressure values:"
+
+18:19:32.756,RX,"0.38"
+
+18:19:32.756,RX,"Pressure values:"
+
+18:19:32.758,RX,"9967.30"
+
+18:19:32.877,RX,"Differential Pressure values:"
+
+18:19:32.878,RX,"0.48"
+
+18:19:32.878,RX,"Pressure values:"
+
+18:19:32.878,RX,"9967.40"
+
+18:19:33.027,RX,"Differential Pressure values:"
+
+18:19:33.028,RX,"0.18"
+
+18:19:33.028,RX,"Pressure values:"
+
+18:19:33.028,RX,"9967.10"
+
+18:19:33.177,RX,"Differential Pressure values:"
+
+18:19:33.177,RX,"0.68"
+
+18:19:33.178,RX,"Pressure values:"
+
+18:19:33.180,RX,"9967.60"
+
+18:19:33.327,RX,"Differential Pressure values:"
+
+18:19:33.328,RX,"0.38"
+
+18:19:33.328,RX,"Pressure values:"
+
+18:19:33.328,RX,"9967.30"
+
+18:19:33.477,RX,"Differential Pressure values:"
+
+18:19:33.478,RX,"0.48"
+
+18:19:33.478,RX,"Pressure values:"
+
+18:19:33.478,RX,"9967.40"
+
+18:19:33.597,RX,"Differential Pressure values:"
+
+18:19:33.627,RX,"0.28"
+
+18:19:33.627,RX,"Pressure values:"
+
+18:19:33.628,RX,"9967.20"
+
+18:19:33.777,RX,"Differential Pressure values:"
+
+18:19:33.778,RX,"0.28"
+
+18:19:33.778,RX,"Pressure values:"
+
+18:19:33.778,RX,"9967.20"
+
+18:19:33.927,RX,"Differential Pressure values:"
+
+18:19:33.928,RX,"0.38"
+
+18:19:33.928,RX,"Pressure values:"
+
+18:19:33.928,RX,"9967.30"
+
+18:19:34.077,RX,"Differential Pressure values:"
+
+18:19:34.077,RX,"0.48"
+
+18:19:34.077,RX,"Pressure values:"
+
+18:19:34.080,RX,"9967.40"
+
+18:19:34.227,RX,"Differential Pressure values:"
+
+18:19:34.228,RX,"0.48"
+
+18:19:34.228,RX,"Pressure values:"
+
+18:19:34.228,RX,"9967.40"
+
+18:19:34.350,RX,"Differential Pressure values:"
+
+18:19:34.350,RX,"0.28"
+
+18:19:34.351,RX,"Pressure values:"
+
+18:19:34.351,RX,"9967.20"
+
+18:19:34.497,RX,"Differential Pressure values:"
+
+18:19:34.497,RX,"0.38"
+
+18:19:34.500,RX,"Pressure values:"
+
+18:19:34.500,RX,"9967.30"
+
+18:19:34.647,RX,"Differential Pressure values:"
+
+18:19:34.648,RX,"0.38"
+
+18:19:34.648,RX,"Pressure values:"
+
+18:19:34.648,RX,"9967.30"
+
+18:19:34.796,RX,"Differential Pressure values:"
+
+18:19:34.797,RX,"0.48"
+
+18:19:34.797,RX,"Pressure values:"
+
+18:19:34.798,RX,"9967.40"
+
+18:19:34.947,RX,"Differential Pressure values:"
+
+18:19:34.947,RX,"0.38"
+
+18:19:34.950,RX,"Pressure values:"
+
+18:19:34.950,RX,"9967.30"
+
+18:19:35.097,RX,"Differential Pressure values:"
+
+18:19:35.098,RX,"0.58"
+
+18:19:35.098,RX,"Pressure values:"
+
+18:19:35.098,RX,"9967.50"
+
+18:19:35.246,RX,"Differential Pressure values:"
+
+18:19:35.247,RX,"0.28"
+
+18:19:35.247,RX,"Pressure values:"
+
+18:19:35.249,RX,"9967.20"
+
+18:19:35.397,RX,"Differential Pressure values:"
+
+18:19:35.397,RX,"0.48"
+
+18:19:35.400,RX,"Pressure values:"
+
+18:19:35.400,RX,"9967.40"
+
+18:19:35.547,RX,"Differential Pressure values:"
+
+18:19:35.576,RX,"0.28"
+
+18:19:35.606,RX,"Pressure values:"
+
+18:19:35.607,RX,"9967.20"
+
+18:19:35.697,RX,"Differential Pressure values:"
+
+18:19:35.698,RX,"0.58"
+
+18:19:35.698,RX,"Pressure values:"
+
+18:19:35.698,RX,"9967.50"
+
+18:19:35.847,RX,"Differential Pressure values:"
+
+18:19:35.847,RX,"0.48"
+
+18:19:35.850,RX,"Pressure values:"
+
+18:19:35.850,RX,"9967.40"
+
+18:19:35.967,RX,"Differential Pressure values:"
+
+18:19:35.997,RX,"0.38"
+
+18:19:35.997,RX,"Pressure values:"
+
+18:19:35.997,RX,"9967.30"
+
+18:19:36.147,RX,"Differential Pressure values:"
+
+18:19:36.148,RX,"0.38"
+
+18:19:36.148,RX,"Pressure values:"
+
+18:19:36.148,RX,"9967.30"
+
+18:19:36.297,RX,"Differential Pressure values:"
+
+18:19:36.298,RX,"0.38"
+
+18:19:36.300,RX,"Pressure values:"
+
+18:19:36.300,RX,"9967.30"
+
+18:19:36.447,RX,"Differential Pressure values:"
+
+18:19:36.448,RX,"0.28"
+
+18:19:36.448,RX,"Pressure values:"
+
+18:19:36.448,RX,"9967.20"
+
+18:19:36.597,RX,"Differential Pressure values:"
+
+18:19:36.597,RX,"0.58"
+
+18:19:36.598,RX,"Pressure values:"
+
+18:19:36.598,RX,"9967.50"
+
+18:19:36.716,RX,"Differential Pressure values:"
+
+18:19:36.747,RX,"0.38"
+
+18:19:36.750,RX,"Pressure values:"
+
+18:19:36.750,RX,"9967.30"
+
+18:19:36.867,RX,"Differential Pressure values:"
+
+18:19:36.868,RX,"0.28"
+
+18:19:36.868,RX,"Pressure values:"
+
+18:19:36.868,RX,"9967.20"
+
+18:19:37.017,RX,"Differential Pressure values:"
+
+18:19:37.018,RX,"0.48"
+
+18:19:37.018,RX,"Pressure values:"
+
+18:19:37.018,RX,"9967.40"
+
+18:19:37.167,RX,"Differential Pressure values:"
+
+18:19:37.168,RX,"0.48"
+
+18:19:37.168,RX,"Pressure values:"
+
+18:19:37.168,RX,"9967.40"
+
+18:19:37.317,RX,"Differential Pressure values:"
+
+18:19:37.318,RX,"0.38"
+
+18:19:37.318,RX,"Pressure values:"
+
+18:19:37.321,RX,"9967.30"
+
+18:19:37.467,RX,"Differential Pressure values:"
+
+18:19:37.468,RX,"0.28"
+
+18:19:37.469,RX,"Pressure values:"
+
+18:19:37.469,RX,"9967.20"
+
+18:19:37.617,RX,"Differential Pressure values:"
+
+18:19:37.618,RX,"0.38"
+
+18:19:37.618,RX,"Pressure values:"
+
+18:19:37.618,RX,"9967.30"
+
+18:19:37.767,RX,"Differential Pressure values:"
+
+18:19:37.768,RX,"0.38"
+
+18:19:37.768,RX,"Pressure values:"
+
+18:19:37.770,RX,"9967.30"
+
+18:19:37.917,RX,"Differential Pressure values:"
+
+18:19:37.918,RX,"0.28"
+
+18:19:37.918,RX,"Pressure values:"
+
+18:19:37.918,RX,"9967.20"
+
+18:19:38.067,RX,"Differential Pressure values:"
+
+18:19:38.068,RX,"0.38"
+
+18:19:38.068,RX,"Pressure values:"
+
+18:19:38.068,RX,"9967.30"
+
+18:19:38.217,RX,"Differential Pressure values:"
+
+18:19:38.217,RX,"0.48"
+
+18:19:38.218,RX,"Pressure values:"
+
+18:19:38.220,RX,"9967.40"
+
+18:19:38.337,RX,"Differential Pressure values:"
+
+18:19:38.368,RX,"0.68"
+
+18:19:38.369,RX,"Pressure values:"
+
+18:19:38.369,RX,"9967.60"
+
+18:19:38.517,RX,"Differential Pressure values:"
+
+18:19:38.518,RX,"0.48"
+
+18:19:38.518,RX,"Pressure values:"
+
+18:19:38.518,RX,"9967.40"
+
+18:19:38.667,RX,"Differential Pressure values:"
+
+18:19:38.668,RX,"0.48"
+
+18:19:38.668,RX,"Pressure values:"
+
+18:19:38.671,RX,"9967.40"
+
+18:19:38.817,RX,"Differential Pressure values:"
+
+18:19:38.818,RX,"0.38"
+
+18:19:38.818,RX,"Pressure values:"
+
+18:19:38.818,RX,"9967.30"
+
+18:19:38.967,RX,"Differential Pressure values:"
+
+18:19:38.969,RX,"0.38"
+
+18:19:38.969,RX,"Pressure values:"
+
+18:19:38.969,RX,"9967.30"
+
+18:19:39.088,RX,"Differential Pressure values:"
+
+18:19:39.117,RX,"0.48"
+
+18:19:39.118,RX,"Pressure values:"
+
+18:19:39.119,RX,"9967.40"
+
+18:19:39.267,RX,"Differential Pressure values:"
+
+18:19:39.269,RX,"0.48"
+
+18:19:39.269,RX,"Pressure values:"
+
+18:19:39.269,RX,"9967.40"
+
+18:19:39.417,RX,"Differential Pressure values:"
+
+18:19:39.418,RX,"0.38"
+
+18:19:39.418,RX,"Pressure values:"
+
+18:19:39.418,RX,"9967.30"
+
+18:19:39.567,RX,"Differential Pressure values:"
+
+18:19:39.568,RX,"0.58"
+
+18:19:39.568,RX,"Pressure values:"
+
+18:19:39.569,RX,"9967.50"
+
+18:19:39.717,RX,"Differential Pressure values:"
+
+18:19:39.718,RX,"0.58"
+
+18:19:39.718,RX,"Pressure values:"
+
+18:19:39.718,RX,"9967.50"
+
+18:19:39.836,RX,"Differential Pressure values:"
+
+18:19:39.866,RX,"0.48"
+
+18:19:39.868,RX,"Pressure values:"
+
+18:19:39.868,RX,"9967.40"
+
+18:19:40.017,RX,"Differential Pressure values:"
+
+18:19:40.018,RX,"0.48"
+
+18:19:40.018,RX,"Pressure values:"
+
+18:19:40.020,RX,"9967.40"
+
+18:19:40.167,RX,"Differential Pressure values:"
+
+18:19:40.168,RX,"0.48"
+
+18:19:40.168,RX,"Pressure values:"
+
+18:19:40.168,RX,"9967.40"
+
+18:19:40.321,RX,"Differential Pressure values:"
+
+18:19:40.321,RX,"0.38"
+
+18:19:40.322,RX,"Pressure values:"
+
+18:19:40.322,RX,"9967.30"
+
+18:19:40.466,RX,"Differential Pressure values:"
+
+18:19:40.467,RX,"0.38"
+
+18:19:40.470,RX,"Pressure values:"
+
+18:19:40.470,RX,"9967.30"
+
+18:19:40.617,RX,"Differential Pressure values:"
+
+18:19:40.618,RX,"0.38"
+
+18:19:40.618,RX,"Pressure values:"
+
+18:19:40.618,RX,"9967.30"
+
+18:19:40.767,RX,"Differential Pressure values:"
+
+18:19:40.768,RX,"0.58"
+
+18:19:40.769,RX,"Pressure values:"
+
+18:19:40.769,RX,"9967.50"
+
+18:19:40.917,RX,"Differential Pressure values:"
+
+18:19:40.918,RX,"0.58"
+
+18:19:40.921,RX,"Pressure values:"
+
+18:19:40.948,RX,"9967.50"
+
+18:19:41.037,RX,"Differential Pressure values:"
+
+18:19:41.067,RX,"0.48"
+
+18:19:41.067,RX,"Pressure values:"
+
+18:19:41.067,RX,"9967.40"
+
+18:19:41.217,RX,"Differential Pressure values:"
+
+18:19:41.218,RX,"0.38"
+
+18:19:41.218,RX,"Pressure values:"
+
+18:19:41.218,RX,"9967.30"
+
+18:19:41.367,RX,"Differential Pressure values:"
+
+18:19:41.368,RX,"0.28"
+
+18:19:41.370,RX,"Pressure values:"
+
+18:19:41.371,RX,"9967.20"
+
+18:19:41.517,RX,"Differential Pressure values:"
+
+18:19:41.518,RX,"0.58"
+
+18:19:41.518,RX,"Pressure values:"
+
+18:19:41.518,RX,"9967.50"
+
+18:19:41.667,RX,"Differential Pressure values:"
+
+18:19:41.668,RX,"0.68"
+
+18:19:41.668,RX,"Pressure values:"
+
+18:19:41.668,RX,"9967.60"
+
+18:19:41.787,RX,"Differential Pressure values:"
+
+18:19:41.816,RX,"0.38"
+
+18:19:41.819,RX,"Pressure values:"
+
+18:19:41.819,RX,"9967.30"
+
+18:19:41.937,RX,"Differential Pressure values:"
+
+18:19:41.938,RX,"0.58"
+
+18:19:41.938,RX,"Pressure values:"
+
+18:19:41.938,RX,"9967.50"
+
+18:19:42.087,RX,"Differential Pressure values:"
+
+18:19:42.088,RX,"0.48"
+
+18:19:42.088,RX,"Pressure values:"
+
+18:19:42.088,RX,"9967.40"
+
+18:19:42.237,RX,"Differential Pressure values:"
+
+18:19:42.238,RX,"0.58"
+
+18:19:42.240,RX,"Pressure values:"
+
+18:19:42.240,RX,"9967.50"
+
+18:19:42.387,RX,"Differential Pressure values:"
+
+18:19:42.388,RX,"0.48"
+
+18:19:42.388,RX,"Pressure values:"
+
+18:19:42.388,RX,"9967.40"
+
+18:19:42.537,RX,"Differential Pressure values:"
+
+18:19:42.538,RX,"0.58"
+
+18:19:42.539,RX,"Pressure values:"
+
+18:19:42.539,RX,"9967.50"
+
+18:19:42.687,RX,"Differential Pressure values:"
+
+18:19:42.688,RX,"0.38"
+
+18:19:42.690,RX,"Pressure values:"
+
+18:19:42.690,RX,"9967.30"
+
+18:19:42.837,RX,"Differential Pressure values:"
+
+18:19:42.838,RX,"0.58"
+
+18:19:42.838,RX,"Pressure values:"
+
+18:19:42.840,RX,"9967.50"
+
+18:19:42.987,RX,"Differential Pressure values:"
+
+18:19:42.988,RX,"0.58"
+
+18:19:42.989,RX,"Pressure values:"
+
+18:19:42.989,RX,"9967.50"
+
+18:19:43.137,RX,"Differential Pressure values:"
+
+18:19:43.138,RX,"0.58"
+
+18:19:43.138,RX,"Pressure values:"
+
+18:19:43.139,RX,"9967.50"
+
+18:19:43.288,RX,"Differential Pressure values:"
+
+18:19:43.289,RX,"0.48"
+
+18:19:43.289,RX,"Pressure values:"
+
+18:19:43.291,RX,"9967.40"
+
+18:19:43.437,RX,"Differential Pressure values:"
+
+18:19:43.438,RX,"0.48"
+
+18:19:43.438,RX,"Pressure values:"
+
+18:19:43.439,RX,"9967.40"
+
+18:19:43.587,RX,"Differential Pressure values:"
+
+18:19:43.588,RX,"0.78"
+
+18:19:43.588,RX,"Pressure values:"
+
+18:19:43.588,RX,"9967.70"
+
+18:19:43.737,RX,"Differential Pressure values:"
+
+18:19:43.738,RX,"0.38"
+
+18:19:43.738,RX,"Pressure values:"
+
+18:19:43.740,RX,"9967.30"
+
+18:19:43.887,RX,"Differential Pressure values:"
+
+18:19:43.888,RX,"0.58"
+
+18:19:43.888,RX,"Pressure values:"
+
+18:19:43.888,RX,"9967.50"
+
+18:19:44.036,RX,"Differential Pressure values:"
+
+18:19:44.037,RX,"0.58"
+
+18:19:44.037,RX,"Pressure values:"
+
+18:19:44.037,RX,"9967.50"
+
+18:19:44.157,RX,"Differential Pressure values:"
+
+18:19:44.187,RX,"0.38"
+
+18:19:44.187,RX,"Pressure values:"
+
+18:19:44.188,RX,"9967.30"
+
+18:19:44.337,RX,"Differential Pressure values:"
+
+18:19:44.338,RX,"0.38"
+
+18:19:44.338,RX,"Pressure values:"
+
+18:19:44.339,RX,"9967.30"
+
+18:19:44.487,RX,"Differential Pressure values:"
+
+18:19:44.488,RX,"0.58"
+
+18:19:44.488,RX,"Pressure values:"
+
+18:19:44.488,RX,"9967.50"
+
+18:19:44.637,RX,"Differential Pressure values:"
+
+18:19:44.638,RX,"0.58"
+
+18:19:44.638,RX,"Pressure values:"
+
+18:19:44.640,RX,"9967.50"
+
+18:19:44.787,RX,"Differential Pressure values:"
+
+18:19:44.788,RX,"0.58"
+
+18:19:44.788,RX,"Pressure values:"
+
+18:19:44.788,RX,"9967.50"
+
+18:19:44.936,RX,"Differential Pressure values:"
+
+18:19:44.937,RX,"0.68"
+
+18:19:44.937,RX,"Pressure values:"
+
+18:19:44.937,RX,"9967.60"
+
+18:19:45.087,RX,"Differential Pressure values:"
+
+18:19:45.088,RX,"0.08"
+
+18:19:45.088,RX,"Pressure values:"
+
+18:19:45.090,RX,"9967.00"
+
+18:19:45.237,RX,"Differential Pressure values:"
+
+18:19:45.238,RX,"0.48"
+
+18:19:45.238,RX,"Pressure values:"
+
+18:19:45.238,RX,"9967.40"
+
+18:19:45.387,RX,"Differential Pressure values:"
+
+18:19:45.388,RX,"0.48"
+
+18:19:45.388,RX,"Pressure values:"
+
+18:19:45.388,RX,"9967.40"
+
+18:19:45.537,RX,"Differential Pressure values:"
+
+18:19:45.566,RX,"0.28"
+
+18:19:45.596,RX,"Pressure values:"
+
+18:19:45.597,RX,"9967.20"
+
+18:19:45.718,RX,"Differential Pressure values:"
+
+18:19:45.718,RX,"0.48"
+
+18:19:45.718,RX,"Pressure values:"
+
+18:19:45.719,RX,"9967.40"
+
+18:19:45.867,RX,"Differential Pressure values:"
+
+18:19:45.868,RX,"0.38"
+
+18:19:45.868,RX,"Pressure values:"
+
+18:19:45.868,RX,"9967.30"
+
+18:19:45.987,RX,"Differential Pressure values:"
+
+18:19:46.016,RX,"0.48"
+
+18:19:46.017,RX,"Pressure values:"
+
+18:19:46.020,RX,"9967.40"
+
+18:19:46.167,RX,"Differential Pressure values:"
+
+18:19:46.169,RX,"0.48"
+
+18:19:46.170,RX,"Pressure values:"
+
+18:19:46.170,RX,"9967.40"
+
+18:19:46.321,RX,"Differential Pressure values:"
+
+18:19:46.322,RX,"0.38"
+
+18:19:46.322,RX,"Pressure values:"
+
+18:19:46.322,RX,"9967.30"
+
+18:19:46.467,RX,"Differential Pressure values:"
+
+18:19:46.467,RX,"0.58"
+
+18:19:46.471,RX,"Pressure values:"
+
+18:19:46.471,RX,"9967.50"
+
+18:19:46.616,RX,"Differential Pressure values:"
+
+18:19:46.617,RX,"0.58"
+
+18:19:46.617,RX,"Pressure values:"
+
+18:19:46.618,RX,"9967.50"
+
+18:19:46.736,RX,"Differential Pressure values:"
+
+18:19:46.766,RX,"0.28"
+
+18:19:46.767,RX,"Pressure values:"
+
+18:19:46.768,RX,"9967.20"
+
+18:19:46.916,RX,"Differential Pressure values:"
+
+18:19:46.917,RX,"0.08"
+
+18:19:46.918,RX,"Pressure values:"
+
+18:19:46.918,RX,"9967.00"
+
+18:19:47.066,RX,"Differential Pressure values:"
+
+18:19:47.067,RX,"0.38"
+
+18:19:47.067,RX,"Pressure values:"
+
+18:19:47.068,RX,"9967.30"
+
+18:19:47.217,RX,"Differential Pressure values:"
+
+18:19:47.218,RX,"0.38"
+
+18:19:47.218,RX,"Pressure values:"
+
+18:19:47.218,RX,"9967.30"
+
+18:19:47.367,RX,"Differential Pressure values:"
+
+18:19:47.367,RX,"0.48"
+
+18:19:47.370,RX,"Pressure values:"
+
+18:19:47.370,RX,"9967.40"
+
+18:19:47.487,RX,"Differential Pressure values:"
+
+18:19:47.516,RX,"0.38"
+
+18:19:47.517,RX,"Pressure values:"
+
+18:19:47.517,RX,"9967.30"
+
+18:19:47.636,RX,"Differential Pressure values:"
+
+18:19:47.639,RX,"0.38"
+
+18:19:47.639,RX,"Pressure values:"
+
+18:19:47.639,RX,"9967.30"
+
+18:19:47.787,RX,"Differential Pressure values:"
+
+18:19:47.788,RX,"0.48"
+
+18:19:47.790,RX,"Pressure values:"
+
+18:19:47.790,RX,"9967.40"
+
+18:19:47.937,RX,"Differential Pressure values:"
+
+18:19:47.938,RX,"0.38"
+
+18:19:47.938,RX,"Pressure values:"
+
+18:19:47.938,RX,"9967.30"
+
+18:19:48.087,RX,"Differential Pressure values:"
+
+18:19:48.088,RX,"0.18"
+
+18:19:48.088,RX,"Pressure values:"
+
+18:19:48.088,RX,"9967.10"
+
+18:19:48.237,RX,"Differential Pressure values:"
+
+18:19:48.238,RX,"0.28"
+
+18:19:48.240,RX,"Pressure values:"
+
+18:19:48.240,RX,"9967.20"
+
+18:19:48.387,RX,"Differential Pressure values:"
+
+18:19:48.388,RX,"0.48"
+
+18:19:48.388,RX,"Pressure values:"
+
+18:19:48.388,RX,"9967.40"
+
+18:19:48.537,RX,"Differential Pressure values:"
+
+18:19:48.538,RX,"0.08"
+
+18:19:48.538,RX,"Pressure values:"
+
+18:19:48.538,RX,"9967.00"
+
+18:19:48.687,RX,"Differential Pressure values:"
+
+18:19:48.688,RX,"1.38"
+
+18:19:48.690,RX,"Pressure values:"
+
+18:19:48.690,RX,"9968.30"
+
+18:19:48.837,RX,"Differential Pressure values:"
+
+18:19:48.838,RX,"2.18"
+
+18:19:48.838,RX,"Pressure values:"
+
+18:19:48.838,RX,"9969.10"
+
+18:19:48.987,RX,"Differential Pressure values:"
+
+18:19:48.988,RX,"1.68"
+
+18:19:48.988,RX,"Pressure values:"
+
+18:19:48.988,RX,"9968.60"
+
+18:19:49.106,RX,"Differential Pressure values:"
+
+18:19:49.136,RX,"1.58"
+
+18:19:49.139,RX,"Pressure values:"
+
+18:19:49.139,RX,"9968.50"
+
+18:19:49.288,RX,"Differential Pressure values:"
+
+18:19:49.288,RX,"1.68"
+
+18:19:49.289,RX,"Pressure values:"
+
+18:19:49.291,RX,"9968.60"
+
+18:19:49.437,RX,"Differential Pressure values:"
+
+18:19:49.438,RX,"1.68"
+
+18:19:49.438,RX,"Pressure values:"
+
+18:19:49.438,RX,"9968.60"
+
+18:19:49.590,RX,"Differential Pressure values:"
+
+18:19:49.591,RX,"0.98"
+
+18:19:49.592,RX,"Pressure values:"
+
+18:19:49.592,RX,"9967.90"
+
+18:19:49.737,RX,"Differential Pressure values:"
+
+18:19:49.738,RX,"0.98"
+
+18:19:49.738,RX,"Pressure values:"
+
+18:19:49.740,RX,"9967.90"
+
+18:19:49.857,RX,"Differential Pressure values:"
+
+18:19:49.887,RX,"0.78"
+
+18:19:49.887,RX,"Pressure values:"
+
+18:19:49.888,RX,"9967.70"
+
+18:19:50.036,RX,"Differential Pressure values:"
+
+18:19:50.037,RX,"0.18"
+
+18:19:50.038,RX,"Pressure values:"
+
+18:19:50.038,RX,"9967.10"
+
+18:19:50.187,RX,"Differential Pressure values:"
+
+18:19:50.188,RX,"0.38"
+
+18:19:50.188,RX,"Pressure values:"
+
+18:19:50.190,RX,"9967.30"
+
+18:19:50.337,RX,"Differential Pressure values:"
+
+18:19:50.338,RX,"0.28"
+
+18:19:50.338,RX,"Pressure values:"
+
+18:19:50.338,RX,"9967.20"
+
+18:19:50.487,RX,"Differential Pressure values:"
+
+18:19:50.488,RX,"0.58"
+
+18:19:50.488,RX,"Pressure values:"
+
+18:19:50.488,RX,"9967.50"
+
+18:19:50.607,RX,"Differential Pressure values:"
+
+18:19:50.636,RX,"0.28"
+
+18:19:50.637,RX,"Pressure values:"
+
+18:19:50.639,RX,"9967.20"
+
+18:19:50.757,RX,"Differential Pressure values:"
+
+18:19:50.759,RX,"0.48"
+
+18:19:50.759,RX,"Pressure values:"
+
+18:19:50.788,RX,"9967.40"
+
+18:19:50.907,RX,"Differential Pressure values:"
+
+18:19:50.910,RX,"0.58"
+
+18:19:50.910,RX,"Pressure values:"
+
+18:19:50.910,RX,"9967.50"
+
+18:19:51.057,RX,"Differential Pressure values:"
+
+18:19:51.059,RX,"0.48"
+
+18:19:51.059,RX,"Pressure values:"
+
+18:19:51.088,RX,"9967.40"
+
+18:19:51.207,RX,"Differential Pressure values:"
+
+18:19:51.208,RX,"0.48"
+
+18:19:51.208,RX,"Pressure values:"
+
+18:19:51.208,RX,"9967.40"
+
+18:19:51.358,RX,"Differential Pressure values:"
+
+18:19:51.359,RX,"0.48"
+
+18:19:51.359,RX,"Pressure values:"
+
+18:19:51.388,RX,"9967.40"
+
+18:19:51.507,RX,"Differential Pressure values:"
+
+18:19:51.507,RX,"0.38"
+
+18:19:51.508,RX,"Pressure values:"
+
+18:19:51.510,RX,"9967.30"
+
+18:19:51.657,RX,"Differential Pressure values:"
+
+18:19:51.659,RX,"0.38"
+
+18:19:51.659,RX,"Pressure values:"
+
+18:19:51.688,RX,"9967.30"
+
+18:19:51.807,RX,"Differential Pressure values:"
+
+18:19:51.808,RX,"0.38"
+
+18:19:51.808,RX,"Pressure values:"
+
+18:19:51.808,RX,"9967.30"
+
+18:19:51.956,RX,"Differential Pressure values:"
+
+18:19:51.957,RX,"0.38"
+
+18:19:51.958,RX,"Pressure values:"
+
+18:19:51.988,RX,"9967.30"
+
+18:19:52.108,RX,"Differential Pressure values:"
+
+18:19:52.108,RX,"0.48"
+
+18:19:52.108,RX,"Pressure values:"
+
+18:19:52.109,RX,"9967.40"
+
+18:19:52.230,RX,"Differential Pressure values:"
+
+18:19:52.231,RX,"0.38"
+
+18:19:52.231,RX,"Pressure values:"
+
+18:19:52.231,RX,"9967.30"
+
+18:19:52.376,RX,"Differential Pressure values:"
+
+18:19:52.377,RX,"0.38"
+
+18:19:52.379,RX,"Pressure values:"
+
+18:19:52.380,RX,"9967.30"
+

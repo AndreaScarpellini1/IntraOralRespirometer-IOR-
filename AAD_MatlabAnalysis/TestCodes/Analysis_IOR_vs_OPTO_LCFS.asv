@@ -1,0 +1,117 @@
+clc
+clear 
+close all
+directory = cd;
+%
+
+% Deciding the file--------------------------------------------------------
+nameRoot = 'LCFS_';
+% FILES: 1B; 1A
+num =1;
+phase = 'B'; 
+%
+% -------------------------------------------------------------------------
+%--------------------------------------------------------------------------
+[fileIOR,fileOPTO,pathIOR,~] = findFileInRepo(directory,nameRoot,num,phase);
+
+[Sf,timeIOR,accx,accy,accz,gyrox,gyroy,gyroz,pressure] = IORValuesExtraction(fileIOR);
+timeVol = fileOPTO(:, 1);      
+Volume = fileOPTO(:,5);
+Pressure= pressure;
+
+figure()
+plot(timeIOR - 29.9379,bandpass_filter(Pressure, 80, 0.1, 10))
+hold on 
+plot(timeVol - 4.3,Volume-mean(Volume))
+
+
+%%
+startOEP = 4.3;
+startIOR = 29.9379; 
+cutoffVol = 3;
+commontimestamps = [];
+[commonTime,alignedVolume,alignedPressure,Sf] = CommonTimeandSample(startOEP,startIOR,timeVol,timeIOR,Volume,Pressure);
+
+
+plott =1; 
+if plott
+    figure()
+    plot(commonTime,alignedPressure);
+    hold on 
+    plot(commonTime,alignedVolume)
+    legend('pressure','flow')
+end 
+
+alignedPressure = bandpass_filter(alignedPressure, Sf, 0.1, 8);
+alignedPressure = alignedPressure(1:end-1);
+Pressure_clean = replaceOutlierWithNeighborAverage(alignedPressure,3);
+    
+[Time,Flow]=fromVolumetoFlow(commonTime,alignedVolume,0.1,cutoffVol,Sf);
+Flow_clean = replaceOutlierWithNeighborAverage(Flow,4);
+commonTime = Time;
+close all
+
+figure()
+plot(commonTime,Flow_clean);
+hold on 
+plot(commonTime,Pressure_clean)
+legend('flow','Pressure')
+xlim([225 250])
+%%
+Pressure_clean(20002:20316)= 0.2.*Pressure_clean(20002:20316)+ Flow_clean(20002:20316);
+Pressure_clean(872:1761)= 0.2.*Pressure_clean(872:1761)+ Flow_clean(872:1761);
+Pressure_clean(23050:23236)= 0.2.*Pressure_clean(23050:23236)+ Flow_clean(23050:23236);
+Pressure_clean(28245:end)= 0.2.*Pressure_clean(28245:end)+ Flow_clean(28245:end);
+Pressure_clean(13768:14291)= 0.1.*Pressure_clean(13768:14291)+ Flow_clean(13768:14291);
+
+figure()
+plot(Flow_clean);
+hold on 
+plot(Pressure_clean)
+legend('flow','Pressure')
+%%
+commontimestamps = [6.26,45.33,64.46,99.86,134.07,156.43,];
+figure()
+scatter(Flow_clean,Pressure_clean,0.1)
+xlim([-4 4])
+ylim([-4 4])
+xline(0)
+yline(0)
+axis equal
+%%
+function y = bandpass_filter(x, sf, fLow, fHigh)
+% BANDPASS_FILTER Applies a band-pass Butterworth filter to a signal.
+%
+%   y = BANDPASS_FILTER(x, sf, fLow, fHigh)
+% 
+%   Inputs:
+%       x       - Input signal (vector)
+%       sf      - Sampling frequency (in Hz)
+%       fLow    - Lower cutoff frequency (in Hz)
+%       fHigh   - Upper cutoff frequency (in Hz)
+%
+%   Output:
+%       y       - Filtered signal
+
+    % Normalize frequencies to the Nyquist frequency
+    nyq = sf / 2;
+    Wn = [fLow, fHigh] / nyq;
+
+    % Choose the order of the Butterworth filter
+    filterOrder = 4;
+
+    % Design a bandpass Butterworth filter
+    [b, a] = butter(filterOrder, Wn, 'bandpass');
+
+    % Use filtfilt for zero-phase filtering (recommended for most applications)
+    y = filtfilt(b, a, x);
+end
+function [time, derivative] = fromVolumetoFlow(time,volume,fLow,fHigh,fs)
+    volfilt = bandpass_filter(volume, fs, fLow, fHigh);
+    derivative = diff(volfilt) ./ diff(time);
+    time = time(1:end-1);
+    derivative = -derivative;
+end
+
+
+
